@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バイオテクノロジーの進展</title>
+    <link>https://example.com/article94</link>
+    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
+    <pubDate>Fri, 27 Dec 2024 08:56:56 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>オンライン学習の効果的な活用法</title>
     <link>https://example.com/article78</link>
     <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 27 Dec 2024 07:37:57 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Fri, 27 Dec 2024 07:30:33 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
