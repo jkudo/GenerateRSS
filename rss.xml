@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートウォッチの活用術</title>
+    <link>https://example.com/article53</link>
+    <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
+    <pubDate>Fri, 27 Dec 2024 15:04:35 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>家庭菜園の始め方とコツ</title>
     <link>https://example.com/article16</link>
     <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 27 Dec 2024 09:27:21 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>初心者向けデジタルマーケティング戦略</title>
-    <link>https://example.com/article82</link>
-    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
-    <pubDate>Fri, 27 Dec 2024 09:17:46 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
