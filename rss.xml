@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的な時間管理術</title>
+    <link>https://example.com/article13</link>
+    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
+    <pubDate>Fri, 27 Dec 2024 17:04:17 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>最新カメラ機材レビュー</title>
     <link>https://example.com/article63</link>
     <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 27 Dec 2024 09:34:34 GMT</pubDate>
     <author>山田太郎</author>
     <category>フィンテック</category>
-  </item>
-  <item>
-    <title>料理初心者向け簡単レシピ集</title>
-    <link>https://example.com/article7</link>
-    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
-    <pubDate>Fri, 27 Dec 2024 09:34:15 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>料理</category>
   </item>
 </channel>
 </rss>
