@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能なファッションの未来</title>
+    <link>https://example.com/article31</link>
+    <description>持続可能なファッション業界の現状と未来について考察します。</description>
+    <pubDate>Fri, 27 Dec 2024 09:06:35 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>最新バイオテクノロジーの進展</title>
     <link>https://example.com/article94</link>
     <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
@@ -76,14 +84,6 @@
     <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
     <pubDate>Fri, 27 Dec 2024 07:44:52 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ビジネス成功のための戦略</title>
-    <link>https://example.com/article5</link>
-    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
-    <pubDate>Fri, 27 Dec 2024 07:37:57 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>ビジネス</category>
   </item>
 </channel>
