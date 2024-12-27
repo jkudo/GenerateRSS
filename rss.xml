@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビジネス成功のための戦略</title>
+    <link>https://example.com/article5</link>
+    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
+    <pubDate>Fri, 27 Dec 2024 07:37:57 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>都市生活と自然との調和</title>
     <link>https://example.com/article57</link>
     <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article73</link>
     <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
     <pubDate>Fri, 27 Dec 2024 06:09:55 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
-  </item>
-  <item>
-    <title>効果的なオンライン広告の手法</title>
-    <link>https://example.com/article98</link>
-    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
-    <pubDate>Fri, 27 Dec 2024 05:59:09 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
   </item>
