@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートホーム技術の最新動向</title>
+    <link>https://example.com/article37</link>
+    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
+    <pubDate>Fri, 27 Dec 2024 08:33:26 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>リモートワークの効率化ツール</title>
     <link>https://example.com/article33</link>
     <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 27 Dec 2024 07:10:16 GMT</pubDate>
     <author>山田太郎</author>
     <category>書評</category>
-  </item>
-  <item>
-    <title>最新スポーツギアのレビュー</title>
-    <link>https://example.com/article71</link>
-    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
-    <pubDate>Fri, 27 Dec 2024 06:59:29 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
