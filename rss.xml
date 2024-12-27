@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新映画レビュー: 『スターライト』</title>
+    <link>https://example.com/article4</link>
+    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
+    <pubDate>Fri, 27 Dec 2024 20:04:47 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新デジタルマーケティングツール</title>
     <link>https://example.com/article99</link>
     <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 27 Dec 2024 11:04:14 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>ペットと共に過ごす快適な生活</title>
-    <link>https://example.com/article38</link>
-    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
-    <pubDate>Fri, 27 Dec 2024 10:04:46 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
