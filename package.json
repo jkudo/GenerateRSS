@@ -1,0 +1,12 @@
+{
+  "name": "generate-rss",
+  "version": "1.0.0",
+  "description": "A sample repository for generating RSS feeds with GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "generate-rss": "node scripts/generate-rss.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.3.6"
+  }
+}
