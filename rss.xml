@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バーチャルリアリティ（VR）技術</title>
+    <link>https://example.com/article74</link>
+    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
+    <pubDate>Fri, 27 Dec 2024 06:23:01 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>初心者向けオンラインマーケティング</title>
     <link>https://example.com/article73</link>
     <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 27 Dec 2024 04:56:58 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>持続可能な建築デザインのトレンド</title>
-    <link>https://example.com/article84</link>
-    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
-    <pubDate>Fri, 27 Dec 2024 04:49:49 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>建築</category>
   </item>
 </channel>
 </rss>
