@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Sat, 28 Dec 2024 18:05:10 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>エコライフのすすめ</title>
     <link>https://example.com/article22</link>
     <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 28 Dec 2024 09:04:18 GMT</pubDate>
     <author>田中美咲</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>持続可能な食生活の提案</title>
-    <link>https://example.com/article72</link>
-    <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
-    <pubDate>Sat, 28 Dec 2024 08:05:30 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
