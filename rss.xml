@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコライフのすすめ</title>
+    <link>https://example.com/article22</link>
+    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
+    <pubDate>Sat, 28 Dec 2024 17:04:16 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>持ち運び便利なガジェット特集</title>
     <link>https://example.com/article35</link>
     <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 28 Dec 2024 08:05:30 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>効果的なSEO対策の方法</title>
-    <link>https://example.com/article85</link>
-    <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
-    <pubDate>Sat, 28 Dec 2024 07:04:29 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
