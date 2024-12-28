@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ウェアラブルデバイスの紹介</title>
+    <link>https://example.com/article83</link>
+    <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
+    <pubDate>Sat, 28 Dec 2024 06:05:41 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 27 Dec 2024 21:04:10 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新映画レビュー: 『スターライト』</title>
-    <link>https://example.com/article4</link>
-    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
-    <pubDate>Fri, 27 Dec 2024 20:04:47 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
