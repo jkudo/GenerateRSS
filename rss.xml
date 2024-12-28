@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新デジタルマーケティングツール</title>
+    <link>https://example.com/article99</link>
+    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
+    <pubDate>Sat, 28 Dec 2024 09:04:18 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>持続可能な食生活の提案</title>
     <link>https://example.com/article72</link>
     <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 28 Dec 2024 00:18:54 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新モバイルアプリの紹介</title>
-    <link>https://example.com/article96</link>
-    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
-    <pubDate>Fri, 27 Dec 2024 23:04:48 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
