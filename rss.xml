@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クリエイティブなアイデア発想法</title>
+    <link>https://example.com/article89</link>
+    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
+    <pubDate>Sun, 29 Dec 2024 03:12:24 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>持続可能な建築デザインのトレンド</title>
     <link>https://example.com/article84</link>
     <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 28 Dec 2024 18:05:10 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>エコライフのすすめ</title>
-    <link>https://example.com/article22</link>
-    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
-    <pubDate>Sat, 28 Dec 2024 17:04:16 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
