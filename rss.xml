@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Sun, 29 Dec 2024 18:05:17 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ビデオ編集ソフトの比較</title>
     <link>https://example.com/article86</link>
     <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 29 Dec 2024 09:04:22 GMT</pubDate>
     <author>山田太郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>プログラミング言語Pythonの基礎</title>
-    <link>https://example.com/article48</link>
-    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
-    <pubDate>Sun, 29 Dec 2024 08:05:44 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
