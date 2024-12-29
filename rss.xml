@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けオンラインマーケティング</title>
+    <link>https://example.com/article73</link>
+    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
+    <pubDate>Sun, 29 Dec 2024 22:04:21 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新カメラ機材レビュー</title>
     <link>https://example.com/article63</link>
     <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 29 Dec 2024 13:06:37 GMT</pubDate>
     <author>佐藤花子</author>
     <category>料理</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Sun, 29 Dec 2024 12:06:48 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
