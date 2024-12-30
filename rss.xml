@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バイオテクノロジーの進展</title>
+    <link>https://example.com/article94</link>
+    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
+    <pubDate>Mon, 30 Dec 2024 05:05:01 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>健康的なライフスタイルの秘訣</title>
     <link>https://example.com/article2</link>
     <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 29 Dec 2024 20:04:41 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>メンタルヘルスの重要性</title>
-    <link>https://example.com/article59</link>
-    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
-    <pubDate>Sun, 29 Dec 2024 19:04:07 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
