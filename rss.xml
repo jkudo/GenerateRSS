@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビデオ会議の効率的な活用方法</title>
+    <link>https://example.com/article23</link>
+    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
+    <pubDate>Mon, 30 Dec 2024 16:05:04 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>初心者向けデジタルマーケティング戦略</title>
     <link>https://example.com/article82</link>
     <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 30 Dec 2024 07:05:00 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>エンタープライズソフトウェアの選び方</title>
-    <link>https://example.com/article95</link>
-    <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
-    <pubDate>Mon, 30 Dec 2024 06:06:36 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
