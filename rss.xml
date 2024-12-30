@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Mon, 30 Dec 2024 08:06:30 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新ガジェットレビュー</title>
     <link>https://example.com/article17</link>
     <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
@@ -76,14 +84,6 @@
     <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
     <pubDate>Sun, 29 Dec 2024 23:04:28 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>マーケティング</category>
-  </item>
-  <item>
-    <title>初心者向けオンラインマーケティング</title>
-    <link>https://example.com/article73</link>
-    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
-    <pubDate>Sun, 29 Dec 2024 22:04:21 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>マーケティング</category>
   </item>
 </channel>
