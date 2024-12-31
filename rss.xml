@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネストレンド2024</title>
+    <link>https://example.com/article29</link>
+    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
+    <pubDate>Tue, 31 Dec 2024 09:04:54 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>ビデオ会議の効率的な活用方法</title>
     <link>https://example.com/article23</link>
     <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article87</link>
     <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
     <pubDate>Tue, 31 Dec 2024 00:19:23 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新ビジネス書ベストセラー紹介</title>
-    <link>https://example.com/article32</link>
-    <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
-    <pubDate>Mon, 30 Dec 2024 23:04:37 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
   </item>
