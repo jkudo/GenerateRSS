@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ウェアラブルデバイスの紹介</title>
+    <link>https://example.com/article83</link>
+    <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
+    <pubDate>Tue, 31 Dec 2024 13:07:42 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
     <link>https://example.com/article21</link>
     <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 31 Dec 2024 04:05:44 GMT</pubDate>
     <author>田中美咲</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>エコライフのすすめ</title>
-    <link>https://example.com/article22</link>
-    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
-    <pubDate>Tue, 31 Dec 2024 03:07:37 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
