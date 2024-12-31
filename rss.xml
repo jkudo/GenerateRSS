@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新デジタルマーケティングツール</title>
+    <link>https://example.com/article99</link>
+    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
+    <pubDate>Tue, 31 Dec 2024 04:05:44 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>エコライフのすすめ</title>
     <link>https://example.com/article22</link>
     <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 30 Dec 2024 19:04:04 GMT</pubDate>
     <author>山田太郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Mon, 30 Dec 2024 18:05:49 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
