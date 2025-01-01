@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>メンタルヘルスの重要性</title>
+    <link>https://example.com/article59</link>
+    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
+    <pubDate>Wed, 01 Jan 2025 03:13:28 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 31 Dec 2024 18:05:35 GMT</pubDate>
     <author>田中美咲</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>家庭でできる簡単エクササイズ</title>
-    <link>https://example.com/article68</link>
-    <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
-    <pubDate>Tue, 31 Dec 2024 17:04:17 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
