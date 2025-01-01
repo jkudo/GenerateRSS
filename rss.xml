@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スポーツギアのレビュー</title>
+    <link>https://example.com/article71</link>
+    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
+    <pubDate>Wed, 01 Jan 2025 19:04:27 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>働き方改革とその影響</title>
     <link>https://example.com/article27</link>
     <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 01 Jan 2025 10:04:54 GMT</pubDate>
     <author>佐藤花子</author>
     <category>趣味</category>
-  </item>
-  <item>
-    <title>持続可能な農業の未来</title>
-    <link>https://example.com/article97</link>
-    <description>持続可能な農業技術とその未来について考察します。</description>
-    <pubDate>Wed, 01 Jan 2025 09:04:53 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
