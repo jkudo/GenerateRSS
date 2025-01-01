@@ -10,6 +10,14 @@
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
+    <pubDate>Wed, 01 Jan 2025 06:06:30 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
+    <title>最新モバイルアプリの紹介</title>
+    <link>https://example.com/article96</link>
+    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
     <pubDate>Wed, 01 Jan 2025 05:04:57 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 31 Dec 2024 21:04:36 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>アートセラピーの効果と実践方法</title>
-    <link>https://example.com/article36</link>
-    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
-    <pubDate>Tue, 31 Dec 2024 20:04:51 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
