@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>都市生活と自然との調和</title>
+    <link>https://example.com/article57</link>
+    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
+    <pubDate>Wed, 01 Jan 2025 12:07:28 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>効果的なSEO対策の方法</title>
     <link>https://example.com/article85</link>
     <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 01 Jan 2025 03:13:28 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新モバイルアプリの紹介</title>
-    <link>https://example.com/article96</link>
-    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
-    <pubDate>Wed, 01 Jan 2025 02:30:07 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
