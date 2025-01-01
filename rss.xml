@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新モバイルアプリの紹介</title>
+    <link>https://example.com/article96</link>
+    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
+    <pubDate>Wed, 01 Jan 2025 05:04:57 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>オンラインプライバシーの保護方法</title>
     <link>https://example.com/article66</link>
     <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 31 Dec 2024 20:04:51 GMT</pubDate>
     <author>山田太郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新ビジネスインサイト: データ分析の重要性</title>
-    <link>https://example.com/article45</link>
-    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
-    <pubDate>Tue, 31 Dec 2024 19:04:30 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
