@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向け写真撮影ガイド</title>
+    <link>https://example.com/article42</link>
+    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
+    <pubDate>Thu, 02 Jan 2025 06:06:31 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>趣味</category>
+  </item>
+  <item>
     <title>効率的なチームコミュニケーション方法</title>
     <link>https://example.com/article62</link>
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 01 Jan 2025 21:04:35 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新フィットネストレンド2024</title>
-    <link>https://example.com/article29</link>
-    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
-    <pubDate>Wed, 01 Jan 2025 20:04:49 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
