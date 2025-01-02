@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的な時間管理術</title>
+    <link>https://example.com/article13</link>
+    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
+    <pubDate>Thu, 02 Jan 2025 23:04:42 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>持続可能な農業の未来</title>
     <link>https://example.com/article97</link>
     <description>持続可能な農業技術とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 02 Jan 2025 14:04:24 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>持続可能な都市計画の事例</title>
-    <link>https://example.com/article64</link>
-    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
-    <pubDate>Thu, 02 Jan 2025 13:07:52 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
