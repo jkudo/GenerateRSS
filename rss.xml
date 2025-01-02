@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Thu, 02 Jan 2025 16:05:24 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>初心者向けブログの始め方</title>
     <link>https://example.com/article55</link>
     <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 02 Jan 2025 07:05:00 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Thu, 02 Jan 2025 06:06:31 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
