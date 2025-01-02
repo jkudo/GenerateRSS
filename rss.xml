@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な都市計画の事例</title>
+    <link>https://example.com/article64</link>
+    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
+    <pubDate>Thu, 02 Jan 2025 13:07:52 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>リモートチームのマネジメント術</title>
     <link>https://example.com/article87</link>
     <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
@@ -76,14 +84,6 @@
     <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
     <pubDate>Thu, 02 Jan 2025 04:05:45 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新カメラ機材レビュー</title>
-    <link>https://example.com/article63</link>
-    <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
-    <pubDate>Thu, 02 Jan 2025 03:07:38 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>テクノロジー</category>
   </item>
 </channel>
