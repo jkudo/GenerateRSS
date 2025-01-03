@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>東京で訪れるべき観光スポット10選</title>
+    <link>https://example.com/article3</link>
+    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
+    <pubDate>Fri, 03 Jan 2025 03:08:30 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>ヨガで心と体をリフレッシュ</title>
     <link>https://example.com/article9</link>
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 02 Jan 2025 18:06:00 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>初心者向けオンラインマーケティング</title>
-    <link>https://example.com/article73</link>
-    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
-    <pubDate>Thu, 02 Jan 2025 17:04:21 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
