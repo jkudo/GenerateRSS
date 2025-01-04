@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインプライバシーの保護方法</title>
+    <link>https://example.com/article66</link>
+    <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
+    <pubDate>Sat, 04 Jan 2025 19:04:02 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>持続可能な農業の未来</title>
     <link>https://example.com/article97</link>
     <description>持続可能な農業技術とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 04 Jan 2025 10:04:35 GMT</pubDate>
     <author>佐藤花子</author>
     <category>趣味</category>
-  </item>
-  <item>
-    <title>最新デジタルマーケティングツール</title>
-    <link>https://example.com/article99</link>
-    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
-    <pubDate>Sat, 04 Jan 2025 09:04:24 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
