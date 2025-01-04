@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康維持に役立つサプリメント</title>
+    <link>https://example.com/article14</link>
+    <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
+    <pubDate>Sat, 04 Jan 2025 07:04:17 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ガジェットレビュー</title>
     <link>https://example.com/article17</link>
     <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 03 Jan 2025 22:04:28 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>持続可能な交通手段の未来</title>
-    <link>https://example.com/article77</link>
-    <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
-    <pubDate>Fri, 03 Jan 2025 21:04:32 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
