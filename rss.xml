@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ガジェットレビュー</title>
+    <link>https://example.com/article17</link>
+    <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
+    <pubDate>Sat, 04 Jan 2025 06:05:43 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>クラウドコンピューティングの基礎</title>
     <link>https://example.com/article34</link>
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 03 Jan 2025 21:04:32 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>ホームオフィスの快適な作り方</title>
-    <link>https://example.com/article20</link>
-    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
-    <pubDate>Fri, 03 Jan 2025 20:04:58 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
