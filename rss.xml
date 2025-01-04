@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自宅でできるフィットネスプログラム</title>
+    <link>https://example.com/article44</link>
+    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
+    <pubDate>Sat, 04 Jan 2025 17:04:17 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>持続可能な食生活の提案</title>
     <link>https://example.com/article72</link>
     <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 04 Jan 2025 08:05:37 GMT</pubDate>
     <author>伊藤健一</author>
     <category>アート</category>
-  </item>
-  <item>
-    <title>健康維持に役立つサプリメント</title>
-    <link>https://example.com/article14</link>
-    <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
-    <pubDate>Sat, 04 Jan 2025 07:04:17 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
