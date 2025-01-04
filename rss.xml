@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けブログの始め方</title>
+    <link>https://example.com/article55</link>
+    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
+    <pubDate>Sat, 04 Jan 2025 02:24:36 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>リーダーシップのスキル向上方法</title>
     <link>https://example.com/article52</link>
     <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 03 Jan 2025 17:04:23 GMT</pubDate>
     <author>佐藤花子</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>効果的なオンライン広告の手法</title>
-    <link>https://example.com/article98</link>
-    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
-    <pubDate>Fri, 03 Jan 2025 16:05:18 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
