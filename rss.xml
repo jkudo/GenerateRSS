@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネストレンド2024</title>
+    <link>https://example.com/article29</link>
+    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
+    <pubDate>Sat, 04 Jan 2025 00:19:04 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ヘルスケアテクノロジー</title>
     <link>https://example.com/article43</link>
     <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
@@ -76,14 +84,6 @@
     <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
     <pubDate>Fri, 03 Jan 2025 15:04:36 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>最新フィットネストレンド2024</title>
-    <link>https://example.com/article29</link>
-    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
-    <pubDate>Fri, 03 Jan 2025 14:04:49 GMT</pubDate>
-    <author>田中美咲</author>
     <category>健康</category>
   </item>
 </channel>
