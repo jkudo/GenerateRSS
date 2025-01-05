@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バイオテクノロジーの進展</title>
+    <link>https://example.com/article94</link>
+    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
+    <pubDate>Sun, 05 Jan 2025 07:04:17 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ホームオフィスの快適な作り方</title>
     <link>https://example.com/article20</link>
     <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 04 Jan 2025 22:04:21 GMT</pubDate>
     <author>山田太郎</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>最新フィットネスアプリの比較</title>
-    <link>https://example.com/article65</link>
-    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
-    <pubDate>Sat, 04 Jan 2025 21:04:08 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
