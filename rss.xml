@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスツールの紹介</title>
+    <link>https://example.com/article54</link>
+    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
+    <pubDate>Sun, 05 Jan 2025 17:04:30 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンラインセキュリティの基本</title>
     <link>https://example.com/article50</link>
     <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 05 Jan 2025 08:05:35 GMT</pubDate>
     <author>山田太郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>最新バイオテクノロジーの進展</title>
-    <link>https://example.com/article94</link>
-    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
-    <pubDate>Sun, 05 Jan 2025 07:04:17 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
