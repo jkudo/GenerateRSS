@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>アートセラピーの効果と実践方法</title>
+    <link>https://example.com/article36</link>
+    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
+    <pubDate>Mon, 06 Jan 2025 12:07:50 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ヘルスケアテクノロジー</title>
     <link>https://example.com/article43</link>
     <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 06 Jan 2025 03:11:33 GMT</pubDate>
     <author>山田太郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>働き方改革とその影響</title>
-    <link>https://example.com/article27</link>
-    <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
-    <pubDate>Mon, 06 Jan 2025 02:29:07 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
