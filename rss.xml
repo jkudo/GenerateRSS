@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ウェアラブルデバイスの紹介</title>
+    <link>https://example.com/article83</link>
+    <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
+    <pubDate>Mon, 06 Jan 2025 23:04:57 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ペットの健康管理ガイド</title>
     <link>https://example.com/article19</link>
     <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 06 Jan 2025 14:04:49 GMT</pubDate>
     <author>田中美咲</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>家庭でできる簡単エクササイズ</title>
-    <link>https://example.com/article68</link>
-    <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
-    <pubDate>Mon, 06 Jan 2025 13:09:03 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
