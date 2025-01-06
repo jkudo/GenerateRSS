@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Mon, 06 Jan 2025 19:04:11 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>最新フィンテックサービスの紹介</title>
     <link>https://example.com/article76</link>
     <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 06 Jan 2025 10:05:20 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>スマートシティの実現に向けて</title>
-    <link>https://example.com/article100</link>
-    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
-    <pubDate>Mon, 06 Jan 2025 09:05:05 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
