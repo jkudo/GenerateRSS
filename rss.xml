@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ペットの健康管理ガイド</title>
+    <link>https://example.com/article19</link>
+    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
+    <pubDate>Mon, 06 Jan 2025 22:04:25 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ペット</category>
+  </item>
+  <item>
     <title>効率的なチームコミュニケーション方法</title>
     <link>https://example.com/article62</link>
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
@@ -76,14 +84,6 @@
     <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
     <pubDate>Mon, 06 Jan 2025 13:09:03 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>アートセラピーの効果と実践方法</title>
-    <link>https://example.com/article36</link>
-    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
-    <pubDate>Mon, 06 Jan 2025 12:07:50 GMT</pubDate>
-    <author>山田太郎</author>
     <category>健康</category>
   </item>
 </channel>
