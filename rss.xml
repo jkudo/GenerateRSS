@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>メンタルヘルスの重要性</title>
+    <link>https://example.com/article59</link>
+    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
+    <pubDate>Tue, 07 Jan 2025 09:05:04 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>持続可能な交通手段の未来</title>
     <link>https://example.com/article77</link>
     <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 07 Jan 2025 00:19:55 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>最新ウェアラブルデバイスの紹介</title>
-    <link>https://example.com/article83</link>
-    <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
-    <pubDate>Mon, 06 Jan 2025 23:04:57 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
