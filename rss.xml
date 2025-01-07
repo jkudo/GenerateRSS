@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な建築デザインのトレンド</title>
+    <link>https://example.com/article84</link>
+    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
+    <pubDate>Tue, 07 Jan 2025 01:31:56 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>建築</category>
+  </item>
+  <item>
     <title>エシカル消費のすすめ</title>
     <link>https://example.com/article80</link>
     <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 06 Jan 2025 16:05:21 GMT</pubDate>
     <author>伊藤健一</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>最新ブックレビュー: 『未来を拓く技術』</title>
-    <link>https://example.com/article51</link>
-    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
-    <pubDate>Mon, 06 Jan 2025 15:05:01 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>書評</category>
   </item>
 </channel>
 </rss>
