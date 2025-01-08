@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新モバイルアプリの紹介</title>
+    <link>https://example.com/article96</link>
+    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
+    <pubDate>Wed, 08 Jan 2025 05:05:16 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>デジタルノマドの生活と働き方</title>
     <link>https://example.com/article91</link>
     <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article74</link>
     <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
     <pubDate>Tue, 07 Jan 2025 20:05:03 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>クラウドコンピューティングの基礎</title>
-    <link>https://example.com/article34</link>
-    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
-    <pubDate>Tue, 07 Jan 2025 19:04:15 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
   </item>
