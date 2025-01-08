@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスインサイト: データ分析の重要性</title>
+    <link>https://example.com/article45</link>
+    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
+    <pubDate>Wed, 08 Jan 2025 06:06:24 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 07 Jan 2025 21:04:15 GMT</pubDate>
     <author>田中美咲</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>最新バーチャルリアリティ（VR）技術</title>
-    <link>https://example.com/article74</link>
-    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
-    <pubDate>Tue, 07 Jan 2025 20:05:03 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
