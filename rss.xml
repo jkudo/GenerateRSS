@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ストレス解消法の紹介</title>
+    <link>https://example.com/article18</link>
+    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
+    <pubDate>Thu, 09 Jan 2025 23:05:09 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>健康維持に役立つサプリメント</title>
     <link>https://example.com/article14</link>
     <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
@@ -76,14 +84,6 @@
     <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
     <pubDate>Thu, 09 Jan 2025 14:05:33 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>マーケティング</category>
-  </item>
-  <item>
-    <title>初心者向けブログの始め方</title>
-    <link>https://example.com/article55</link>
-    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
-    <pubDate>Thu, 09 Jan 2025 13:09:49 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>マーケティング</category>
   </item>
 </channel>
