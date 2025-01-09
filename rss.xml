@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルアートの作り方</title>
+    <link>https://example.com/article70</link>
+    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
+    <pubDate>Thu, 09 Jan 2025 15:05:07 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>アート</category>
+  </item>
+  <item>
     <title>効果的なオンライン広告の手法</title>
     <link>https://example.com/article98</link>
     <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 09 Jan 2025 06:06:25 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新ビジネス書ベストセラー紹介</title>
-    <link>https://example.com/article32</link>
-    <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
-    <pubDate>Thu, 09 Jan 2025 05:04:51 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
