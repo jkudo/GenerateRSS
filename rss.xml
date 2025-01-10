@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バーチャルリアリティ（VR）技術</title>
+    <link>https://example.com/article74</link>
+    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
+    <pubDate>Fri, 10 Jan 2025 14:04:44 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ビデオ編集ソフトの比較</title>
     <link>https://example.com/article86</link>
     <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
@@ -76,14 +84,6 @@
     <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
     <pubDate>Fri, 10 Jan 2025 05:04:57 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ビデオ会議の効率的な活用方法</title>
-    <link>https://example.com/article23</link>
-    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
-    <pubDate>Fri, 10 Jan 2025 04:05:52 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>ビジネス</category>
   </item>
 </channel>
