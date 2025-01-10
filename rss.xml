@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>家庭菜園の始め方とコツ</title>
+    <link>https://example.com/article16</link>
+    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
+    <pubDate>Fri, 10 Jan 2025 12:07:39 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ガーデニング</category>
+  </item>
+  <item>
     <title>ビデオ会議の効率的な活用方法</title>
     <link>https://example.com/article23</link>
     <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 10 Jan 2025 03:10:46 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>健康的なライフスタイルの秘訣</title>
-    <link>https://example.com/article2</link>
-    <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
-    <pubDate>Fri, 10 Jan 2025 02:28:32 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
