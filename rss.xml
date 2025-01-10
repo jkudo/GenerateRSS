@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスインテリジェンスツール</title>
+    <link>https://example.com/article81</link>
+    <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
+    <pubDate>Fri, 10 Jan 2025 21:04:18 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>初心者向けオンラインマーケティング</title>
     <link>https://example.com/article73</link>
     <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 10 Jan 2025 12:07:39 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>ビデオ会議の効率的な活用方法</title>
-    <link>https://example.com/article23</link>
-    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
-    <pubDate>Fri, 10 Jan 2025 11:04:19 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
