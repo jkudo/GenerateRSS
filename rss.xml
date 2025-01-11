@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスツールの紹介</title>
+    <link>https://example.com/article54</link>
+    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
+    <pubDate>Sat, 11 Jan 2025 19:04:03 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>初心者向けブログの始め方</title>
     <link>https://example.com/article55</link>
     <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 11 Jan 2025 10:04:41 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>エシカル消費のすすめ</title>
-    <link>https://example.com/article80</link>
-    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
-    <pubDate>Sat, 11 Jan 2025 09:04:32 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
