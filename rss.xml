@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な農業の未来</title>
+    <link>https://example.com/article97</link>
+    <description>持続可能な農業技術とその未来について考察します。</description>
+    <pubDate>Sat, 11 Jan 2025 20:05:07 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新ビジネスツールの紹介</title>
     <link>https://example.com/article54</link>
     <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 11 Jan 2025 11:04:28 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>リモートチームのマネジメント術</title>
-    <link>https://example.com/article87</link>
-    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
-    <pubDate>Sat, 11 Jan 2025 10:04:41 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
