@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けブログの始め方</title>
+    <link>https://example.com/article55</link>
+    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
+    <pubDate>Sat, 11 Jan 2025 18:05:34 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>投資初心者のためのガイド</title>
     <link>https://example.com/article10</link>
     <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 11 Jan 2025 09:04:32 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>効果的な時間管理術</title>
-    <link>https://example.com/article13</link>
-    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
-    <pubDate>Sat, 11 Jan 2025 08:05:31 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
