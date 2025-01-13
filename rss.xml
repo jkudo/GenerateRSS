@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Mon, 13 Jan 2025 11:04:26 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新電子書籍リーダーの紹介</title>
     <link>https://example.com/article67</link>
     <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 13 Jan 2025 02:29:22 GMT</pubDate>
     <author>山田太郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>効果的なオンライン広告の手法</title>
-    <link>https://example.com/article98</link>
-    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
-    <pubDate>Mon, 13 Jan 2025 01:32:31 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
