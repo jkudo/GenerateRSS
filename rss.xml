@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインショッピングの賢い利用法</title>
+    <link>https://example.com/article39</link>
+    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
+    <pubDate>Mon, 13 Jan 2025 22:04:18 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ガジェットレビュー</title>
     <link>https://example.com/article17</link>
     <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 13 Jan 2025 13:09:06 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>持続可能なエネルギーの未来</title>
-    <link>https://example.com/article41</link>
-    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
-    <pubDate>Mon, 13 Jan 2025 12:08:09 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
