@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新エンターテインメントニュース</title>
+    <link>https://example.com/article47</link>
+    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
+    <pubDate>Mon, 13 Jan 2025 18:06:20 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新テクノロジー2024: AIの進化</title>
     <link>https://example.com/article1</link>
     <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
@@ -76,14 +84,6 @@
     <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
     <pubDate>Mon, 13 Jan 2025 09:05:25 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>リーダーシップのスキル向上方法</title>
-    <link>https://example.com/article52</link>
-    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
-    <pubDate>Mon, 13 Jan 2025 08:06:48 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>ビジネス</category>
   </item>
 </channel>
