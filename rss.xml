@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルアートの作り方</title>
+    <link>https://example.com/article70</link>
+    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
+    <pubDate>Tue, 14 Jan 2025 01:31:33 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>アート</category>
+  </item>
+  <item>
     <title>ペットの健康管理ガイド</title>
     <link>https://example.com/article19</link>
     <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 13 Jan 2025 16:05:27 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>初心者向けブログの始め方</title>
-    <link>https://example.com/article55</link>
-    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
-    <pubDate>Mon, 13 Jan 2025 15:05:08 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
