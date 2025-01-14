@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向け写真撮影ガイド</title>
+    <link>https://example.com/article42</link>
+    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
+    <pubDate>Tue, 14 Jan 2025 23:04:21 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>趣味</category>
+  </item>
+  <item>
     <title>クラウドコンピューティングの基礎</title>
     <link>https://example.com/article34</link>
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 14 Jan 2025 14:04:34 GMT</pubDate>
     <author>佐藤花子</author>
     <category>フィンテック</category>
-  </item>
-  <item>
-    <title>初心者向けプログラミング入門</title>
-    <link>https://example.com/article24</link>
-    <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
-    <pubDate>Tue, 14 Jan 2025 13:07:24 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
