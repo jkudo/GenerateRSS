@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な建築デザインのトレンド</title>
+    <link>https://example.com/article84</link>
+    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
+    <pubDate>Thu, 16 Jan 2025 23:04:57 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>建築</category>
+  </item>
+  <item>
     <title>効率的なチームコミュニケーション方法</title>
     <link>https://example.com/article62</link>
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 16 Jan 2025 14:04:24 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>初心者向けブログの始め方</title>
-    <link>https://example.com/article55</link>
-    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
-    <pubDate>Thu, 16 Jan 2025 13:07:35 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
