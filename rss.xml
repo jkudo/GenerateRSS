@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けブログの始め方</title>
+    <link>https://example.com/article55</link>
+    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
+    <pubDate>Thu, 16 Jan 2025 10:04:50 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 16 Jan 2025 01:31:37 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>最新ファッション2024: トレンド分析</title>
-    <link>https://example.com/article12</link>
-    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
-    <pubDate>Thu, 16 Jan 2025 00:19:03 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ファッション</category>
   </item>
 </channel>
 </rss>
