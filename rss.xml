@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコフレンドリーな生活用品</title>
+    <link>https://example.com/article60</link>
+    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
+    <pubDate>Thu, 16 Jan 2025 19:04:10 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>持続可能なファッションの未来</title>
     <link>https://example.com/article31</link>
     <description>持続可能なファッション業界の現状と未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 16 Jan 2025 10:04:50 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新映画レビュー: 『スターライト』</title>
-    <link>https://example.com/article4</link>
-    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
-    <pubDate>Thu, 16 Jan 2025 09:04:47 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
