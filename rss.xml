@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコフレンドリーな生活用品</title>
+    <link>https://example.com/article60</link>
+    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
+    <pubDate>Fri, 17 Jan 2025 16:05:01 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>持続可能な交通手段の未来</title>
     <link>https://example.com/article77</link>
     <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 17 Jan 2025 07:04:43 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>オンラインショッピングの賢い利用法</title>
-    <link>https://example.com/article39</link>
-    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
-    <pubDate>Fri, 17 Jan 2025 06:06:15 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
