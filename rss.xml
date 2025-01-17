@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテック技術の応用</title>
+    <link>https://example.com/article92</link>
+    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
+    <pubDate>Fri, 17 Jan 2025 12:07:27 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>健康維持に役立つサプリメント</title>
     <link>https://example.com/article14</link>
     <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 17 Jan 2025 03:06:00 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>デジタルマーケティングの最新動向</title>
-    <link>https://example.com/article15</link>
-    <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
-    <pubDate>Fri, 17 Jan 2025 02:23:11 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
