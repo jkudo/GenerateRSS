@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な農業の未来</title>
+    <link>https://example.com/article97</link>
+    <description>持続可能な農業技術とその未来について考察します。</description>
+    <pubDate>Fri, 17 Jan 2025 17:04:35 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>エコフレンドリーな生活用品</title>
     <link>https://example.com/article60</link>
     <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 17 Jan 2025 08:05:47 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ストレス解消法の紹介</title>
-    <link>https://example.com/article18</link>
-    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
-    <pubDate>Fri, 17 Jan 2025 07:04:43 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
