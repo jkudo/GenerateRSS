@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
+    <link>https://example.com/article21</link>
+    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
+    <pubDate>Fri, 17 Jan 2025 14:04:28 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新クラウドサービス比較</title>
     <link>https://example.com/article58</link>
     <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 17 Jan 2025 05:04:37 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>健康的なライフスタイルの秘訣</title>
-    <link>https://example.com/article2</link>
-    <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
-    <pubDate>Fri, 17 Jan 2025 04:05:40 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
