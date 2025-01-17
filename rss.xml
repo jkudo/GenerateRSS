@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エンタープライズソフトウェアの選び方</title>
+    <link>https://example.com/article95</link>
+    <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
+    <pubDate>Fri, 17 Jan 2025 08:05:47 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>ストレス解消法の紹介</title>
     <link>https://example.com/article18</link>
     <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 16 Jan 2025 23:04:57 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>効率的なチームコミュニケーション方法</title>
-    <link>https://example.com/article62</link>
-    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
-    <pubDate>Thu, 16 Jan 2025 22:04:41 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
