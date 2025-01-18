@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートホーム技術の最新動向</title>
+    <link>https://example.com/article37</link>
+    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
+    <pubDate>Sat, 18 Jan 2025 15:04:13 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>家庭菜園の始め方とコツ</title>
     <link>https://example.com/article16</link>
     <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 18 Jan 2025 06:05:29 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>オンライン学習の効果的な活用法</title>
-    <link>https://example.com/article78</link>
-    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
-    <pubDate>Sat, 18 Jan 2025 05:04:19 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
