@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リーダーシップのスキル向上方法</title>
+    <link>https://example.com/article52</link>
+    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
+    <pubDate>Sat, 18 Jan 2025 17:04:01 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>ビジネス成功のための戦略</title>
     <link>https://example.com/article5</link>
     <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 18 Jan 2025 08:05:14 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>グリーンテクノロジーの進展</title>
-    <link>https://example.com/article49</link>
-    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
-    <pubDate>Sat, 18 Jan 2025 07:04:16 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
