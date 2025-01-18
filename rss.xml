@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ストレス解消法の紹介</title>
+    <link>https://example.com/article18</link>
+    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
+    <pubDate>Sat, 18 Jan 2025 08:05:14 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>グリーンテクノロジーの進展</title>
     <link>https://example.com/article49</link>
     <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 17 Jan 2025 23:04:51 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>家庭菜園の始め方とコツ</title>
-    <link>https://example.com/article16</link>
-    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
-    <pubDate>Fri, 17 Jan 2025 22:04:34 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ガーデニング</category>
   </item>
 </channel>
 </rss>
