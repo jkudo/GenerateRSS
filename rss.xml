@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Sat, 18 Jan 2025 07:04:16 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>持続可能な都市計画の事例</title>
     <link>https://example.com/article64</link>
     <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 17 Jan 2025 22:04:34 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>ペットの健康管理ガイド</title>
-    <link>https://example.com/article19</link>
-    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
-    <pubDate>Fri, 17 Jan 2025 21:04:20 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
