@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン学習の効果的な活用法</title>
+    <link>https://example.com/article78</link>
+    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
+    <pubDate>Sat, 18 Jan 2025 05:04:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>クラウドコンピューティングの基礎</title>
     <link>https://example.com/article34</link>
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 17 Jan 2025 20:04:43 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>初心者向けブログの始め方</title>
-    <link>https://example.com/article55</link>
-    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
-    <pubDate>Fri, 17 Jan 2025 19:04:06 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
