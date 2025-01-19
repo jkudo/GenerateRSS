@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテックサービスの紹介</title>
+    <link>https://example.com/article76</link>
+    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
+    <pubDate>Sun, 19 Jan 2025 07:04:28 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>最新スマートフォンの比較レビュー</title>
     <link>https://example.com/article8</link>
     <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
@@ -76,14 +84,6 @@
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
     <pubDate>Sat, 18 Jan 2025 22:04:16 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>投資初心者のためのガイド</title>
-    <link>https://example.com/article10</link>
-    <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
-    <pubDate>Sat, 18 Jan 2025 21:04:40 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>ビジネス</category>
   </item>
 </channel>
