@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Sun, 19 Jan 2025 22:04:28 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>家庭菜園の始め方とコツ</title>
     <link>https://example.com/article16</link>
     <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
@@ -76,14 +84,6 @@
     <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
     <pubDate>Sun, 19 Jan 2025 13:06:06 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新ビジネスツールの紹介</title>
-    <link>https://example.com/article54</link>
-    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
-    <pubDate>Sun, 19 Jan 2025 12:06:22 GMT</pubDate>
-    <author>田中美咲</author>
     <category>ビジネス</category>
   </item>
 </channel>
