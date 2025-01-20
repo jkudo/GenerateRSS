@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ペットと共に過ごす快適な生活</title>
+    <link>https://example.com/article38</link>
+    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
+    <pubDate>Mon, 20 Jan 2025 04:05:39 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ペット</category>
+  </item>
+  <item>
     <title>持続可能な食生活の提案</title>
     <link>https://example.com/article72</link>
     <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 19 Jan 2025 19:04:01 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新キッチンガジェットのレビュー</title>
-    <link>https://example.com/article79</link>
-    <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
-    <pubDate>Sun, 19 Jan 2025 18:05:18 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
