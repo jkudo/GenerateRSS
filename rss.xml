@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リーダーシップのスキル向上方法</title>
+    <link>https://example.com/article52</link>
+    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
+    <pubDate>Mon, 20 Jan 2025 21:04:28 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>エコライフのすすめ</title>
     <link>https://example.com/article22</link>
     <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
@@ -76,14 +84,6 @@
     <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
     <pubDate>Mon, 20 Jan 2025 12:07:40 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>クラウドコンピューティングの基礎</title>
-    <link>https://example.com/article34</link>
-    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
-    <pubDate>Mon, 20 Jan 2025 11:04:30 GMT</pubDate>
-    <author>田中美咲</author>
     <category>テクノロジー</category>
   </item>
 </channel>
