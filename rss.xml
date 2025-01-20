@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネスアプリの比較</title>
+    <link>https://example.com/article65</link>
+    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
+    <pubDate>Mon, 20 Jan 2025 16:05:04 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>エコフレンドリーな生活用品</title>
     <link>https://example.com/article60</link>
     <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 20 Jan 2025 07:04:56 GMT</pubDate>
     <author>山田太郎</author>
     <category>書評</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Mon, 20 Jan 2025 06:06:25 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
