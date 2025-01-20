@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコフレンドリーな生活用品</title>
+    <link>https://example.com/article60</link>
+    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
+    <pubDate>Mon, 20 Jan 2025 15:04:54 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新キッチンガジェットのレビュー</title>
     <link>https://example.com/article79</link>
     <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 20 Jan 2025 06:06:25 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>デジタルアートの作り方</title>
-    <link>https://example.com/article70</link>
-    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
-    <pubDate>Mon, 20 Jan 2025 05:04:54 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>アート</category>
   </item>
 </channel>
 </rss>
