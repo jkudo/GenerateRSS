@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新キッチンガジェットのレビュー</title>
+    <link>https://example.com/article79</link>
+    <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
+    <pubDate>Tue, 21 Jan 2025 06:06:22 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新サステナビリティプロジェクト</title>
     <link>https://example.com/article90</link>
     <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 20 Jan 2025 21:04:28 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>エコライフのすすめ</title>
-    <link>https://example.com/article22</link>
-    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
-    <pubDate>Mon, 20 Jan 2025 20:04:42 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
