@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームセキュリティの強化方法</title>
+    <link>https://example.com/article30</link>
+    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
+    <pubDate>Tue, 21 Jan 2025 04:05:38 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新カメラ機材レビュー</title>
     <link>https://example.com/article63</link>
     <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
@@ -76,14 +84,6 @@
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
     <pubDate>Mon, 20 Jan 2025 19:03:59 GMT</pubDate>
     <author>田中美咲</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新電子書籍リーダーの紹介</title>
-    <link>https://example.com/article67</link>
-    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
-    <pubDate>Mon, 20 Jan 2025 18:05:44 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>テクノロジー</category>
   </item>
 </channel>
