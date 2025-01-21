@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バイオテクノロジーの進展</title>
+    <link>https://example.com/article94</link>
+    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
+    <pubDate>Tue, 21 Jan 2025 23:04:25 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>オンラインショッピングの賢い利用法</title>
     <link>https://example.com/article39</link>
     <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 21 Jan 2025 14:04:44 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Tue, 21 Jan 2025 13:07:58 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
