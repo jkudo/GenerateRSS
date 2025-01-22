@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ペットの健康管理ガイド</title>
+    <link>https://example.com/article19</link>
+    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
+    <pubDate>Wed, 22 Jan 2025 22:04:30 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ペット</category>
+  </item>
+  <item>
     <title>最新ビジネスインサイト: データ分析の重要性</title>
     <link>https://example.com/article45</link>
     <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 22 Jan 2025 13:08:15 GMT</pubDate>
     <author>山田太郎</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>デジタルノマドの生活と働き方</title>
-    <link>https://example.com/article91</link>
-    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
-    <pubDate>Wed, 22 Jan 2025 12:07:33 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
