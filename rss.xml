@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新デジタルマーケティングツール</title>
+    <link>https://example.com/article99</link>
+    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
+    <pubDate>Wed, 22 Jan 2025 10:04:15 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 22 Jan 2025 01:31:57 GMT</pubDate>
     <author>伊藤健一</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>エコフレンドリーな生活用品</title>
-    <link>https://example.com/article60</link>
-    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
-    <pubDate>Wed, 22 Jan 2025 00:19:20 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
