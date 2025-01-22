@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>プログラミング言語Pythonの基礎</title>
+    <link>https://example.com/article48</link>
+    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
+    <pubDate>Wed, 22 Jan 2025 14:05:01 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
     <link>https://example.com/article21</link>
     <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 22 Jan 2025 05:04:47 GMT</pubDate>
     <author>山田太郎</author>
     <category>フィンテック</category>
-  </item>
-  <item>
-    <title>ホームオフィスの快適な作り方</title>
-    <link>https://example.com/article20</link>
-    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
-    <pubDate>Wed, 22 Jan 2025 04:05:42 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
