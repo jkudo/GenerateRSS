@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネストレンド2024</title>
+    <link>https://example.com/article29</link>
+    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
+    <pubDate>Thu, 23 Jan 2025 16:05:25 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新テクノロジーによる教育改革</title>
     <link>https://example.com/article61</link>
     <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 23 Jan 2025 07:04:47 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新スポーツニュースまとめ</title>
-    <link>https://example.com/article40</link>
-    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
-    <pubDate>Thu, 23 Jan 2025 06:06:22 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
