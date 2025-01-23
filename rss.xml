@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインプライバシーの保護方法</title>
+    <link>https://example.com/article66</link>
+    <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
+    <pubDate>Thu, 23 Jan 2025 08:06:12 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>自宅でできるフィットネスプログラム</title>
     <link>https://example.com/article44</link>
     <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 22 Jan 2025 23:04:41 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>ペットの健康管理ガイド</title>
-    <link>https://example.com/article19</link>
-    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
-    <pubDate>Wed, 22 Jan 2025 22:04:30 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
