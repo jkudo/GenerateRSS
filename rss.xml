@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スポーツニュースまとめ</title>
+    <link>https://example.com/article40</link>
+    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
+    <pubDate>Thu, 23 Jan 2025 06:06:22 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>最新ウェアラブルデバイスの紹介</title>
     <link>https://example.com/article83</link>
     <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 22 Jan 2025 21:04:09 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>自宅でできるフィットネスプログラム</title>
-    <link>https://example.com/article44</link>
-    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
-    <pubDate>Wed, 22 Jan 2025 20:05:09 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
