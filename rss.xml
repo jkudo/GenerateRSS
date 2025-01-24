@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持ち運び便利なガジェット特集</title>
+    <link>https://example.com/article35</link>
+    <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
+    <pubDate>Fri, 24 Jan 2025 05:04:51 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新フィットネスアプリの比較</title>
     <link>https://example.com/article65</link>
     <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 23 Jan 2025 20:04:56 GMT</pubDate>
     <author>伊藤健一</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>子育てと仕事の両立方法</title>
-    <link>https://example.com/article46</link>
-    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
-    <pubDate>Thu, 23 Jan 2025 19:04:09 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
