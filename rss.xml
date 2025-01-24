@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテック技術の応用</title>
+    <link>https://example.com/article92</link>
+    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
+    <pubDate>Fri, 24 Jan 2025 23:04:34 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>初心者向けブログの始め方</title>
     <link>https://example.com/article55</link>
     <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 24 Jan 2025 14:04:24 GMT</pubDate>
     <author>佐藤花子</author>
     <category>趣味</category>
-  </item>
-  <item>
-    <title>最新キッチンガジェットのレビュー</title>
-    <link>https://example.com/article79</link>
-    <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
-    <pubDate>Fri, 24 Jan 2025 13:07:31 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
