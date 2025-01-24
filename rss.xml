@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クリエイティブなアイデア発想法</title>
+    <link>https://example.com/article89</link>
+    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
+    <pubDate>Fri, 24 Jan 2025 12:07:26 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>リモートワークの効率化ツール</title>
     <link>https://example.com/article33</link>
     <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
@@ -76,14 +84,6 @@
     <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
     <pubDate>Fri, 24 Jan 2025 03:05:53 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>自宅でできるフィットネスプログラム</title>
-    <link>https://example.com/article44</link>
-    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
-    <pubDate>Fri, 24 Jan 2025 02:24:18 GMT</pubDate>
-    <author>田中美咲</author>
     <category>健康</category>
   </item>
 </channel>
