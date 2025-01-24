@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新映画レビュー: 『スターライト』</title>
+    <link>https://example.com/article4</link>
+    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
+    <pubDate>Fri, 24 Jan 2025 17:04:12 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>オンライン学習の効果的な活用法</title>
     <link>https://example.com/article78</link>
     <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 24 Jan 2025 08:06:26 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>リーダーシップのスキル向上方法</title>
-    <link>https://example.com/article52</link>
-    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
-    <pubDate>Fri, 24 Jan 2025 07:04:40 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
