@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>都市生活と自然との調和</title>
+    <link>https://example.com/article57</link>
+    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
+    <pubDate>Fri, 24 Jan 2025 18:05:52 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 24 Jan 2025 09:04:52 GMT</pubDate>
     <author>伊藤健一</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>エシカル消費のすすめ</title>
-    <link>https://example.com/article80</link>
-    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
-    <pubDate>Fri, 24 Jan 2025 08:06:26 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
