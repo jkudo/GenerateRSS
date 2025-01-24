@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向け写真撮影ガイド</title>
+    <link>https://example.com/article42</link>
+    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
+    <pubDate>Fri, 24 Jan 2025 14:04:24 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>趣味</category>
+  </item>
+  <item>
     <title>最新キッチンガジェットのレビュー</title>
     <link>https://example.com/article79</link>
     <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 24 Jan 2025 05:04:51 GMT</pubDate>
     <author>伊藤健一</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新フィットネスアプリの比較</title>
-    <link>https://example.com/article65</link>
-    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
-    <pubDate>Fri, 24 Jan 2025 04:05:30 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
