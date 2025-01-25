@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートホーム技術の最新動向</title>
+    <link>https://example.com/article37</link>
+    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
+    <pubDate>Sat, 25 Jan 2025 18:05:15 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ヘルスケアテクノロジー</title>
     <link>https://example.com/article43</link>
     <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
@@ -76,14 +84,6 @@
     <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
     <pubDate>Sat, 25 Jan 2025 09:04:32 GMT</pubDate>
     <author>山田太郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>ホームセキュリティの強化方法</title>
-    <link>https://example.com/article30</link>
-    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
-    <pubDate>Sat, 25 Jan 2025 08:05:27 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>テクノロジー</category>
   </item>
 </channel>
