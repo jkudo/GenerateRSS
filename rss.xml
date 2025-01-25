@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルアートの作り方</title>
+    <link>https://example.com/article70</link>
+    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
+    <pubDate>Sat, 25 Jan 2025 07:04:32 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>アート</category>
+  </item>
+  <item>
     <title>持続可能なエネルギーの未来</title>
     <link>https://example.com/article41</link>
     <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 24 Jan 2025 22:04:17 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>クラウドコンピューティングの基礎</title>
-    <link>https://example.com/article34</link>
-    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
-    <pubDate>Fri, 24 Jan 2025 21:04:28 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
