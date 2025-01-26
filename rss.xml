@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビジネス成功のための戦略</title>
+    <link>https://example.com/article5</link>
+    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
+    <pubDate>Sun, 26 Jan 2025 05:04:27 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>ビデオ会議の効率的な活用方法</title>
     <link>https://example.com/article23</link>
     <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 25 Jan 2025 20:04:19 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>ヨガで心と体をリフレッシュ</title>
-    <link>https://example.com/article9</link>
-    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
-    <pubDate>Sat, 25 Jan 2025 19:03:52 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
