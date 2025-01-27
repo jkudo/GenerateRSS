@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインショッピングの賢い利用法</title>
+    <link>https://example.com/article39</link>
+    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
+    <pubDate>Mon, 27 Jan 2025 18:05:53 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新バーチャルリアリティ（VR）技術</title>
     <link>https://example.com/article74</link>
     <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
@@ -76,14 +84,6 @@
     <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
     <pubDate>Mon, 27 Jan 2025 09:05:37 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>ペット</category>
-  </item>
-  <item>
-    <title>ペットの健康管理ガイド</title>
-    <link>https://example.com/article19</link>
-    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
-    <pubDate>Mon, 27 Jan 2025 08:06:33 GMT</pubDate>
-    <author>田中美咲</author>
     <category>ペット</category>
   </item>
 </channel>
