@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ブックレビュー: 『未来を拓く技術』</title>
+    <link>https://example.com/article51</link>
+    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
+    <pubDate>Mon, 27 Jan 2025 03:06:33 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>書評</category>
+  </item>
+  <item>
     <title>最新テクノロジーによる教育改革</title>
     <link>https://example.com/article61</link>
     <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 26 Jan 2025 18:05:25 GMT</pubDate>
     <author>山田太郎</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>初心者向けデジタルマーケティング戦略</title>
-    <link>https://example.com/article82</link>
-    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
-    <pubDate>Sun, 26 Jan 2025 17:04:27 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
