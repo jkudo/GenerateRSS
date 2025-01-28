@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けプログラミング入門</title>
+    <link>https://example.com/article24</link>
+    <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
+    <pubDate>Tue, 28 Jan 2025 19:04:10 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ファッション2024: トレンド分析</title>
     <link>https://example.com/article12</link>
     <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 28 Jan 2025 10:04:48 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新映画レビュー: 『スターライト』</title>
-    <link>https://example.com/article4</link>
-    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
-    <pubDate>Tue, 28 Jan 2025 09:04:55 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
