@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームセキュリティの強化方法</title>
+    <link>https://example.com/article30</link>
+    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
+    <pubDate>Wed, 29 Jan 2025 13:08:12 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>自転車メンテナンスの基本</title>
     <link>https://example.com/article26</link>
     <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 29 Jan 2025 04:05:35 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Wed, 29 Jan 2025 03:05:39 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
