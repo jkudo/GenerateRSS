@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインセキュリティの基本</title>
+    <link>https://example.com/article50</link>
+    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
+    <pubDate>Wed, 29 Jan 2025 19:03:59 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ビデオ会議の効率的な活用方法</title>
     <link>https://example.com/article23</link>
     <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 29 Jan 2025 10:04:50 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新バーチャルリアリティ（VR）技術</title>
-    <link>https://example.com/article74</link>
-    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
-    <pubDate>Wed, 29 Jan 2025 09:04:48 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
