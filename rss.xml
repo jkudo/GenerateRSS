@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>都市生活と自然との調和</title>
+    <link>https://example.com/article57</link>
+    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
+    <pubDate>Wed, 29 Jan 2025 04:05:35 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>最新サステナビリティプロジェクト</title>
     <link>https://example.com/article90</link>
     <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 28 Jan 2025 19:04:10 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新ファッション2024: トレンド分析</title>
-    <link>https://example.com/article12</link>
-    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
-    <pubDate>Tue, 28 Jan 2025 18:05:52 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ファッション</category>
   </item>
 </channel>
 </rss>
