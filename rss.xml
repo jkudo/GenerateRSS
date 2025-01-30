@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>アートセラピーの効果と実践方法</title>
+    <link>https://example.com/article36</link>
+    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
+    <pubDate>Thu, 30 Jan 2025 08:05:55 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>初心者向けプログラミング入門</title>
     <link>https://example.com/article24</link>
     <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 29 Jan 2025 23:04:36 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>クラウドコンピューティングの基礎</title>
-    <link>https://example.com/article34</link>
-    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
-    <pubDate>Wed, 29 Jan 2025 22:04:39 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
