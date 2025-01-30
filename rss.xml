@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バーチャルリアリティ（VR）技術</title>
+    <link>https://example.com/article74</link>
+    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
+    <pubDate>Thu, 30 Jan 2025 23:04:46 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新フィットネスアプリの比較</title>
     <link>https://example.com/article65</link>
     <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 30 Jan 2025 14:04:29 GMT</pubDate>
     <author>山田太郎</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>持続可能な食生活の提案</title>
-    <link>https://example.com/article72</link>
-    <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
-    <pubDate>Thu, 30 Jan 2025 13:07:36 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
