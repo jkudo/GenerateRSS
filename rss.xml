@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ヨガで心と体をリフレッシュ</title>
+    <link>https://example.com/article9</link>
+    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
+    <pubDate>Thu, 30 Jan 2025 04:05:36 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>料理初心者向け簡単レシピ集</title>
     <link>https://example.com/article7</link>
     <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 29 Jan 2025 19:03:59 GMT</pubDate>
     <author>伊藤健一</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>ビデオ会議の効率的な活用方法</title>
-    <link>https://example.com/article23</link>
-    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
-    <pubDate>Wed, 29 Jan 2025 18:05:43 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
