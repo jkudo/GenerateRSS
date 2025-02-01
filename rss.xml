@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>メンタルヘルスの重要性</title>
+    <link>https://example.com/article59</link>
+    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
+    <pubDate>Sat, 01 Feb 2025 07:04:24 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>効果的な時間管理術</title>
     <link>https://example.com/article13</link>
     <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 31 Jan 2025 22:04:30 GMT</pubDate>
     <author>佐藤花子</author>
     <category>フィンテック</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Fri, 31 Jan 2025 21:04:19 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
