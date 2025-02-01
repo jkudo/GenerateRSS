@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ブックレビュー: 『未来を拓く技術』</title>
+    <link>https://example.com/article51</link>
+    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
+    <pubDate>Sat, 01 Feb 2025 00:20:38 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>書評</category>
+  </item>
+  <item>
     <title>最新ヘルスケアテクノロジー</title>
     <link>https://example.com/article43</link>
     <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 31 Jan 2025 15:04:35 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>グリーンテクノロジーの進展</title>
-    <link>https://example.com/article49</link>
-    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
-    <pubDate>Fri, 31 Jan 2025 14:04:39 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
