@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ヨガで心と体をリフレッシュ</title>
+    <link>https://example.com/article9</link>
+    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
+    <pubDate>Sun, 02 Feb 2025 14:04:13 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ビジネスインサイト: データ分析の重要性</title>
     <link>https://example.com/article45</link>
     <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 02 Feb 2025 05:04:32 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新ビジネスセミナー情報</title>
-    <link>https://example.com/article69</link>
-    <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
-    <pubDate>Sun, 02 Feb 2025 04:05:10 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
