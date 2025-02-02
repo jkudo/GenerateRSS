@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスインサイト: データ分析の重要性</title>
+    <link>https://example.com/article45</link>
+    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
+    <pubDate>Sun, 02 Feb 2025 13:05:39 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>初心者向けデジタルマーケティング戦略</title>
     <link>https://example.com/article82</link>
     <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 02 Feb 2025 04:05:10 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ホームセキュリティの強化方法</title>
-    <link>https://example.com/article30</link>
-    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
-    <pubDate>Sun, 02 Feb 2025 03:06:37 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
