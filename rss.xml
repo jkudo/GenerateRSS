@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテックサービスの紹介</title>
+    <link>https://example.com/article76</link>
+    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
+    <pubDate>Sun, 02 Feb 2025 16:04:22 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>東京で訪れるべき観光スポット10選</title>
     <link>https://example.com/article3</link>
     <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 02 Feb 2025 07:04:44 GMT</pubDate>
     <author>田中美咲</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>オンラインセキュリティの基本</title>
-    <link>https://example.com/article50</link>
-    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
-    <pubDate>Sun, 02 Feb 2025 06:05:37 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
