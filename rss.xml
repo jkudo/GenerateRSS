@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リーダーシップのスキル向上方法</title>
+    <link>https://example.com/article52</link>
+    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
+    <pubDate>Sun, 02 Feb 2025 01:31:37 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>初心者向けデジタルマーケティング戦略</title>
     <link>https://example.com/article82</link>
     <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 01 Feb 2025 16:04:35 GMT</pubDate>
     <author>佐藤花子</author>
     <category>趣味</category>
-  </item>
-  <item>
-    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
-    <link>https://example.com/article21</link>
-    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
-    <pubDate>Sat, 01 Feb 2025 15:04:28 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
