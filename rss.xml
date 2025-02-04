@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Tue, 04 Feb 2025 00:19:02 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>クラウドコンピューティングの基礎</title>
     <link>https://example.com/article34</link>
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 03 Feb 2025 15:04:45 GMT</pubDate>
     <author>伊藤健一</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>持続可能な農業の未来</title>
-    <link>https://example.com/article97</link>
-    <description>持続可能な農業技術とその未来について考察します。</description>
-    <pubDate>Mon, 03 Feb 2025 14:05:00 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
