@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けデジタルマーケティング戦略</title>
+    <link>https://example.com/article82</link>
+    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
+    <pubDate>Tue, 04 Feb 2025 02:24:11 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新フィンテックサービスの紹介</title>
     <link>https://example.com/article76</link>
     <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
@@ -76,14 +84,6 @@
     <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
     <pubDate>Mon, 03 Feb 2025 17:04:14 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>オンラインショッピングの賢い利用法</title>
-    <link>https://example.com/article39</link>
-    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
-    <pubDate>Mon, 03 Feb 2025 16:05:11 GMT</pubDate>
-    <author>田中美咲</author>
     <category>ビジネス</category>
   </item>
 </channel>
