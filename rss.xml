@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新クラウドサービス比較</title>
+    <link>https://example.com/article58</link>
+    <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
+    <pubDate>Tue, 04 Feb 2025 18:05:54 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>効果的な時間管理術</title>
     <link>https://example.com/article13</link>
     <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 04 Feb 2025 09:04:52 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Tue, 04 Feb 2025 08:06:16 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
