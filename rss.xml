@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な建築デザインのトレンド</title>
+    <link>https://example.com/article84</link>
+    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
+    <pubDate>Wed, 05 Feb 2025 21:04:21 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>建築</category>
+  </item>
+  <item>
     <title>最新電子商取引（EC）トレンド</title>
     <link>https://example.com/article88</link>
     <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 05 Feb 2025 12:07:40 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新フィンテック技術の応用</title>
-    <link>https://example.com/article92</link>
-    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
-    <pubDate>Wed, 05 Feb 2025 11:04:27 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
