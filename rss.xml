@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新キッチンガジェットのレビュー</title>
+    <link>https://example.com/article79</link>
+    <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
+    <pubDate>Thu, 06 Feb 2025 20:04:55 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>都市生活と自然との調和</title>
     <link>https://example.com/article57</link>
     <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article9</link>
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
     <pubDate>Thu, 06 Feb 2025 11:04:29 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>自宅でできるフィットネスプログラム</title>
-    <link>https://example.com/article44</link>
-    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
-    <pubDate>Thu, 06 Feb 2025 10:04:56 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
   </item>
