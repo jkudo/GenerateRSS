@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ウェアラブルデバイスの紹介</title>
+    <link>https://example.com/article83</link>
+    <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
+    <pubDate>Fri, 07 Feb 2025 23:04:30 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>都市生活と自然との調和</title>
     <link>https://example.com/article57</link>
     <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 07 Feb 2025 14:04:25 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>デジタルアートの作り方</title>
-    <link>https://example.com/article70</link>
-    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
-    <pubDate>Fri, 07 Feb 2025 13:07:37 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>アート</category>
   </item>
 </channel>
 </rss>
