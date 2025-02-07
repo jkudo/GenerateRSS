@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコライフのすすめ</title>
+    <link>https://example.com/article22</link>
+    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
+    <pubDate>Fri, 07 Feb 2025 02:26:08 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>効率的なチームコミュニケーション方法</title>
     <link>https://example.com/article62</link>
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 06 Feb 2025 17:04:38 GMT</pubDate>
     <author>田中美咲</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>デジタルノマドの生活と働き方</title>
-    <link>https://example.com/article91</link>
-    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
-    <pubDate>Thu, 06 Feb 2025 16:04:37 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
