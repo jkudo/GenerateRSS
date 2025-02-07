@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新キッチンガジェットのレビュー</title>
+    <link>https://example.com/article79</link>
+    <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
+    <pubDate>Fri, 07 Feb 2025 07:04:35 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>初心者向け写真撮影ガイド</title>
     <link>https://example.com/article42</link>
     <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 06 Feb 2025 22:04:56 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>スマートウォッチの活用術</title>
-    <link>https://example.com/article53</link>
-    <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
-    <pubDate>Thu, 06 Feb 2025 21:04:32 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
