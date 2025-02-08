@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な農業の未来</title>
+    <link>https://example.com/article97</link>
+    <description>持続可能な農業技術とその未来について考察します。</description>
+    <pubDate>Sat, 08 Feb 2025 19:04:10 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新テクノロジー2024: AIの進化</title>
     <link>https://example.com/article1</link>
     <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 08 Feb 2025 10:04:35 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>デジタルノマドの生活と働き方</title>
-    <link>https://example.com/article91</link>
-    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
-    <pubDate>Sat, 08 Feb 2025 09:04:24 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
