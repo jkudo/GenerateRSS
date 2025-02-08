@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインプライバシーの保護方法</title>
+    <link>https://example.com/article66</link>
+    <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
+    <pubDate>Sat, 08 Feb 2025 16:04:27 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>家庭菜園の始め方とコツ</title>
     <link>https://example.com/article16</link>
     <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 08 Feb 2025 07:04:30 GMT</pubDate>
     <author>伊藤健一</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>効果的なパーソナルブランディング</title>
-    <link>https://example.com/article75</link>
-    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
-    <pubDate>Sat, 08 Feb 2025 06:05:31 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
