@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新エンターテインメントニュース</title>
+    <link>https://example.com/article47</link>
+    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
+    <pubDate>Sun, 09 Feb 2025 17:04:43 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新フィットネスアプリの比較</title>
     <link>https://example.com/article65</link>
     <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 09 Feb 2025 08:05:28 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>デジタルアートの作り方</title>
-    <link>https://example.com/article70</link>
-    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
-    <pubDate>Sun, 09 Feb 2025 07:04:30 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>アート</category>
   </item>
 </channel>
 </rss>
