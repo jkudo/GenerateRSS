@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスツールの紹介</title>
+    <link>https://example.com/article54</link>
+    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
+    <pubDate>Sun, 09 Feb 2025 01:31:41 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ウェアラブルデバイスの紹介</title>
     <link>https://example.com/article83</link>
     <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 08 Feb 2025 16:04:27 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>家庭菜園の始め方とコツ</title>
-    <link>https://example.com/article16</link>
-    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
-    <pubDate>Sat, 08 Feb 2025 15:04:16 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ガーデニング</category>
   </item>
 </channel>
 </rss>
