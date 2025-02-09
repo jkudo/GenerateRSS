@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ヘッドフォンレビュー</title>
+    <link>https://example.com/article56</link>
+    <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
+    <pubDate>Sun, 09 Feb 2025 18:05:18 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新エンターテインメントニュース</title>
     <link>https://example.com/article47</link>
     <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 09 Feb 2025 09:04:38 GMT</pubDate>
     <author>佐藤花子</author>
     <category>趣味</category>
-  </item>
-  <item>
-    <title>最新電子商取引（EC）トレンド</title>
-    <link>https://example.com/article88</link>
-    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
-    <pubDate>Sun, 09 Feb 2025 08:05:28 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
