@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的な時間管理術</title>
+    <link>https://example.com/article13</link>
+    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
+    <pubDate>Sun, 09 Feb 2025 20:04:27 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>リーダーシップのスキル向上方法</title>
     <link>https://example.com/article52</link>
     <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 09 Feb 2025 11:04:12 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>最新テクノロジー2024: AIの進化</title>
-    <link>https://example.com/article1</link>
-    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
-    <pubDate>Sun, 09 Feb 2025 10:04:34 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
