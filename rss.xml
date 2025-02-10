@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>子育てと仕事の両立方法</title>
+    <link>https://example.com/article46</link>
+    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
+    <pubDate>Mon, 10 Feb 2025 19:04:08 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>最新電子書籍リーダーの紹介</title>
     <link>https://example.com/article67</link>
     <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 10 Feb 2025 10:05:09 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>スマートホーム技術の最新動向</title>
-    <link>https://example.com/article37</link>
-    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
-    <pubDate>Mon, 10 Feb 2025 09:05:22 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
