@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスセミナー情報</title>
+    <link>https://example.com/article69</link>
+    <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
+    <pubDate>Mon, 10 Feb 2025 11:04:18 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>持続可能な都市計画の事例</title>
     <link>https://example.com/article64</link>
     <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 10 Feb 2025 02:26:37 GMT</pubDate>
     <author>伊藤健一</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>オンラインプライバシーの保護方法</title>
-    <link>https://example.com/article66</link>
-    <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
-    <pubDate>Mon, 10 Feb 2025 01:32:05 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
