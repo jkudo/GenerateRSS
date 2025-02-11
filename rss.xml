@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けオンラインマーケティング</title>
+    <link>https://example.com/article73</link>
+    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
+    <pubDate>Tue, 11 Feb 2025 16:05:22 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>グリーンテクノロジーの進展</title>
     <link>https://example.com/article49</link>
     <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 11 Feb 2025 07:04:50 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>デジタルノマドの生活と働き方</title>
-    <link>https://example.com/article91</link>
-    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
-    <pubDate>Tue, 11 Feb 2025 06:06:17 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
