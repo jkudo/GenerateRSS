@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Tue, 11 Feb 2025 06:06:17 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>持続可能な農業の未来</title>
     <link>https://example.com/article97</link>
     <description>持続可能な農業技術とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 10 Feb 2025 21:04:40 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>スマートホーム技術の最新動向</title>
-    <link>https://example.com/article37</link>
-    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
-    <pubDate>Mon, 10 Feb 2025 20:04:31 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
