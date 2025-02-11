@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネス書ベストセラー紹介</title>
+    <link>https://example.com/article32</link>
+    <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
+    <pubDate>Tue, 11 Feb 2025 02:26:31 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>持続可能なファッションの未来</title>
     <link>https://example.com/article31</link>
     <description>持続可能なファッション業界の現状と未来について考察します。</description>
@@ -76,14 +84,6 @@
     <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
     <pubDate>Mon, 10 Feb 2025 17:04:23 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
-    <link>https://example.com/article21</link>
-    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
-    <pubDate>Mon, 10 Feb 2025 16:05:14 GMT</pubDate>
-    <author>山田太郎</author>
     <category>エンターテインメント</category>
   </item>
 </channel>
