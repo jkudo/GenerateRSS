@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な都市計画の事例</title>
+    <link>https://example.com/article64</link>
+    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
+    <pubDate>Wed, 12 Feb 2025 22:04:39 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>デジタルノマドの生活と働き方</title>
     <link>https://example.com/article91</link>
     <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 12 Feb 2025 13:08:30 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新フィットネスアプリの比較</title>
-    <link>https://example.com/article65</link>
-    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
-    <pubDate>Wed, 12 Feb 2025 12:07:31 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
