@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持ち運び便利なガジェット特集</title>
+    <link>https://example.com/article35</link>
+    <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
+    <pubDate>Thu, 13 Feb 2025 00:19:29 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>働き方改革とその影響</title>
     <link>https://example.com/article27</link>
     <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 12 Feb 2025 15:05:24 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>環境保護の重要性と私たちの役割</title>
-    <link>https://example.com/article6</link>
-    <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
-    <pubDate>Wed, 12 Feb 2025 14:04:49 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
