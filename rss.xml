@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>料理初心者向け簡単レシピ集</title>
+    <link>https://example.com/article7</link>
+    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
+    <pubDate>Thu, 13 Feb 2025 06:06:14 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>料理</category>
+  </item>
+  <item>
     <title>ストレス解消法の紹介</title>
     <link>https://example.com/article18</link>
     <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 12 Feb 2025 21:04:29 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>最新フィンテック技術の応用</title>
-    <link>https://example.com/article92</link>
-    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
-    <pubDate>Wed, 12 Feb 2025 20:05:04 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
