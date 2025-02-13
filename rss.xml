@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
+    <link>https://example.com/article21</link>
+    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
+    <pubDate>Thu, 13 Feb 2025 14:04:51 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>ホームセキュリティの強化方法</title>
     <link>https://example.com/article30</link>
     <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 13 Feb 2025 05:04:50 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新テクノロジーによる教育改革</title>
-    <link>https://example.com/article61</link>
-    <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
-    <pubDate>Thu, 13 Feb 2025 04:05:37 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
