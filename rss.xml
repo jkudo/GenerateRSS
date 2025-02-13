@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>東京で訪れるべき観光スポット10選</title>
+    <link>https://example.com/article3</link>
+    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
+    <pubDate>Thu, 13 Feb 2025 03:07:39 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>持続可能な都市計画の事例</title>
     <link>https://example.com/article64</link>
     <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 12 Feb 2025 18:05:59 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>持続可能な建築デザインのトレンド</title>
-    <link>https://example.com/article84</link>
-    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
-    <pubDate>Wed, 12 Feb 2025 17:04:27 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>建築</category>
   </item>
 </channel>
 </rss>
