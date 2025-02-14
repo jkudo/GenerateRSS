@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>子育てと仕事の両立方法</title>
+    <link>https://example.com/article46</link>
+    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
+    <pubDate>Fri, 14 Feb 2025 15:04:49 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>クラウドコンピューティングの基礎</title>
     <link>https://example.com/article34</link>
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 14 Feb 2025 06:06:08 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Fri, 14 Feb 2025 05:04:55 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
