@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効率的なチームコミュニケーション方法</title>
+    <link>https://example.com/article62</link>
+    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
+    <pubDate>Fri, 14 Feb 2025 17:04:21 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>エコライフのすすめ</title>
     <link>https://example.com/article22</link>
     <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 14 Feb 2025 08:05:59 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新ビジネスツールの紹介</title>
-    <link>https://example.com/article54</link>
-    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
-    <pubDate>Fri, 14 Feb 2025 07:04:43 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
