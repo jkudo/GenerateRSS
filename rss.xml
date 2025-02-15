@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Sat, 15 Feb 2025 19:04:16 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>最新エンターテインメントニュース</title>
     <link>https://example.com/article47</link>
     <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 15 Feb 2025 10:04:23 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>グリーンテクノロジーの進展</title>
-    <link>https://example.com/article49</link>
-    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
-    <pubDate>Sat, 15 Feb 2025 09:04:21 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
