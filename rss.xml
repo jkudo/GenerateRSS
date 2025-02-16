@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテックサービスの紹介</title>
+    <link>https://example.com/article76</link>
+    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
+    <pubDate>Sun, 16 Feb 2025 06:05:27 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>投資初心者のためのガイド</title>
     <link>https://example.com/article10</link>
     <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 15 Feb 2025 21:04:19 GMT</pubDate>
     <author>山田太郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>最新ビジネスインテリジェンスツール</title>
-    <link>https://example.com/article81</link>
-    <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
-    <pubDate>Sat, 15 Feb 2025 20:04:26 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
