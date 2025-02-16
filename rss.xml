@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的な時間管理術</title>
+    <link>https://example.com/article13</link>
+    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
+    <pubDate>Sun, 16 Feb 2025 13:06:39 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>リモートワークの効率化ツール</title>
     <link>https://example.com/article33</link>
     <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 16 Feb 2025 04:05:28 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>メンタルヘルスの重要性</title>
-    <link>https://example.com/article59</link>
-    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
-    <pubDate>Sun, 16 Feb 2025 03:10:33 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
