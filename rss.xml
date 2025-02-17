@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新モバイルアプリの紹介</title>
+    <link>https://example.com/article96</link>
+    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
+    <pubDate>Mon, 17 Feb 2025 19:04:27 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ヘッドフォンレビュー</title>
     <link>https://example.com/article56</link>
     <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 17 Feb 2025 10:05:36 GMT</pubDate>
     <author>田中美咲</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>ホームオフィスの快適な作り方</title>
-    <link>https://example.com/article20</link>
-    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
-    <pubDate>Mon, 17 Feb 2025 09:05:37 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
