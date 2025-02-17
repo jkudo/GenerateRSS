@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けプログラミング入門</title>
+    <link>https://example.com/article24</link>
+    <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
+    <pubDate>Mon, 17 Feb 2025 22:04:29 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新クラウドサービス比較</title>
     <link>https://example.com/article58</link>
     <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
@@ -76,14 +84,6 @@
     <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
     <pubDate>Mon, 17 Feb 2025 13:09:16 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新電子商取引（EC）トレンド</title>
-    <link>https://example.com/article88</link>
-    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
-    <pubDate>Mon, 17 Feb 2025 12:07:52 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>ビジネス</category>
   </item>
 </channel>
