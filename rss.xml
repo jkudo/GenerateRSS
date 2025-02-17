@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームオフィスの快適な作り方</title>
+    <link>https://example.com/article20</link>
+    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
+    <pubDate>Mon, 17 Feb 2025 09:05:37 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 17 Feb 2025 00:20:50 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>最新スポーツニュースまとめ</title>
-    <link>https://example.com/article40</link>
-    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
-    <pubDate>Sun, 16 Feb 2025 23:04:22 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
