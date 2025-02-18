@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
+    <link>https://example.com/article21</link>
+    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
+    <pubDate>Tue, 18 Feb 2025 15:05:06 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新電子商取引（EC）トレンド</title>
     <link>https://example.com/article88</link>
     <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 18 Feb 2025 06:06:15 GMT</pubDate>
     <author>山田太郎</author>
     <category>書評</category>
-  </item>
-  <item>
-    <title>オンラインショッピングの賢い利用法</title>
-    <link>https://example.com/article39</link>
-    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
-    <pubDate>Tue, 18 Feb 2025 05:04:48 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
