@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Tue, 18 Feb 2025 18:06:11 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 18 Feb 2025 09:04:54 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>自宅でできるフィットネスプログラム</title>
-    <link>https://example.com/article44</link>
-    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
-    <pubDate>Tue, 18 Feb 2025 08:06:08 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
