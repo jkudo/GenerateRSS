@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新モバイルアプリの紹介</title>
+    <link>https://example.com/article96</link>
+    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
+    <pubDate>Wed, 19 Feb 2025 19:04:18 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>スマートウォッチの活用術</title>
     <link>https://example.com/article53</link>
     <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
@@ -76,14 +84,6 @@
     <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
     <pubDate>Wed, 19 Feb 2025 10:05:05 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新テクノロジー2024: AIの進化</title>
-    <link>https://example.com/article1</link>
-    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
-    <pubDate>Wed, 19 Feb 2025 09:04:50 GMT</pubDate>
-    <author>山田太郎</author>
     <category>テクノロジー</category>
   </item>
 </channel>
