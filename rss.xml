@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康的なライフスタイルの秘訣</title>
+    <link>https://example.com/article2</link>
+    <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
+    <pubDate>Thu, 20 Feb 2025 00:19:37 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ビデオ編集ソフトの比較</title>
     <link>https://example.com/article86</link>
     <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 19 Feb 2025 15:04:58 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>メンタルヘルスの重要性</title>
-    <link>https://example.com/article59</link>
-    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
-    <pubDate>Wed, 19 Feb 2025 14:04:51 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
