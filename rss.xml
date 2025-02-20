@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームオフィスの快適な作り方</title>
+    <link>https://example.com/article20</link>
+    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
+    <pubDate>Thu, 20 Feb 2025 17:04:20 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>効果的なパーソナルブランディング</title>
     <link>https://example.com/article75</link>
     <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 20 Feb 2025 08:06:14 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新ビジネスツールの紹介</title>
-    <link>https://example.com/article54</link>
-    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
-    <pubDate>Thu, 20 Feb 2025 07:05:03 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
