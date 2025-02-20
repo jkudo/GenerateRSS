@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向け写真撮影ガイド</title>
+    <link>https://example.com/article42</link>
+    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
+    <pubDate>Thu, 20 Feb 2025 14:04:33 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>趣味</category>
+  </item>
+  <item>
     <title>初心者向けデジタルマーケティング戦略</title>
     <link>https://example.com/article82</link>
     <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 20 Feb 2025 05:04:52 GMT</pubDate>
     <author>佐藤花子</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>ビジネス成功のための戦略</title>
-    <link>https://example.com/article5</link>
-    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
-    <pubDate>Thu, 20 Feb 2025 04:05:35 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
