@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新エンターテインメントニュース</title>
+    <link>https://example.com/article47</link>
+    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
+    <pubDate>Fri, 21 Feb 2025 17:04:14 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>初心者向けブログの始め方</title>
     <link>https://example.com/article55</link>
     <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 21 Feb 2025 08:06:16 GMT</pubDate>
     <author>伊藤健一</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>最新モバイルアプリの紹介</title>
-    <link>https://example.com/article96</link>
-    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
-    <pubDate>Fri, 21 Feb 2025 07:04:45 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
