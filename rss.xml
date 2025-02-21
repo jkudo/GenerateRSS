@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン学習の効果的な活用法</title>
+    <link>https://example.com/article78</link>
+    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
+    <pubDate>Fri, 21 Feb 2025 19:04:09 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>最新テクノロジーによる教育改革</title>
     <link>https://example.com/article61</link>
     <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 21 Feb 2025 10:04:53 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>オンラインショッピングの賢い利用法</title>
-    <link>https://example.com/article39</link>
-    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
-    <pubDate>Fri, 21 Feb 2025 09:05:02 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
