@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビデオ会議の効率的な活用方法</title>
+    <link>https://example.com/article23</link>
+    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
+    <pubDate>Fri, 21 Feb 2025 01:32:10 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 20 Feb 2025 16:05:45 GMT</pubDate>
     <author>伊藤健一</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>効果的なSEO対策の方法</title>
-    <link>https://example.com/article85</link>
-    <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
-    <pubDate>Thu, 20 Feb 2025 15:05:02 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
