@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルマーケティングの最新動向</title>
+    <link>https://example.com/article15</link>
+    <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
+    <pubDate>Sat, 22 Feb 2025 20:04:38 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>投資初心者のためのガイド</title>
     <link>https://example.com/article10</link>
     <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 22 Feb 2025 11:04:09 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>初心者向けオンラインマーケティング</title>
-    <link>https://example.com/article73</link>
-    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
-    <pubDate>Sat, 22 Feb 2025 10:04:39 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
