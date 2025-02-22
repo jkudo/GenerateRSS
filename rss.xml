@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビジネス成功のための戦略</title>
+    <link>https://example.com/article5</link>
+    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
+    <pubDate>Sat, 22 Feb 2025 16:04:20 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>デジタルマーケティングの最新動向</title>
     <link>https://example.com/article15</link>
     <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 22 Feb 2025 07:04:14 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>東京で訪れるべき観光スポット10選</title>
-    <link>https://example.com/article3</link>
-    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
-    <pubDate>Sat, 22 Feb 2025 06:05:30 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
