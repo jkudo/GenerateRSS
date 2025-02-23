@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルアートの作り方</title>
+    <link>https://example.com/article70</link>
+    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
+    <pubDate>Sun, 23 Feb 2025 18:05:16 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>アート</category>
+  </item>
+  <item>
     <title>スマートウォッチの活用術</title>
     <link>https://example.com/article53</link>
     <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 23 Feb 2025 09:04:32 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>持続可能な建築デザインのトレンド</title>
-    <link>https://example.com/article84</link>
-    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
-    <pubDate>Sun, 23 Feb 2025 08:05:26 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>建築</category>
   </item>
 </channel>
 </rss>
