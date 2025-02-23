@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リーダーシップのスキル向上方法</title>
+    <link>https://example.com/article52</link>
+    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
+    <pubDate>Sun, 23 Feb 2025 19:04:01 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>デジタルアートの作り方</title>
     <link>https://example.com/article70</link>
     <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 23 Feb 2025 10:04:25 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>オンライン学習の効果的な活用法</title>
-    <link>https://example.com/article78</link>
-    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
-    <pubDate>Sun, 23 Feb 2025 09:04:32 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
