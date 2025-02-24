@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートワークの効率化ツール</title>
+    <link>https://example.com/article33</link>
+    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
+    <pubDate>Mon, 24 Feb 2025 18:06:15 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>旅行計画の立て方とおすすめ先</title>
     <link>https://example.com/article11</link>
     <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
@@ -76,14 +84,6 @@
     <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
     <pubDate>Mon, 24 Feb 2025 09:05:50 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新テクノロジー2024: AIの進化</title>
-    <link>https://example.com/article1</link>
-    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
-    <pubDate>Mon, 24 Feb 2025 08:06:35 GMT</pubDate>
-    <author>山田太郎</author>
     <category>テクノロジー</category>
   </item>
 </channel>
