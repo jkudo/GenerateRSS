@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新テクノロジー2024: AIの進化</title>
+    <link>https://example.com/article1</link>
+    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
+    <pubDate>Mon, 24 Feb 2025 08:06:35 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>クリエイティブなアイデア発想法</title>
     <link>https://example.com/article89</link>
     <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 23 Feb 2025 23:04:19 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>オンライン学習の効果的な活用法</title>
-    <link>https://example.com/article78</link>
-    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
-    <pubDate>Sun, 23 Feb 2025 22:04:21 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
