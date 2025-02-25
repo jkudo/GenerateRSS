@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Tue, 25 Feb 2025 07:04:52 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新音楽アルバムレビュー</title>
     <link>https://example.com/article25</link>
     <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 24 Feb 2025 22:04:34 GMT</pubDate>
     <author>山田太郎</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>持続可能なエネルギーの未来</title>
-    <link>https://example.com/article41</link>
-    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
-    <pubDate>Mon, 24 Feb 2025 21:04:39 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
