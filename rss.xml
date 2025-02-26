@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クラウドコンピューティングの基礎</title>
+    <link>https://example.com/article34</link>
+    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
+    <pubDate>Wed, 26 Feb 2025 13:09:14 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新フィットネストレンド2024</title>
     <link>https://example.com/article29</link>
     <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 26 Feb 2025 04:05:48 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>投資初心者のためのガイド</title>
-    <link>https://example.com/article10</link>
-    <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
-    <pubDate>Wed, 26 Feb 2025 03:10:19 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
