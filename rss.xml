@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Wed, 26 Feb 2025 05:05:22 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>スマートウォッチの活用術</title>
     <link>https://example.com/article53</link>
     <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
@@ -76,14 +84,6 @@
     <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
     <pubDate>Tue, 25 Feb 2025 20:05:14 GMT</pubDate>
     <author>田中美咲</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>スマートシティの実現に向けて</title>
-    <link>https://example.com/article100</link>
-    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
-    <pubDate>Tue, 25 Feb 2025 19:04:09 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>テクノロジー</category>
   </item>
 </channel>
