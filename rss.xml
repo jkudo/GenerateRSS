@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ガジェットレビュー</title>
+    <link>https://example.com/article17</link>
+    <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
+    <pubDate>Wed, 26 Feb 2025 19:04:20 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新デジタルマーケティングツール</title>
     <link>https://example.com/article99</link>
     <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 26 Feb 2025 10:05:23 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>オンラインショッピングの賢い利用法</title>
-    <link>https://example.com/article39</link>
-    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
-    <pubDate>Wed, 26 Feb 2025 09:05:15 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
