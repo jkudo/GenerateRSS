@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビデオ編集ソフトの比較</title>
+    <link>https://example.com/article86</link>
+    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
+    <pubDate>Thu, 27 Feb 2025 11:04:14 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>効果的なオンライン広告の手法</title>
     <link>https://example.com/article98</link>
     <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 27 Feb 2025 02:28:28 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Thu, 27 Feb 2025 01:32:15 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
