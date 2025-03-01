@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新キッチンガジェットのレビュー</title>
+    <link>https://example.com/article79</link>
+    <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
+    <pubDate>Sat, 01 Mar 2025 03:15:08 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>家庭でできる簡単エクササイズ</title>
     <link>https://example.com/article68</link>
     <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 28 Feb 2025 18:06:12 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>ビジネス成功のための戦略</title>
-    <link>https://example.com/article5</link>
-    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
-    <pubDate>Fri, 28 Feb 2025 17:04:23 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
