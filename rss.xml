@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ペットと共に過ごす快適な生活</title>
+    <link>https://example.com/article38</link>
+    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
+    <pubDate>Sun, 02 Mar 2025 18:05:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ペット</category>
+  </item>
+  <item>
     <title>最新ビジネスセミナー情報</title>
     <link>https://example.com/article69</link>
     <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 02 Mar 2025 09:04:32 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>子育てと仕事の両立方法</title>
-    <link>https://example.com/article46</link>
-    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
-    <pubDate>Sun, 02 Mar 2025 08:05:26 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
