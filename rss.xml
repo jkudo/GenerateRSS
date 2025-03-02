@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>家庭でできる簡単エクササイズ</title>
+    <link>https://example.com/article68</link>
+    <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
+    <pubDate>Sun, 02 Mar 2025 11:04:28 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新バイオテクノロジーの進展</title>
     <link>https://example.com/article94</link>
     <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 02 Mar 2025 02:30:01 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>最新ビジネスインテリジェンスツール</title>
-    <link>https://example.com/article81</link>
-    <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
-    <pubDate>Sun, 02 Mar 2025 01:32:06 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
