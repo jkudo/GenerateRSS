@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効率的なチームコミュニケーション方法</title>
+    <link>https://example.com/article62</link>
+    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
+    <pubDate>Sun, 02 Mar 2025 23:04:26 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ヘルスケアテクノロジー</title>
     <link>https://example.com/article43</link>
     <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 02 Mar 2025 14:04:24 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
-    <link>https://example.com/article21</link>
-    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
-    <pubDate>Sun, 02 Mar 2025 13:06:44 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
