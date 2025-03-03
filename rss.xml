@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Mon, 03 Mar 2025 11:04:39 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>最新ビジネス書ベストセラー紹介</title>
     <link>https://example.com/article32</link>
     <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 03 Mar 2025 02:29:23 GMT</pubDate>
     <author>佐藤花子</author>
     <category>趣味</category>
-  </item>
-  <item>
-    <title>ストレス解消法の紹介</title>
-    <link>https://example.com/article18</link>
-    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
-    <pubDate>Mon, 03 Mar 2025 01:32:29 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
