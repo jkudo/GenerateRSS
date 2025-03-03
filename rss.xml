@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ペットと共に過ごす快適な生活</title>
+    <link>https://example.com/article38</link>
+    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
+    <pubDate>Mon, 03 Mar 2025 22:04:41 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ペット</category>
+  </item>
+  <item>
     <title>旅行計画の立て方とおすすめ先</title>
     <link>https://example.com/article11</link>
     <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 03 Mar 2025 13:09:31 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新ブックレビュー: 『未来を拓く技術』</title>
-    <link>https://example.com/article51</link>
-    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
-    <pubDate>Mon, 03 Mar 2025 12:07:44 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>書評</category>
   </item>
 </channel>
 </rss>
