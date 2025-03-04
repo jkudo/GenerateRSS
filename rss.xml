@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインプライバシーの保護方法</title>
+    <link>https://example.com/article66</link>
+    <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
+    <pubDate>Tue, 04 Mar 2025 16:06:29 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新音楽アルバムレビュー</title>
     <link>https://example.com/article25</link>
     <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article99</link>
     <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
     <pubDate>Tue, 04 Mar 2025 07:04:54 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新デジタルマーケティングツール</title>
-    <link>https://example.com/article99</link>
-    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
-    <pubDate>Tue, 04 Mar 2025 06:06:23 GMT</pubDate>
     <author>田中美咲</author>
     <category>マーケティング</category>
   </item>
