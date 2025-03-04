@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテックサービスの紹介</title>
+    <link>https://example.com/article76</link>
+    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
+    <pubDate>Tue, 04 Mar 2025 03:12:53 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>最新ブックレビュー: 『未来を拓く技術』</title>
     <link>https://example.com/article51</link>
     <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 03 Mar 2025 18:05:44 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>ペットの健康管理ガイド</title>
-    <link>https://example.com/article19</link>
-    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
-    <pubDate>Mon, 03 Mar 2025 17:04:37 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
