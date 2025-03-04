@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Tue, 04 Mar 2025 15:05:07 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新スマートフォンの比較レビュー</title>
     <link>https://example.com/article8</link>
     <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 04 Mar 2025 06:06:23 GMT</pubDate>
     <author>田中美咲</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>料理初心者向け簡単レシピ集</title>
-    <link>https://example.com/article7</link>
-    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
-    <pubDate>Tue, 04 Mar 2025 05:05:06 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>料理</category>
   </item>
 </channel>
 </rss>
