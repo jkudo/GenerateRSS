@@ -10,6 +10,14 @@
     <title>最新デジタルマーケティングツール</title>
     <link>https://example.com/article99</link>
     <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
+    <pubDate>Tue, 04 Mar 2025 07:04:54 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
+    <title>最新デジタルマーケティングツール</title>
+    <link>https://example.com/article99</link>
+    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
     <pubDate>Tue, 04 Mar 2025 06:06:23 GMT</pubDate>
     <author>田中美咲</author>
     <category>マーケティング</category>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 03 Mar 2025 22:04:41 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>旅行計画の立て方とおすすめ先</title>
-    <link>https://example.com/article11</link>
-    <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
-    <pubDate>Mon, 03 Mar 2025 21:04:46 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
