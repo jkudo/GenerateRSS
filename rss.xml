@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートシティの実現に向けて</title>
+    <link>https://example.com/article100</link>
+    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
+    <pubDate>Wed, 05 Mar 2025 00:20:22 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>デジタルマーケティングの最新動向</title>
     <link>https://example.com/article15</link>
     <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 04 Mar 2025 15:05:07 GMT</pubDate>
     <author>伊藤健一</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>最新スマートフォンの比較レビュー</title>
-    <link>https://example.com/article8</link>
-    <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
-    <pubDate>Tue, 04 Mar 2025 14:04:54 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
