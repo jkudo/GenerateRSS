@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコライフのすすめ</title>
+    <link>https://example.com/article22</link>
+    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
+    <pubDate>Wed, 05 Mar 2025 18:06:05 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>オンラインプライバシーの保護方法</title>
     <link>https://example.com/article66</link>
     <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 05 Mar 2025 09:05:35 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>効果的なオンライン広告の手法</title>
-    <link>https://example.com/article98</link>
-    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
-    <pubDate>Wed, 05 Mar 2025 08:06:19 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
