@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Thu, 06 Mar 2025 05:05:24 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>アートセラピーの効果と実践方法</title>
     <link>https://example.com/article36</link>
     <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
@@ -76,14 +84,6 @@
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
     <pubDate>Wed, 05 Mar 2025 20:05:14 GMT</pubDate>
     <author>田中美咲</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>家庭でできる簡単エクササイズ</title>
-    <link>https://example.com/article68</link>
-    <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
-    <pubDate>Wed, 05 Mar 2025 19:04:14 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>健康</category>
   </item>
 </channel>
