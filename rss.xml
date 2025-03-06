@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エンタープライズソフトウェアの選び方</title>
+    <link>https://example.com/article95</link>
+    <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
+    <pubDate>Thu, 06 Mar 2025 21:04:36 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンライン学習の効果的な活用法</title>
     <link>https://example.com/article78</link>
     <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 06 Mar 2025 12:07:48 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>初心者向けブログの始め方</title>
-    <link>https://example.com/article55</link>
-    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
-    <pubDate>Thu, 06 Mar 2025 11:04:15 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
