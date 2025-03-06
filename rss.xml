@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Thu, 06 Mar 2025 03:12:25 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>働き方改革とその影響</title>
     <link>https://example.com/article27</link>
     <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 05 Mar 2025 18:06:05 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>オンラインプライバシーの保護方法</title>
-    <link>https://example.com/article66</link>
-    <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
-    <pubDate>Wed, 05 Mar 2025 17:04:35 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
