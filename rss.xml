@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なSEO対策の方法</title>
+    <link>https://example.com/article85</link>
+    <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
+    <pubDate>Thu, 06 Mar 2025 06:06:34 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>グリーンテクノロジーの進展</title>
     <link>https://example.com/article49</link>
     <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 05 Mar 2025 21:04:37 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ヨガで心と体をリフレッシュ</title>
-    <link>https://example.com/article9</link>
-    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
-    <pubDate>Wed, 05 Mar 2025 20:05:14 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
