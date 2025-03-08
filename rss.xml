@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートチームのマネジメント術</title>
+    <link>https://example.com/article87</link>
+    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
+    <pubDate>Sat, 08 Mar 2025 19:04:38 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>ストレス解消法の紹介</title>
     <link>https://example.com/article18</link>
     <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 08 Mar 2025 10:04:38 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Sat, 08 Mar 2025 09:05:05 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
