@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートホーム技術の最新動向</title>
+    <link>https://example.com/article37</link>
+    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
+    <pubDate>Sat, 08 Mar 2025 23:04:15 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>プログラミング言語Pythonの基礎</title>
     <link>https://example.com/article48</link>
     <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 08 Mar 2025 14:04:05 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新フィットネスアプリの比較</title>
-    <link>https://example.com/article65</link>
-    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
-    <pubDate>Sat, 08 Mar 2025 13:04:28 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
