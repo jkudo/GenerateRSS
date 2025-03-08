@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な交通手段の未来</title>
+    <link>https://example.com/article77</link>
+    <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
+    <pubDate>Sat, 08 Mar 2025 04:04:53 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新フィンテック技術の応用</title>
     <link>https://example.com/article92</link>
     <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 07 Mar 2025 19:04:24 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>最新ビジネスインテリジェンスツール</title>
-    <link>https://example.com/article81</link>
-    <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
-    <pubDate>Fri, 07 Mar 2025 18:06:13 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
