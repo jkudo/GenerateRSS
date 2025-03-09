@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Sun, 09 Mar 2025 05:04:20 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>オンラインプライバシーの保護方法</title>
     <link>https://example.com/article66</link>
     <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
@@ -76,14 +84,6 @@
     <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
     <pubDate>Sat, 08 Mar 2025 20:04:34 GMT</pubDate>
     <author>田中美咲</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>リモートチームのマネジメント術</title>
-    <link>https://example.com/article87</link>
-    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
-    <pubDate>Sat, 08 Mar 2025 19:04:38 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>ビジネス</category>
   </item>
 </channel>
