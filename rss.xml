@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スマートフォンの比較レビュー</title>
+    <link>https://example.com/article8</link>
+    <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
+    <pubDate>Sun, 09 Mar 2025 10:04:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新スポーツニュースまとめ</title>
     <link>https://example.com/article40</link>
     <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 09 Mar 2025 01:30:38 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Sun, 09 Mar 2025 00:18:08 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
