@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スマートフォンの比較レビュー</title>
+    <link>https://example.com/article8</link>
+    <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
+    <pubDate>Mon, 10 Mar 2025 13:10:21 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ビジネスインテリジェンスツール</title>
     <link>https://example.com/article81</link>
     <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 10 Mar 2025 04:04:54 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>効果的なパーソナルブランディング</title>
-    <link>https://example.com/article75</link>
-    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
-    <pubDate>Mon, 10 Mar 2025 03:04:45 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
