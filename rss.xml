@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康維持に役立つサプリメント</title>
+    <link>https://example.com/article14</link>
+    <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
+    <pubDate>Mon, 10 Mar 2025 16:05:06 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>持続可能な建築デザインのトレンド</title>
     <link>https://example.com/article84</link>
     <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 10 Mar 2025 07:04:41 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>東京で訪れるべき観光スポット10選</title>
-    <link>https://example.com/article3</link>
-    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
-    <pubDate>Mon, 10 Mar 2025 06:06:03 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
