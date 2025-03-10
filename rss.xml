@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けデジタルマーケティング戦略</title>
+    <link>https://example.com/article82</link>
+    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
+    <pubDate>Mon, 10 Mar 2025 00:17:31 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 09 Mar 2025 15:04:35 GMT</pubDate>
     <author>山田太郎</author>
     <category>書評</category>
-  </item>
-  <item>
-    <title>初心者向けオンラインマーケティング</title>
-    <link>https://example.com/article73</link>
-    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
-    <pubDate>Sun, 09 Mar 2025 14:03:54 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
