@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートホーム技術の最新動向</title>
+    <link>https://example.com/article37</link>
+    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
+    <pubDate>Mon, 10 Mar 2025 01:31:09 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>初心者向けデジタルマーケティング戦略</title>
     <link>https://example.com/article82</link>
     <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 09 Mar 2025 16:04:25 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>最新ブックレビュー: 『未来を拓く技術』</title>
-    <link>https://example.com/article51</link>
-    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
-    <pubDate>Sun, 09 Mar 2025 15:04:35 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>書評</category>
   </item>
 </channel>
 </rss>
