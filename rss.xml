@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なパーソナルブランディング</title>
+    <link>https://example.com/article75</link>
+    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
+    <pubDate>Tue, 11 Mar 2025 19:04:10 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>プログラミング言語Pythonの基礎</title>
     <link>https://example.com/article48</link>
     <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 11 Mar 2025 10:05:11 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新ビジネスインテリジェンスツール</title>
-    <link>https://example.com/article81</link>
-    <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
-    <pubDate>Tue, 11 Mar 2025 09:05:19 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
