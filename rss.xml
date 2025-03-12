@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子書籍リーダーの紹介</title>
+    <link>https://example.com/article67</link>
+    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
+    <pubDate>Wed, 12 Mar 2025 03:12:29 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>投資初心者のためのガイド</title>
     <link>https://example.com/article10</link>
     <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 11 Mar 2025 18:06:19 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>東京で訪れるべき観光スポット10選</title>
-    <link>https://example.com/article3</link>
-    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
-    <pubDate>Tue, 11 Mar 2025 17:05:02 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
