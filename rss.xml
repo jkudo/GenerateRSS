@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Wed, 12 Mar 2025 05:05:16 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 11 Mar 2025 20:05:16 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>効果的なパーソナルブランディング</title>
-    <link>https://example.com/article75</link>
-    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
-    <pubDate>Tue, 11 Mar 2025 19:04:10 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
