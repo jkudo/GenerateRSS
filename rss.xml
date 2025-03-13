@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向け写真撮影ガイド</title>
+    <link>https://example.com/article42</link>
+    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
+    <pubDate>Thu, 13 Mar 2025 18:06:34 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>趣味</category>
+  </item>
+  <item>
     <title>最新音楽アルバムレビュー</title>
     <link>https://example.com/article25</link>
     <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 13 Mar 2025 09:05:22 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>効果的なパーソナルブランディング</title>
-    <link>https://example.com/article75</link>
-    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
-    <pubDate>Thu, 13 Mar 2025 08:06:23 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
