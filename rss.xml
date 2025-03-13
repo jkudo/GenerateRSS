@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Thu, 13 Mar 2025 09:05:22 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>効果的なパーソナルブランディング</title>
     <link>https://example.com/article75</link>
     <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 13 Mar 2025 00:20:44 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新ガジェットレビュー</title>
-    <link>https://example.com/article17</link>
-    <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
-    <pubDate>Wed, 12 Mar 2025 23:04:43 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
