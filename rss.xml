@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Thu, 13 Mar 2025 17:04:37 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新ヘッドフォンレビュー</title>
     <link>https://example.com/article56</link>
     <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 13 Mar 2025 08:06:23 GMT</pubDate>
     <author>伊藤健一</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新フィンテック技術の応用</title>
-    <link>https://example.com/article92</link>
-    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
-    <pubDate>Thu, 13 Mar 2025 07:05:22 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
