@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新サステナビリティプロジェクト</title>
+    <link>https://example.com/article90</link>
+    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
+    <pubDate>Fri, 14 Mar 2025 15:04:49 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新キッチンガジェットのレビュー</title>
     <link>https://example.com/article79</link>
     <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 14 Mar 2025 06:06:22 GMT</pubDate>
     <author>田中美咲</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新エンターテインメントニュース</title>
-    <link>https://example.com/article47</link>
-    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
-    <pubDate>Fri, 14 Mar 2025 05:05:09 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
