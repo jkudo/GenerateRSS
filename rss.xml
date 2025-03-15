@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコフレンドリーな生活用品</title>
+    <link>https://example.com/article60</link>
+    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
+    <pubDate>Sat, 15 Mar 2025 04:05:22 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>リモートワークの効率化ツール</title>
     <link>https://example.com/article33</link>
     <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article74</link>
     <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
     <pubDate>Fri, 14 Mar 2025 19:04:30 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新バーチャルリアリティ（VR）技術</title>
-    <link>https://example.com/article74</link>
-    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
-    <pubDate>Fri, 14 Mar 2025 18:06:06 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
   </item>
