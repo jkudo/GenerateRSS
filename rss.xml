@@ -10,6 +10,14 @@
     <title>エシカル消費のすすめ</title>
     <link>https://example.com/article80</link>
     <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Sun, 16 Mar 2025 16:04:44 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
     <pubDate>Sun, 16 Mar 2025 15:04:27 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 16 Mar 2025 07:04:43 GMT</pubDate>
     <author>山田太郎</author>
     <category>書評</category>
-  </item>
-  <item>
-    <title>最新ビジネスインテリジェンスツール</title>
-    <link>https://example.com/article81</link>
-    <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
-    <pubDate>Sun, 16 Mar 2025 06:05:33 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
