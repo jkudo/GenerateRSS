@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Sun, 16 Mar 2025 04:05:18 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -76,14 +84,6 @@
     <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
     <pubDate>Sat, 15 Mar 2025 19:04:14 GMT</pubDate>
     <author>田中美咲</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>リーダーシップのスキル向上方法</title>
-    <link>https://example.com/article52</link>
-    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
-    <pubDate>Sat, 15 Mar 2025 18:05:25 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>ビジネス</category>
   </item>
 </channel>
