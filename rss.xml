@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Sun, 16 Mar 2025 19:04:04 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>オンラインプライバシーの保護方法</title>
     <link>https://example.com/article66</link>
     <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 16 Mar 2025 10:04:23 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>子育てと仕事の両立方法</title>
-    <link>https://example.com/article46</link>
-    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
-    <pubDate>Sun, 16 Mar 2025 09:04:32 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
