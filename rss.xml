@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインショッピングの賢い利用法</title>
+    <link>https://example.com/article39</link>
+    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
+    <pubDate>Mon, 17 Mar 2025 11:04:34 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ビジネスインテリジェンスツール</title>
     <link>https://example.com/article81</link>
     <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 17 Mar 2025 02:31:12 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>オンライン教育のメリットと課題</title>
-    <link>https://example.com/article28</link>
-    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
-    <pubDate>Mon, 17 Mar 2025 01:32:46 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
