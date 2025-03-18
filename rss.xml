@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自宅でできるフィットネスプログラム</title>
+    <link>https://example.com/article44</link>
+    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
+    <pubDate>Tue, 18 Mar 2025 03:15:07 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ビジネスセミナー情報</title>
     <link>https://example.com/article69</link>
     <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 17 Mar 2025 18:06:09 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>持ち運び便利なガジェット特集</title>
-    <link>https://example.com/article35</link>
-    <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
-    <pubDate>Mon, 17 Mar 2025 17:04:37 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
