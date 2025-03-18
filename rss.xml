@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームオフィスの快適な作り方</title>
+    <link>https://example.com/article20</link>
+    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
+    <pubDate>Tue, 18 Mar 2025 23:04:46 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>家庭でできる簡単エクササイズ</title>
     <link>https://example.com/article68</link>
     <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 18 Mar 2025 14:05:07 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>アートセラピーの効果と実践方法</title>
-    <link>https://example.com/article36</link>
-    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
-    <pubDate>Tue, 18 Mar 2025 13:10:34 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
