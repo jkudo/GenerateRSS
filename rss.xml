@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なパーソナルブランディング</title>
+    <link>https://example.com/article75</link>
+    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
+    <pubDate>Tue, 18 Mar 2025 01:32:38 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>アートセラピーの効果と実践方法</title>
     <link>https://example.com/article36</link>
     <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 17 Mar 2025 16:06:07 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>持続可能な食生活の提案</title>
-    <link>https://example.com/article72</link>
-    <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
-    <pubDate>Mon, 17 Mar 2025 15:04:57 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
