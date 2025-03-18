@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>家庭でできる簡単エクササイズ</title>
+    <link>https://example.com/article68</link>
+    <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
+    <pubDate>Tue, 18 Mar 2025 22:04:44 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>自宅でできるフィットネスプログラム</title>
     <link>https://example.com/article44</link>
     <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 18 Mar 2025 13:10:34 GMT</pubDate>
     <author>山田太郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>プログラミング言語Pythonの基礎</title>
-    <link>https://example.com/article48</link>
-    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
-    <pubDate>Tue, 18 Mar 2025 12:07:49 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
