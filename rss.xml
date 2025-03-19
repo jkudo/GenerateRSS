@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けデジタルマーケティング戦略</title>
+    <link>https://example.com/article82</link>
+    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
+    <pubDate>Wed, 19 Mar 2025 05:05:09 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>リモートチームのマネジメント術</title>
     <link>https://example.com/article87</link>
     <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 18 Mar 2025 20:04:46 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>初心者向けブログの始め方</title>
-    <link>https://example.com/article55</link>
-    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
-    <pubDate>Tue, 18 Mar 2025 19:04:16 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
