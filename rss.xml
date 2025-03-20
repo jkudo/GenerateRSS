@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Thu, 20 Mar 2025 10:05:37 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>初心者向けデジタルマーケティング戦略</title>
     <link>https://example.com/article82</link>
     <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 20 Mar 2025 01:32:19 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>投資初心者のためのガイド</title>
-    <link>https://example.com/article10</link>
-    <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
-    <pubDate>Thu, 20 Mar 2025 00:20:13 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
