@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新テクノロジーによる教育改革</title>
+    <link>https://example.com/article61</link>
+    <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
+    <pubDate>Thu, 20 Mar 2025 16:05:51 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>持続可能な交通手段の未来</title>
     <link>https://example.com/article77</link>
     <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 20 Mar 2025 07:05:03 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新クラウドサービス比較</title>
-    <link>https://example.com/article58</link>
-    <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
-    <pubDate>Thu, 20 Mar 2025 06:06:34 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
