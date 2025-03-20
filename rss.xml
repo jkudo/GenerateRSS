@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>投資初心者のためのガイド</title>
+    <link>https://example.com/article10</link>
+    <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
+    <pubDate>Thu, 20 Mar 2025 00:20:13 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 19 Mar 2025 15:05:09 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新ビデオ編集ソフトの比較</title>
-    <link>https://example.com/article86</link>
-    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
-    <pubDate>Wed, 19 Mar 2025 14:05:02 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
