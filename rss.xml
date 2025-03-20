@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>働き方改革とその影響</title>
+    <link>https://example.com/article27</link>
+    <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
+    <pubDate>Thu, 20 Mar 2025 21:04:40 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>ペットと共に過ごす快適な生活</title>
     <link>https://example.com/article38</link>
     <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 20 Mar 2025 12:07:58 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>ホームオフィスの快適な作り方</title>
-    <link>https://example.com/article20</link>
-    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
-    <pubDate>Thu, 20 Mar 2025 11:04:32 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
