@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Thu, 20 Mar 2025 23:04:41 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>デジタルノマドの生活と働き方</title>
     <link>https://example.com/article91</link>
     <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 20 Mar 2025 14:05:03 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>持続可能な都市計画の事例</title>
-    <link>https://example.com/article64</link>
-    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
-    <pubDate>Thu, 20 Mar 2025 13:09:32 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
