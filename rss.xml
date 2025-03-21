@@ -10,6 +10,14 @@
     <title>持続可能なエネルギーの未来</title>
     <link>https://example.com/article41</link>
     <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
+    <pubDate>Fri, 21 Mar 2025 21:04:19 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>環境</category>
+  </item>
+  <item>
+    <title>持続可能なエネルギーの未来</title>
+    <link>https://example.com/article41</link>
+    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
     <pubDate>Fri, 21 Mar 2025 20:05:12 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 21 Mar 2025 12:07:39 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>ペットと共に過ごす快適な生活</title>
-    <link>https://example.com/article38</link>
-    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
-    <pubDate>Fri, 21 Mar 2025 11:04:36 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
