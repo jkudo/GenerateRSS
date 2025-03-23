@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>メンタルヘルスの重要性</title>
+    <link>https://example.com/article59</link>
+    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
+    <pubDate>Sun, 23 Mar 2025 07:04:25 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ビジネスツールの紹介</title>
     <link>https://example.com/article54</link>
     <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 22 Mar 2025 22:04:31 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新ファッション2024: トレンド分析</title>
-    <link>https://example.com/article12</link>
-    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
-    <pubDate>Sat, 22 Mar 2025 21:04:16 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ファッション</category>
   </item>
 </channel>
 </rss>
