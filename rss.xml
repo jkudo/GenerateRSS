@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスツールの紹介</title>
+    <link>https://example.com/article54</link>
+    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
+    <pubDate>Sun, 23 Mar 2025 06:06:01 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ヘッドフォンレビュー</title>
     <link>https://example.com/article56</link>
     <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 22 Mar 2025 21:04:16 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>最新スポーツギアのレビュー</title>
-    <link>https://example.com/article71</link>
-    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
-    <pubDate>Sat, 22 Mar 2025 20:04:34 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
