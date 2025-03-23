@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能なファッションの未来</title>
+    <link>https://example.com/article31</link>
+    <description>持続可能なファッション業界の現状と未来について考察します。</description>
+    <pubDate>Sun, 23 Mar 2025 00:22:35 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>最新カメラ機材レビュー</title>
     <link>https://example.com/article63</link>
     <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 22 Mar 2025 15:04:16 GMT</pubDate>
     <author>佐藤花子</author>
     <category>料理</category>
-  </item>
-  <item>
-    <title>最新スポーツギアのレビュー</title>
-    <link>https://example.com/article71</link>
-    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
-    <pubDate>Sat, 22 Mar 2025 14:04:18 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
