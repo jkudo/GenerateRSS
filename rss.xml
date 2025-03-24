@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ヘッドフォンレビュー</title>
+    <link>https://example.com/article56</link>
+    <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
+    <pubDate>Mon, 24 Mar 2025 09:05:41 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新スポーツニュースまとめ</title>
     <link>https://example.com/article40</link>
     <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 24 Mar 2025 00:21:43 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>家庭菜園の始め方とコツ</title>
-    <link>https://example.com/article16</link>
-    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
-    <pubDate>Sun, 23 Mar 2025 23:04:28 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ガーデニング</category>
   </item>
 </channel>
 </rss>
