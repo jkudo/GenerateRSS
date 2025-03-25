@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康維持に役立つサプリメント</title>
+    <link>https://example.com/article14</link>
+    <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
+    <pubDate>Tue, 25 Mar 2025 07:05:09 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新テクノロジー2024: AIの進化</title>
     <link>https://example.com/article1</link>
     <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 24 Mar 2025 22:04:35 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新ビジネスツールの紹介</title>
-    <link>https://example.com/article54</link>
-    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
-    <pubDate>Mon, 24 Mar 2025 21:04:41 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
