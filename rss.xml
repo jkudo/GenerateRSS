@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スポーツニュースまとめ</title>
+    <link>https://example.com/article40</link>
+    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
+    <pubDate>Wed, 26 Mar 2025 12:07:49 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>働き方改革とその影響</title>
     <link>https://example.com/article27</link>
     <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 26 Mar 2025 03:15:16 GMT</pubDate>
     <author>山田太郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>最新映画レビュー: 『スターライト』</title>
-    <link>https://example.com/article4</link>
-    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
-    <pubDate>Wed, 26 Mar 2025 02:30:35 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
