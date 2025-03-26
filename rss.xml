@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>旅行計画の立て方とおすすめ先</title>
+    <link>https://example.com/article11</link>
+    <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
+    <pubDate>Wed, 26 Mar 2025 03:15:16 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 25 Mar 2025 18:06:34 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>初心者向けデジタルマーケティング戦略</title>
-    <link>https://example.com/article82</link>
-    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
-    <pubDate>Tue, 25 Mar 2025 17:04:52 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
