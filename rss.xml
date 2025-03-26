@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Wed, 26 Mar 2025 21:04:31 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>ペットと共に過ごす快適な生活</title>
     <link>https://example.com/article38</link>
     <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 26 Mar 2025 12:07:49 GMT</pubDate>
     <author>伊藤健一</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>働き方改革とその影響</title>
-    <link>https://example.com/article27</link>
-    <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
-    <pubDate>Wed, 26 Mar 2025 11:04:35 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
