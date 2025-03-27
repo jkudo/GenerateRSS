@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ヘルスケアテクノロジー</title>
+    <link>https://example.com/article43</link>
+    <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
+    <pubDate>Thu, 27 Mar 2025 13:10:43 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ビジネスセミナー情報</title>
     <link>https://example.com/article69</link>
     <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 27 Mar 2025 04:05:56 GMT</pubDate>
     <author>田中美咲</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>最新ビジネスセミナー情報</title>
-    <link>https://example.com/article69</link>
-    <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
-    <pubDate>Thu, 27 Mar 2025 03:15:51 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
