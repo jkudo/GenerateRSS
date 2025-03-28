@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Fri, 28 Mar 2025 23:04:35 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>効率的なチームコミュニケーション方法</title>
     <link>https://example.com/article62</link>
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article25</link>
     <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
     <pubDate>Fri, 28 Mar 2025 14:04:52 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>最新音楽アルバムレビュー</title>
-    <link>https://example.com/article25</link>
-    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
-    <pubDate>Fri, 28 Mar 2025 13:10:05 GMT</pubDate>
     <author>伊藤健一</author>
     <category>エンターテインメント</category>
   </item>
