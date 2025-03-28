@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ペットと共に過ごす快適な生活</title>
+    <link>https://example.com/article38</link>
+    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
+    <pubDate>Fri, 28 Mar 2025 03:17:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ペット</category>
+  </item>
+  <item>
     <title>最新ビジネス書ベストセラー紹介</title>
     <link>https://example.com/article32</link>
     <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 27 Mar 2025 18:06:23 GMT</pubDate>
     <author>田中美咲</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>デジタルマーケティングの最新動向</title>
-    <link>https://example.com/article15</link>
-    <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
-    <pubDate>Thu, 27 Mar 2025 17:04:39 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
