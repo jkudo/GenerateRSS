@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Fri, 28 Mar 2025 01:32:33 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>子育てと仕事の両立方法</title>
     <link>https://example.com/article46</link>
     <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 27 Mar 2025 16:05:59 GMT</pubDate>
     <author>山田太郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>持続可能なファッションの未来</title>
-    <link>https://example.com/article31</link>
-    <description>持続可能なファッション業界の現状と未来について考察します。</description>
-    <pubDate>Thu, 27 Mar 2025 15:05:09 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ファッション</category>
   </item>
 </channel>
 </rss>
