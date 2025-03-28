@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バーチャルリアリティ（VR）技術</title>
+    <link>https://example.com/article74</link>
+    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
+    <pubDate>Fri, 28 Mar 2025 05:05:27 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>持続可能な農業の未来</title>
     <link>https://example.com/article97</link>
     <description>持続可能な農業技術とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 27 Mar 2025 20:05:14 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>クラウドコンピューティングの基礎</title>
-    <link>https://example.com/article34</link>
-    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
-    <pubDate>Thu, 27 Mar 2025 19:04:31 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
