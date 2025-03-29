@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子書籍リーダーの紹介</title>
+    <link>https://example.com/article67</link>
+    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
+    <pubDate>Sat, 29 Mar 2025 02:29:51 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>デジタルマーケティングの最新動向</title>
     <link>https://example.com/article15</link>
     <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
@@ -76,14 +84,6 @@
     <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
     <pubDate>Fri, 28 Mar 2025 17:04:41 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>プログラミング言語Pythonの基礎</title>
-    <link>https://example.com/article48</link>
-    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
-    <pubDate>Fri, 28 Mar 2025 16:05:41 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>テクノロジー</category>
   </item>
 </channel>
