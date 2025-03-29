@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能なファッションの未来</title>
+    <link>https://example.com/article31</link>
+    <description>持続可能なファッション業界の現状と未来について考察します。</description>
+    <pubDate>Sat, 29 Mar 2025 10:04:36 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>最新ビデオ編集ソフトの比較</title>
     <link>https://example.com/article86</link>
     <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 29 Mar 2025 01:32:26 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新ヘルスケアテクノロジー</title>
-    <link>https://example.com/article43</link>
-    <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
-    <pubDate>Sat, 29 Mar 2025 00:20:24 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
