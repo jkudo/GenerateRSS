@@ -10,6 +10,14 @@
     <title>リーダーシップのスキル向上方法</title>
     <link>https://example.com/article52</link>
     <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
+    <pubDate>Sun, 30 Mar 2025 20:04:42 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
+    <title>リーダーシップのスキル向上方法</title>
+    <link>https://example.com/article52</link>
+    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
     <pubDate>Sun, 30 Mar 2025 19:04:22 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
@@ -76,14 +84,6 @@
     <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
     <pubDate>Sun, 30 Mar 2025 11:04:36 GMT</pubDate>
     <author>田中美咲</author>
-    <category>環境</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Sun, 30 Mar 2025 10:04:33 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>環境</category>
   </item>
 </channel>
