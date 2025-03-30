@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ヨガで心と体をリフレッシュ</title>
+    <link>https://example.com/article9</link>
+    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
+    <pubDate>Sun, 30 Mar 2025 16:04:48 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ビデオ編集ソフトの比較</title>
     <link>https://example.com/article86</link>
     <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 30 Mar 2025 07:04:42 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>効果的なソーシャルメディア戦略</title>
-    <link>https://example.com/article93</link>
-    <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
-    <pubDate>Sun, 30 Mar 2025 06:06:12 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
