@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新キッチンガジェットのレビュー</title>
+    <link>https://example.com/article79</link>
+    <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
+    <pubDate>Sun, 30 Mar 2025 05:04:49 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>初心者向け写真撮影ガイド</title>
     <link>https://example.com/article42</link>
     <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 29 Mar 2025 20:04:36 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新ビジネス書ベストセラー紹介</title>
-    <link>https://example.com/article32</link>
-    <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
-    <pubDate>Sat, 29 Mar 2025 19:04:34 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
