@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ウェアラブルデバイスの紹介</title>
+    <link>https://example.com/article83</link>
+    <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
+    <pubDate>Sun, 30 Mar 2025 13:07:52 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>持続可能な都市計画の事例</title>
     <link>https://example.com/article64</link>
     <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 30 Mar 2025 04:05:30 GMT</pubDate>
     <author>佐藤花子</author>
     <category>趣味</category>
-  </item>
-  <item>
-    <title>最新ビジネスインサイト: データ分析の重要性</title>
-    <link>https://example.com/article45</link>
-    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
-    <pubDate>Sun, 30 Mar 2025 03:19:58 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
