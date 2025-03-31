@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持ち運び便利なガジェット特集</title>
+    <link>https://example.com/article35</link>
+    <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
+    <pubDate>Mon, 31 Mar 2025 04:06:10 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新テクノロジー2024: AIの進化</title>
     <link>https://example.com/article1</link>
     <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 30 Mar 2025 19:04:22 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>料理初心者向け簡単レシピ集</title>
-    <link>https://example.com/article7</link>
-    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
-    <pubDate>Sun, 30 Mar 2025 18:05:35 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>料理</category>
   </item>
 </channel>
 </rss>
