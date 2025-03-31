@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>環境保護の重要性と私たちの役割</title>
+    <link>https://example.com/article6</link>
+    <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
+    <pubDate>Mon, 31 Mar 2025 00:22:15 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新ビジネスインサイト: データ分析の重要性</title>
     <link>https://example.com/article45</link>
     <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 30 Mar 2025 15:04:35 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>アートセラピーの効果と実践方法</title>
-    <link>https://example.com/article36</link>
-    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
-    <pubDate>Sun, 30 Mar 2025 14:04:25 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
