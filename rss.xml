@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ペットと共に過ごす快適な生活</title>
+    <link>https://example.com/article38</link>
+    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
+    <pubDate>Mon, 31 Mar 2025 13:11:29 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ペット</category>
+  </item>
+  <item>
     <title>投資初心者のためのガイド</title>
     <link>https://example.com/article10</link>
     <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
@@ -76,14 +84,6 @@
     <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
     <pubDate>Mon, 31 Mar 2025 04:06:10 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新テクノロジー2024: AIの進化</title>
-    <link>https://example.com/article1</link>
-    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
-    <pubDate>Mon, 31 Mar 2025 03:19:54 GMT</pubDate>
-    <author>山田太郎</author>
     <category>テクノロジー</category>
   </item>
 </channel>
