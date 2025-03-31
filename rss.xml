@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新テクノロジー2024: AIの進化</title>
+    <link>https://example.com/article1</link>
+    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
+    <pubDate>Mon, 31 Mar 2025 03:19:54 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>持続可能な農業の未来</title>
     <link>https://example.com/article97</link>
     <description>持続可能な農業技術とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 30 Mar 2025 18:05:35 GMT</pubDate>
     <author>佐藤花子</author>
     <category>料理</category>
-  </item>
-  <item>
-    <title>持続可能な建築デザインのトレンド</title>
-    <link>https://example.com/article84</link>
-    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
-    <pubDate>Sun, 30 Mar 2025 17:04:25 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>建築</category>
   </item>
 </channel>
 </rss>
