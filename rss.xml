@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテック技術の応用</title>
+    <link>https://example.com/article92</link>
+    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
+    <pubDate>Tue, 01 Apr 2025 10:05:46 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>働き方改革とその影響</title>
     <link>https://example.com/article27</link>
     <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 01 Apr 2025 01:33:18 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新モバイルアプリの紹介</title>
-    <link>https://example.com/article96</link>
-    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
-    <pubDate>Tue, 01 Apr 2025 00:24:08 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
