@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ペットの健康管理ガイド</title>
+    <link>https://example.com/article19</link>
+    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
+    <pubDate>Tue, 01 Apr 2025 18:05:41 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ペット</category>
+  </item>
+  <item>
     <title>料理初心者向け簡単レシピ集</title>
     <link>https://example.com/article7</link>
     <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article27</link>
     <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
     <pubDate>Tue, 01 Apr 2025 09:05:44 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>リーダーシップのスキル向上方法</title>
-    <link>https://example.com/article52</link>
-    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
-    <pubDate>Tue, 01 Apr 2025 08:06:45 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
   </item>
