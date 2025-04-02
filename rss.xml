@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新テクノロジーによる教育改革</title>
+    <link>https://example.com/article61</link>
+    <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
+    <pubDate>Wed, 02 Apr 2025 16:05:52 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>スマートホーム技術の最新動向</title>
     <link>https://example.com/article37</link>
     <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 02 Apr 2025 07:05:21 GMT</pubDate>
     <author>佐藤花子</author>
     <category>趣味</category>
-  </item>
-  <item>
-    <title>初心者向けオンラインマーケティング</title>
-    <link>https://example.com/article73</link>
-    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
-    <pubDate>Wed, 02 Apr 2025 06:07:02 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
