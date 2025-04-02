@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>家庭でできる簡単エクササイズ</title>
+    <link>https://example.com/article68</link>
+    <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
+    <pubDate>Wed, 02 Apr 2025 08:06:44 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>初心者向け写真撮影ガイド</title>
     <link>https://example.com/article42</link>
     <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 01 Apr 2025 23:04:44 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新エンターテインメントニュース</title>
-    <link>https://example.com/article47</link>
-    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
-    <pubDate>Tue, 01 Apr 2025 22:04:52 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
