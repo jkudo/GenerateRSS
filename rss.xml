@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ヨガで心と体をリフレッシュ</title>
+    <link>https://example.com/article9</link>
+    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
+    <pubDate>Thu, 03 Apr 2025 15:04:56 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新カメラ機材レビュー</title>
     <link>https://example.com/article63</link>
     <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 03 Apr 2025 06:06:36 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新デジタルマーケティングツール</title>
-    <link>https://example.com/article99</link>
-    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
-    <pubDate>Thu, 03 Apr 2025 05:05:22 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
