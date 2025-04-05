@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
+    <link>https://example.com/article21</link>
+    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
+    <pubDate>Sat, 05 Apr 2025 04:05:30 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新ヘッドフォンレビュー</title>
     <link>https://example.com/article56</link>
     <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 04 Apr 2025 19:04:36 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>料理初心者向け簡単レシピ集</title>
-    <link>https://example.com/article7</link>
-    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
-    <pubDate>Fri, 04 Apr 2025 18:06:20 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>料理</category>
   </item>
 </channel>
 </rss>
