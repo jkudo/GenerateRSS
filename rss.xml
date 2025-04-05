@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコライフのすすめ</title>
+    <link>https://example.com/article22</link>
+    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
+    <pubDate>Sat, 05 Apr 2025 18:05:25 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新カメラ機材レビュー</title>
     <link>https://example.com/article63</link>
     <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 05 Apr 2025 09:04:41 GMT</pubDate>
     <author>佐藤花子</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>オンライン教育のメリットと課題</title>
-    <link>https://example.com/article28</link>
-    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
-    <pubDate>Sat, 05 Apr 2025 08:05:32 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
