@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコフレンドリーな生活用品</title>
+    <link>https://example.com/article60</link>
+    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
+    <pubDate>Sat, 05 Apr 2025 05:04:51 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
     <link>https://example.com/article21</link>
     <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 04 Apr 2025 20:05:32 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>効果的なSEO対策の方法</title>
-    <link>https://example.com/article85</link>
-    <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
-    <pubDate>Fri, 04 Apr 2025 19:04:36 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
