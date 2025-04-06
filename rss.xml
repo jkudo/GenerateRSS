@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>子育てと仕事の両立方法</title>
+    <link>https://example.com/article46</link>
+    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
+    <pubDate>Sun, 06 Apr 2025 11:04:12 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>最新エンターテインメントニュース</title>
     <link>https://example.com/article47</link>
     <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 06 Apr 2025 02:32:43 GMT</pubDate>
     <author>伊藤健一</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>リモートワークの効率化ツール</title>
-    <link>https://example.com/article33</link>
-    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
-    <pubDate>Sun, 06 Apr 2025 01:32:22 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
