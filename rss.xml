@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新テクノロジー2024: AIの進化</title>
+    <link>https://example.com/article1</link>
+    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
+    <pubDate>Sun, 06 Apr 2025 00:22:31 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>持続可能なエネルギーの未来</title>
     <link>https://example.com/article41</link>
     <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 05 Apr 2025 15:04:16 GMT</pubDate>
     <author>伊藤健一</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>初心者向けブログの始め方</title>
-    <link>https://example.com/article55</link>
-    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
-    <pubDate>Sat, 05 Apr 2025 14:04:15 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
