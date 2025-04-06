@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>家庭菜園の始め方とコツ</title>
+    <link>https://example.com/article16</link>
+    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
+    <pubDate>Sun, 06 Apr 2025 09:04:32 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ガーデニング</category>
+  </item>
+  <item>
     <title>最新音楽アルバムレビュー</title>
     <link>https://example.com/article25</link>
     <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 06 Apr 2025 00:22:31 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>持続可能なエネルギーの未来</title>
-    <link>https://example.com/article41</link>
-    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
-    <pubDate>Sat, 05 Apr 2025 23:04:42 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
