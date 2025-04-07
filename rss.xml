@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なオンライン広告の手法</title>
+    <link>https://example.com/article98</link>
+    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
+    <pubDate>Mon, 07 Apr 2025 14:05:08 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新ビジネスセミナー情報</title>
     <link>https://example.com/article69</link>
     <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 07 Apr 2025 05:05:26 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>リーダーシップのスキル向上方法</title>
-    <link>https://example.com/article52</link>
-    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
-    <pubDate>Mon, 07 Apr 2025 04:06:09 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
