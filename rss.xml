@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自宅でできるフィットネスプログラム</title>
+    <link>https://example.com/article44</link>
+    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
+    <pubDate>Mon, 07 Apr 2025 12:08:20 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>ホームオフィスの快適な作り方</title>
     <link>https://example.com/article20</link>
     <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
@@ -76,14 +84,6 @@
     <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
     <pubDate>Mon, 07 Apr 2025 03:19:21 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>スマートホーム技術の最新動向</title>
-    <link>https://example.com/article37</link>
-    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
-    <pubDate>Mon, 07 Apr 2025 02:32:29 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>テクノロジー</category>
   </item>
 </channel>
