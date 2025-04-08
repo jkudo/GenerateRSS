@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートチームのマネジメント術</title>
+    <link>https://example.com/article87</link>
+    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
+    <pubDate>Tue, 08 Apr 2025 09:05:36 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>自宅でできるフィットネスプログラム</title>
     <link>https://example.com/article44</link>
     <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 08 Apr 2025 00:20:44 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>ペットの健康管理ガイド</title>
-    <link>https://example.com/article19</link>
-    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
-    <pubDate>Mon, 07 Apr 2025 23:04:39 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
