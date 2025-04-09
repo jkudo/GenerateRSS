@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>プログラミング言語Pythonの基礎</title>
+    <link>https://example.com/article48</link>
+    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
+    <pubDate>Wed, 09 Apr 2025 14:05:38 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 09 Apr 2025 05:05:24 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新映画レビュー: 『スターライト』</title>
-    <link>https://example.com/article4</link>
-    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
-    <pubDate>Wed, 09 Apr 2025 04:06:09 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
