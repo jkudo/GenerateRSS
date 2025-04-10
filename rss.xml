@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインセキュリティの基本</title>
+    <link>https://example.com/article50</link>
+    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
+    <pubDate>Thu, 10 Apr 2025 08:06:35 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新フィンテック技術の応用</title>
     <link>https://example.com/article92</link>
     <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 09 Apr 2025 23:04:48 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新エンターテインメントニュース</title>
-    <link>https://example.com/article47</link>
-    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
-    <pubDate>Wed, 09 Apr 2025 22:04:39 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
