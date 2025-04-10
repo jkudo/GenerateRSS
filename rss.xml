@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテック技術の応用</title>
+    <link>https://example.com/article92</link>
+    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
+    <pubDate>Thu, 10 Apr 2025 07:05:28 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>最新サステナビリティプロジェクト</title>
     <link>https://example.com/article90</link>
     <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 09 Apr 2025 22:04:39 GMT</pubDate>
     <author>佐藤花子</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>家庭でできる簡単エクササイズ</title>
-    <link>https://example.com/article68</link>
-    <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
-    <pubDate>Wed, 09 Apr 2025 21:04:31 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
