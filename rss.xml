@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効率的なチームコミュニケーション方法</title>
+    <link>https://example.com/article62</link>
+    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
+    <pubDate>Thu, 10 Apr 2025 23:04:48 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>リモートワークの効率化ツール</title>
     <link>https://example.com/article33</link>
     <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 10 Apr 2025 14:05:04 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>リモートワークの効率化ツール</title>
-    <link>https://example.com/article33</link>
-    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
-    <pubDate>Thu, 10 Apr 2025 13:12:00 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
