@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビデオ編集ソフトの比較</title>
+    <link>https://example.com/article86</link>
+    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
+    <pubDate>Fri, 11 Apr 2025 02:32:08 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ヘルスケアテクノロジー</title>
     <link>https://example.com/article43</link>
     <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 10 Apr 2025 17:04:47 GMT</pubDate>
     <author>山田太郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>最新ビデオ編集ソフトの比較</title>
-    <link>https://example.com/article86</link>
-    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
-    <pubDate>Thu, 10 Apr 2025 16:05:49 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
