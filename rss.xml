@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な食生活の提案</title>
+    <link>https://example.com/article72</link>
+    <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
+    <pubDate>Sat, 12 Apr 2025 22:04:16 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新スポーツニュースまとめ</title>
     <link>https://example.com/article40</link>
     <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 12 Apr 2025 13:07:42 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>ホームオフィスの快適な作り方</title>
-    <link>https://example.com/article20</link>
-    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
-    <pubDate>Sat, 12 Apr 2025 12:07:06 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
