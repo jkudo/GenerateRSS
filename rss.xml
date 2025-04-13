@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインセキュリティの基本</title>
+    <link>https://example.com/article50</link>
+    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
+    <pubDate>Sun, 13 Apr 2025 13:08:31 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新サステナビリティプロジェクト</title>
     <link>https://example.com/article90</link>
     <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 13 Apr 2025 04:31:09 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>オンラインセキュリティの基本</title>
-    <link>https://example.com/article50</link>
-    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
-    <pubDate>Sun, 13 Apr 2025 03:01:46 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
