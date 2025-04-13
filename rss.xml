@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Sun, 13 Apr 2025 05:10:24 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>初心者向けオンラインマーケティング</title>
     <link>https://example.com/article73</link>
     <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 12 Apr 2025 19:04:16 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>スマートホーム技術の最新動向</title>
-    <link>https://example.com/article37</link>
-    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
-    <pubDate>Sat, 12 Apr 2025 18:05:35 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
