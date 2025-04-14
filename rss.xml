@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Mon, 14 Apr 2025 14:05:11 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>デジタルマーケティングの最新動向</title>
     <link>https://example.com/article15</link>
     <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 14 Apr 2025 05:05:42 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新フィットネスアプリの比較</title>
-    <link>https://example.com/article65</link>
-    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
-    <pubDate>Mon, 14 Apr 2025 04:06:12 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
