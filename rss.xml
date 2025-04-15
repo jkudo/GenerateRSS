@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームセキュリティの強化方法</title>
+    <link>https://example.com/article30</link>
+    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
+    <pubDate>Tue, 15 Apr 2025 19:04:15 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新キッチンガジェットのレビュー</title>
     <link>https://example.com/article79</link>
     <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 15 Apr 2025 10:05:38 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ストレス解消法の紹介</title>
-    <link>https://example.com/article18</link>
-    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
-    <pubDate>Tue, 15 Apr 2025 09:05:40 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
