@@ -10,6 +10,14 @@
     <title>持続可能なエネルギーの未来</title>
     <link>https://example.com/article41</link>
     <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
+    <pubDate>Tue, 15 Apr 2025 08:06:53 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>環境</category>
+  </item>
+  <item>
+    <title>持続可能なエネルギーの未来</title>
+    <link>https://example.com/article41</link>
+    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
     <pubDate>Tue, 15 Apr 2025 07:05:41 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 14 Apr 2025 23:04:42 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>効果的な時間管理術</title>
-    <link>https://example.com/article13</link>
-    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
-    <pubDate>Mon, 14 Apr 2025 22:04:48 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
