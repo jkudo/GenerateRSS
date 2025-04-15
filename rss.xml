@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートシティの実現に向けて</title>
+    <link>https://example.com/article100</link>
+    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
+    <pubDate>Tue, 15 Apr 2025 00:21:44 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ヨガで心と体をリフレッシュ</title>
     <link>https://example.com/article9</link>
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
@@ -76,14 +84,6 @@
     <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
     <pubDate>Mon, 14 Apr 2025 15:05:22 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>環境</category>
-  </item>
-  <item>
-    <title>グリーンテクノロジーの進展</title>
-    <link>https://example.com/article49</link>
-    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
-    <pubDate>Mon, 14 Apr 2025 14:05:11 GMT</pubDate>
-    <author>田中美咲</author>
     <category>環境</category>
   </item>
 </channel>
