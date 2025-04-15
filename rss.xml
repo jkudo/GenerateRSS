@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クラウドコンピューティングの基礎</title>
+    <link>https://example.com/article34</link>
+    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
+    <pubDate>Tue, 15 Apr 2025 02:32:40 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>オンラインショッピングの賢い利用法</title>
     <link>https://example.com/article39</link>
     <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
@@ -76,14 +84,6 @@
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
     <pubDate>Mon, 14 Apr 2025 17:04:56 GMT</pubDate>
     <author>田中美咲</author>
-    <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>最新音楽アルバムレビュー</title>
-    <link>https://example.com/article25</link>
-    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
-    <pubDate>Mon, 14 Apr 2025 16:05:59 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>エンターテインメント</category>
   </item>
 </channel>
