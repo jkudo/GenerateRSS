@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームオフィスの快適な作り方</title>
+    <link>https://example.com/article20</link>
+    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
+    <pubDate>Wed, 16 Apr 2025 02:32:42 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>健康的なライフスタイルの秘訣</title>
     <link>https://example.com/article2</link>
     <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 15 Apr 2025 17:04:46 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>最新スポーツギアのレビュー</title>
-    <link>https://example.com/article71</link>
-    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
-    <pubDate>Tue, 15 Apr 2025 16:04:59 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
