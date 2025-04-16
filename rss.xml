@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康維持に役立つサプリメント</title>
+    <link>https://example.com/article14</link>
+    <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
+    <pubDate>Wed, 16 Apr 2025 11:04:41 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>クラウドコンピューティングの基礎</title>
     <link>https://example.com/article34</link>
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 16 Apr 2025 02:32:42 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>健康的なライフスタイルの秘訣</title>
-    <link>https://example.com/article2</link>
-    <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
-    <pubDate>Wed, 16 Apr 2025 01:33:08 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
