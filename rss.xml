@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>料理初心者向け簡単レシピ集</title>
+    <link>https://example.com/article7</link>
+    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
+    <pubDate>Wed, 16 Apr 2025 06:07:07 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>料理</category>
+  </item>
+  <item>
     <title>持続可能なエネルギーの未来</title>
     <link>https://example.com/article41</link>
     <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 15 Apr 2025 21:04:43 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新ビジネスインサイト: データ分析の重要性</title>
-    <link>https://example.com/article45</link>
-    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
-    <pubDate>Tue, 15 Apr 2025 20:05:39 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
