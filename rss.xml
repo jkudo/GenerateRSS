@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スマートフォンの比較レビュー</title>
+    <link>https://example.com/article8</link>
+    <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
+    <pubDate>Thu, 17 Apr 2025 23:04:55 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新バイオテクノロジーの進展</title>
     <link>https://example.com/article94</link>
     <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 17 Apr 2025 14:04:57 GMT</pubDate>
     <author>伊藤健一</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>最新ウェアラブルデバイスの紹介</title>
-    <link>https://example.com/article83</link>
-    <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
-    <pubDate>Thu, 17 Apr 2025 13:11:22 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
