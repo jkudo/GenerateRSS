@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ストレス解消法の紹介</title>
+    <link>https://example.com/article18</link>
+    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
+    <pubDate>Thu, 17 Apr 2025 05:05:25 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ファッション2024: トレンド分析</title>
     <link>https://example.com/article12</link>
     <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 16 Apr 2025 20:05:38 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>最新ビデオ編集ソフトの比較</title>
-    <link>https://example.com/article86</link>
-    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
-    <pubDate>Wed, 16 Apr 2025 19:04:22 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
