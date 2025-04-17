@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新サステナビリティプロジェクト</title>
+    <link>https://example.com/article90</link>
+    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
+    <pubDate>Thu, 17 Apr 2025 20:05:21 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>プログラミング言語Pythonの基礎</title>
     <link>https://example.com/article48</link>
     <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 17 Apr 2025 11:04:31 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新バイオテクノロジーの進展</title>
-    <link>https://example.com/article94</link>
-    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
-    <pubDate>Thu, 17 Apr 2025 10:05:23 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
