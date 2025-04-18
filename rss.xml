@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効率的なチームコミュニケーション方法</title>
+    <link>https://example.com/article62</link>
+    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
+    <pubDate>Fri, 18 Apr 2025 15:04:51 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新フィンテックサービスの紹介</title>
     <link>https://example.com/article76</link>
     <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
@@ -76,14 +84,6 @@
     <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
     <pubDate>Fri, 18 Apr 2025 06:06:49 GMT</pubDate>
     <author>山田太郎</author>
-    <category>環境</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Fri, 18 Apr 2025 05:05:23 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>環境</category>
   </item>
 </channel>
