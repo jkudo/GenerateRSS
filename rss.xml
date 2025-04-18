@@ -10,6 +10,14 @@
     <title>エコライフのすすめ</title>
     <link>https://example.com/article22</link>
     <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
+    <pubDate>Fri, 18 Apr 2025 01:32:44 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
+    <title>エコライフのすすめ</title>
+    <link>https://example.com/article22</link>
+    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
     <pubDate>Fri, 18 Apr 2025 00:21:02 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 17 Apr 2025 16:05:41 GMT</pubDate>
     <author>山田太郎</author>
     <category>書評</category>
-  </item>
-  <item>
-    <title>働き方改革とその影響</title>
-    <link>https://example.com/article27</link>
-    <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
-    <pubDate>Thu, 17 Apr 2025 15:05:02 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
