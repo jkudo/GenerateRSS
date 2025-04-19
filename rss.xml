@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自転車メンテナンスの基本</title>
+    <link>https://example.com/article26</link>
+    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
+    <pubDate>Sat, 19 Apr 2025 05:04:42 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>オンラインプライバシーの保護方法</title>
     <link>https://example.com/article66</link>
     <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 18 Apr 2025 20:05:13 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>ビジネス成功のための戦略</title>
-    <link>https://example.com/article5</link>
-    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
-    <pubDate>Fri, 18 Apr 2025 19:04:16 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
