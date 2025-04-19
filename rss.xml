@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自宅でできるフィットネスプログラム</title>
+    <link>https://example.com/article44</link>
+    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
+    <pubDate>Sat, 19 Apr 2025 18:05:24 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>ヨガで心と体をリフレッシュ</title>
     <link>https://example.com/article9</link>
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
@@ -76,14 +84,6 @@
     <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
     <pubDate>Sat, 19 Apr 2025 09:04:36 GMT</pubDate>
     <author>田中美咲</author>
-    <category>環境</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Sat, 19 Apr 2025 08:05:42 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>環境</category>
   </item>
 </channel>
