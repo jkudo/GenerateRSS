@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートチームのマネジメント術</title>
+    <link>https://example.com/article87</link>
+    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
+    <pubDate>Sat, 19 Apr 2025 20:04:45 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>料理初心者向け簡単レシピ集</title>
     <link>https://example.com/article7</link>
     <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 19 Apr 2025 11:04:29 GMT</pubDate>
     <author>山田太郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>スマートウォッチの活用術</title>
-    <link>https://example.com/article53</link>
-    <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
-    <pubDate>Sat, 19 Apr 2025 10:04:36 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
