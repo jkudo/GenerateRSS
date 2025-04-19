@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ヨガで心と体をリフレッシュ</title>
+    <link>https://example.com/article9</link>
+    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
+    <pubDate>Sat, 19 Apr 2025 17:04:22 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>エコフレンドリーな生活用品</title>
     <link>https://example.com/article60</link>
     <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 19 Apr 2025 08:05:42 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>オンラインプライバシーの保護方法</title>
-    <link>https://example.com/article66</link>
-    <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
-    <pubDate>Sat, 19 Apr 2025 07:04:31 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
