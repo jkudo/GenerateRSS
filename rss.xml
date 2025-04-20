@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Sun, 20 Apr 2025 08:05:41 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>グリーンテクノロジーの進展</title>
     <link>https://example.com/article49</link>
     <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
@@ -76,14 +84,6 @@
     <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
     <pubDate>Sat, 19 Apr 2025 23:04:50 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>アートセラピーの効果と実践方法</title>
-    <link>https://example.com/article36</link>
-    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
-    <pubDate>Sat, 19 Apr 2025 22:04:23 GMT</pubDate>
-    <author>山田太郎</author>
     <category>健康</category>
   </item>
 </channel>
