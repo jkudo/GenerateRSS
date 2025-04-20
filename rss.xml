@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン学習の効果的な活用法</title>
+    <link>https://example.com/article78</link>
+    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
+    <pubDate>Sun, 20 Apr 2025 02:33:42 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>デジタルアートの作り方</title>
     <link>https://example.com/article70</link>
     <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 19 Apr 2025 17:04:22 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>エコフレンドリーな生活用品</title>
-    <link>https://example.com/article60</link>
-    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
-    <pubDate>Sat, 19 Apr 2025 16:04:56 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
