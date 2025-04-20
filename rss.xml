@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自宅でできるフィットネスプログラム</title>
+    <link>https://example.com/article44</link>
+    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
+    <pubDate>Sun, 20 Apr 2025 22:04:24 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>アートセラピーの効果と実践方法</title>
     <link>https://example.com/article36</link>
     <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 20 Apr 2025 13:08:58 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>オンライン学習の効果的な活用法</title>
-    <link>https://example.com/article78</link>
-    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
-    <pubDate>Sun, 20 Apr 2025 12:07:11 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
