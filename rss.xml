@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ストレス解消法の紹介</title>
+    <link>https://example.com/article18</link>
+    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
+    <pubDate>Sun, 20 Apr 2025 13:08:58 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>オンライン学習の効果的な活用法</title>
     <link>https://example.com/article78</link>
     <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 20 Apr 2025 04:05:32 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>エシカル消費のすすめ</title>
-    <link>https://example.com/article80</link>
-    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
-    <pubDate>Sun, 20 Apr 2025 03:20:07 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
