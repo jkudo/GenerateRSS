@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン学習の効果的な活用法</title>
+    <link>https://example.com/article78</link>
+    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
+    <pubDate>Sun, 20 Apr 2025 12:07:11 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>持続可能な都市計画の事例</title>
     <link>https://example.com/article64</link>
     <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 20 Apr 2025 03:20:07 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>オンライン学習の効果的な活用法</title>
-    <link>https://example.com/article78</link>
-    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
-    <pubDate>Sun, 20 Apr 2025 02:33:42 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
