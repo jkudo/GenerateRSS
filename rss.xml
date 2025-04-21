@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネストレンド2024</title>
+    <link>https://example.com/article29</link>
+    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
+    <pubDate>Mon, 21 Apr 2025 14:04:49 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>効果的なSEO対策の方法</title>
     <link>https://example.com/article85</link>
     <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 21 Apr 2025 05:05:34 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>ペットの健康管理ガイド</title>
-    <link>https://example.com/article19</link>
-    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
-    <pubDate>Mon, 21 Apr 2025 04:06:25 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
