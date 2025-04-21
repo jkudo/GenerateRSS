@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ファッション2024: トレンド分析</title>
+    <link>https://example.com/article12</link>
+    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
+    <pubDate>Mon, 21 Apr 2025 22:05:09 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>エコライフのすすめ</title>
     <link>https://example.com/article22</link>
     <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 21 Apr 2025 13:10:41 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>クラウドコンピューティングの基礎</title>
-    <link>https://example.com/article34</link>
-    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
-    <pubDate>Mon, 21 Apr 2025 12:08:08 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
