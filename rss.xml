@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スマートフォンの比較レビュー</title>
+    <link>https://example.com/article8</link>
+    <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
+    <pubDate>Tue, 22 Apr 2025 18:06:33 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ガジェットレビュー</title>
     <link>https://example.com/article17</link>
     <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 22 Apr 2025 09:05:34 GMT</pubDate>
     <author>伊藤健一</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>効果的なオンライン広告の手法</title>
-    <link>https://example.com/article98</link>
-    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
-    <pubDate>Tue, 22 Apr 2025 08:06:55 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
