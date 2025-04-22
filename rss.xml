@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>子育てと仕事の両立方法</title>
+    <link>https://example.com/article46</link>
+    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
+    <pubDate>Tue, 22 Apr 2025 07:05:26 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>エコフレンドリーな生活用品</title>
     <link>https://example.com/article60</link>
     <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 21 Apr 2025 22:05:09 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>エコライフのすすめ</title>
-    <link>https://example.com/article22</link>
-    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
-    <pubDate>Mon, 21 Apr 2025 21:04:36 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
