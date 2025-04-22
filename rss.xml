@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なオンライン広告の手法</title>
+    <link>https://example.com/article98</link>
+    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
+    <pubDate>Tue, 22 Apr 2025 12:08:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>リモートワークの効率化ツール</title>
     <link>https://example.com/article33</link>
     <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
@@ -76,14 +84,6 @@
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
     <pubDate>Tue, 22 Apr 2025 03:19:30 GMT</pubDate>
     <author>田中美咲</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>ストレス解消法の紹介</title>
-    <link>https://example.com/article18</link>
-    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
-    <pubDate>Tue, 22 Apr 2025 02:32:23 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>健康</category>
   </item>
 </channel>
