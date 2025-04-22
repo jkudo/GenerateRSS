@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビデオ編集ソフトの比較</title>
+    <link>https://example.com/article86</link>
+    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
+    <pubDate>Tue, 22 Apr 2025 15:05:15 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ファッション2024: トレンド分析</title>
     <link>https://example.com/article12</link>
     <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 22 Apr 2025 06:06:45 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>スマートホーム技術の最新動向</title>
-    <link>https://example.com/article37</link>
-    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
-    <pubDate>Tue, 22 Apr 2025 05:05:36 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
