@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康的なライフスタイルの秘訣</title>
+    <link>https://example.com/article2</link>
+    <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
+    <pubDate>Wed, 23 Apr 2025 22:04:42 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>効率的なチームコミュニケーション方法</title>
     <link>https://example.com/article62</link>
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Apr 2025 13:12:12 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>効果的なソーシャルメディア戦略</title>
-    <link>https://example.com/article93</link>
-    <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
-    <pubDate>Wed, 23 Apr 2025 12:08:20 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
