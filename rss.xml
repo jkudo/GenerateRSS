@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な都市計画の事例</title>
+    <link>https://example.com/article64</link>
+    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
+    <pubDate>Wed, 23 Apr 2025 09:05:56 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>リモートワークの効率化ツール</title>
     <link>https://example.com/article33</link>
     <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Apr 2025 00:21:26 GMT</pubDate>
     <author>山田太郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Tue, 22 Apr 2025 23:04:36 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
