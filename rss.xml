@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>東京で訪れるべき観光スポット10選</title>
+    <link>https://example.com/article3</link>
+    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
+    <pubDate>Wed, 23 Apr 2025 14:05:15 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Apr 2025 05:05:27 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>デジタルマーケティングの最新動向</title>
-    <link>https://example.com/article15</link>
-    <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
-    <pubDate>Wed, 23 Apr 2025 04:06:07 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
