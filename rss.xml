@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な農業の未来</title>
+    <link>https://example.com/article97</link>
+    <description>持続可能な農業技術とその未来について考察します。</description>
+    <pubDate>Thu, 24 Apr 2025 02:33:13 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新音楽アルバムレビュー</title>
     <link>https://example.com/article25</link>
     <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Apr 2025 17:05:02 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>ペットと共に過ごす快適な生活</title>
-    <link>https://example.com/article38</link>
-    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
-    <pubDate>Wed, 23 Apr 2025 16:06:08 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
