@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康的なライフスタイルの秘訣</title>
+    <link>https://example.com/article2</link>
+    <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
+    <pubDate>Thu, 24 Apr 2025 03:20:18 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>持続可能な農業の未来</title>
     <link>https://example.com/article97</link>
     <description>持続可能な農業技術とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Apr 2025 18:06:46 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>持続可能な都市計画の事例</title>
-    <link>https://example.com/article64</link>
-    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
-    <pubDate>Wed, 23 Apr 2025 17:05:02 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
