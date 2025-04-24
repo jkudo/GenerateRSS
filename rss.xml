@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な建築デザインのトレンド</title>
+    <link>https://example.com/article84</link>
+    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
+    <pubDate>Thu, 24 Apr 2025 21:04:36 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>建築</category>
+  </item>
+  <item>
     <title>最新スマートフォンの比較レビュー</title>
     <link>https://example.com/article8</link>
     <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 24 Apr 2025 12:08:38 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新ビジネスインテリジェンスツール</title>
-    <link>https://example.com/article81</link>
-    <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
-    <pubDate>Thu, 24 Apr 2025 11:04:37 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
