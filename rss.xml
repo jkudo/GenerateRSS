@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Thu, 24 Apr 2025 01:32:49 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>健康的なライフスタイルの秘訣</title>
     <link>https://example.com/article2</link>
     <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Apr 2025 16:06:08 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>環境保護の重要性と私たちの役割</title>
-    <link>https://example.com/article6</link>
-    <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
-    <pubDate>Wed, 23 Apr 2025 15:05:11 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
