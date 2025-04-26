@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なソーシャルメディア戦略</title>
+    <link>https://example.com/article93</link>
+    <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
+    <pubDate>Sat, 26 Apr 2025 22:04:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新エンターテインメントニュース</title>
     <link>https://example.com/article47</link>
     <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 26 Apr 2025 13:08:35 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>持続可能な食生活の提案</title>
-    <link>https://example.com/article72</link>
-    <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
-    <pubDate>Sat, 26 Apr 2025 12:07:09 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
