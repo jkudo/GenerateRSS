@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームセキュリティの強化方法</title>
+    <link>https://example.com/article30</link>
+    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
+    <pubDate>Sat, 26 Apr 2025 01:32:31 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 25 Apr 2025 16:05:44 GMT</pubDate>
     <author>佐藤花子</author>
     <category>料理</category>
-  </item>
-  <item>
-    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
-    <link>https://example.com/article21</link>
-    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
-    <pubDate>Fri, 25 Apr 2025 15:05:04 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
