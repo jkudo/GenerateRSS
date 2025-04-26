@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新映画レビュー: 『スターライト』</title>
+    <link>https://example.com/article4</link>
+    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
+    <pubDate>Sat, 26 Apr 2025 00:20:57 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>料理初心者向け簡単レシピ集</title>
     <link>https://example.com/article7</link>
     <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 25 Apr 2025 15:05:04 GMT</pubDate>
     <author>山田太郎</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>最新バイオテクノロジーの進展</title>
-    <link>https://example.com/article94</link>
-    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
-    <pubDate>Fri, 25 Apr 2025 14:04:57 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
