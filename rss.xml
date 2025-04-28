@@ -10,6 +10,14 @@
     <title>スマートウォッチの活用術</title>
     <link>https://example.com/article53</link>
     <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
+    <pubDate>Mon, 28 Apr 2025 17:04:41 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
+    <title>スマートウォッチの活用術</title>
+    <link>https://example.com/article53</link>
+    <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
     <pubDate>Mon, 28 Apr 2025 16:05:41 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 28 Apr 2025 08:20:24 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新ビジネス書ベストセラー紹介</title>
-    <link>https://example.com/article32</link>
-    <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
-    <pubDate>Mon, 28 Apr 2025 07:15:52 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
