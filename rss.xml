@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>働き方改革とその影響</title>
+    <link>https://example.com/article27</link>
+    <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
+    <pubDate>Mon, 28 Apr 2025 20:05:32 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新フィットネストレンド2024</title>
     <link>https://example.com/article29</link>
     <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 28 Apr 2025 11:21:09 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Mon, 28 Apr 2025 10:38:24 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
