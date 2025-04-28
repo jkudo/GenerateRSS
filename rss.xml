@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康的なライフスタイルの秘訣</title>
+    <link>https://example.com/article2</link>
+    <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
+    <pubDate>Mon, 28 Apr 2025 04:06:27 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新電子書籍リーダーの紹介</title>
     <link>https://example.com/article67</link>
     <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 27 Apr 2025 19:04:18 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新キッチンガジェットのレビュー</title>
-    <link>https://example.com/article79</link>
-    <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
-    <pubDate>Sun, 27 Apr 2025 18:05:50 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
