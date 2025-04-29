@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Tue, 29 Apr 2025 15:05:11 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>最新クラウドサービス比較</title>
     <link>https://example.com/article58</link>
     <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 29 Apr 2025 06:07:26 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新フィンテック技術の応用</title>
-    <link>https://example.com/article92</link>
-    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
-    <pubDate>Tue, 29 Apr 2025 05:05:31 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
