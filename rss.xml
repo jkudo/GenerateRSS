@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインプライバシーの保護方法</title>
+    <link>https://example.com/article66</link>
+    <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
+    <pubDate>Tue, 29 Apr 2025 21:04:44 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ビジネスセミナー情報</title>
     <link>https://example.com/article69</link>
     <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 29 Apr 2025 12:08:52 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>最新テクノロジーによる教育改革</title>
-    <link>https://example.com/article61</link>
-    <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
-    <pubDate>Tue, 29 Apr 2025 11:04:45 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
