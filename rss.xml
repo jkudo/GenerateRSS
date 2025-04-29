@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ファッション2024: トレンド分析</title>
+    <link>https://example.com/article12</link>
+    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
+    <pubDate>Tue, 29 Apr 2025 12:08:52 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>最新テクノロジーによる教育改革</title>
     <link>https://example.com/article61</link>
     <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 29 Apr 2025 03:20:05 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新フィンテックサービスの紹介</title>
-    <link>https://example.com/article76</link>
-    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
-    <pubDate>Tue, 29 Apr 2025 02:32:57 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
