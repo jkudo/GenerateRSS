@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>料理初心者向け簡単レシピ集</title>
+    <link>https://example.com/article7</link>
+    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
+    <pubDate>Wed, 30 Apr 2025 05:05:31 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>料理</category>
+  </item>
+  <item>
     <title>リモートチームのマネジメント術</title>
     <link>https://example.com/article87</link>
     <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 29 Apr 2025 20:05:45 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新テクノロジー2024: AIの進化</title>
-    <link>https://example.com/article1</link>
-    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
-    <pubDate>Tue, 29 Apr 2025 19:04:21 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
