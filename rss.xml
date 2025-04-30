@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スポーツギアのレビュー</title>
+    <link>https://example.com/article71</link>
+    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
+    <pubDate>Wed, 30 Apr 2025 03:20:12 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 29 Apr 2025 18:06:42 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>ペットと共に過ごす快適な生活</title>
-    <link>https://example.com/article38</link>
-    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
-    <pubDate>Tue, 29 Apr 2025 17:04:50 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
