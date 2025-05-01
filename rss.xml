@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新テクノロジーによる教育改革</title>
+    <link>https://example.com/article61</link>
+    <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
+    <pubDate>Thu, 01 May 2025 06:07:25 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>持続可能な交通手段の未来</title>
     <link>https://example.com/article77</link>
     <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 30 Apr 2025 21:04:41 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>ストレス解消法の紹介</title>
-    <link>https://example.com/article18</link>
-    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
-    <pubDate>Wed, 30 Apr 2025 20:05:37 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
