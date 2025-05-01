@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新カメラ機材レビュー</title>
+    <link>https://example.com/article63</link>
+    <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
+    <pubDate>Thu, 01 May 2025 07:05:30 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新テクノロジーによる教育改革</title>
     <link>https://example.com/article61</link>
     <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 30 Apr 2025 22:04:49 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Wed, 30 Apr 2025 21:04:41 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
