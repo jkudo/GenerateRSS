@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能なエネルギーの未来</title>
+    <link>https://example.com/article41</link>
+    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
+    <pubDate>Thu, 01 May 2025 01:33:29 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>持続可能な建築デザインのトレンド</title>
     <link>https://example.com/article84</link>
     <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 30 Apr 2025 16:05:50 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>子育てと仕事の両立方法</title>
-    <link>https://example.com/article46</link>
-    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
-    <pubDate>Wed, 30 Apr 2025 15:05:08 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
