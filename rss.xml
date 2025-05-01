@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートワークの効率化ツール</title>
+    <link>https://example.com/article33</link>
+    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
+    <pubDate>Thu, 01 May 2025 10:05:34 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新フィンテック技術の応用</title>
     <link>https://example.com/article92</link>
     <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 01 May 2025 01:33:29 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>持続可能な建築デザインのトレンド</title>
-    <link>https://example.com/article84</link>
-    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
-    <pubDate>Thu, 01 May 2025 00:24:36 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>建築</category>
   </item>
 </channel>
 </rss>
