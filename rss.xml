@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な建築デザインのトレンド</title>
+    <link>https://example.com/article84</link>
+    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
+    <pubDate>Thu, 01 May 2025 00:24:36 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>建築</category>
+  </item>
+  <item>
     <title>自転車メンテナンスの基本</title>
     <link>https://example.com/article26</link>
     <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 30 Apr 2025 15:05:08 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>スマートウォッチの活用術</title>
-    <link>https://example.com/article53</link>
-    <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
-    <pubDate>Wed, 30 Apr 2025 14:05:10 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
