@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康維持に役立つサプリメント</title>
+    <link>https://example.com/article14</link>
+    <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
+    <pubDate>Fri, 02 May 2025 12:08:08 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>効果的なSEO対策の方法</title>
     <link>https://example.com/article85</link>
     <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 02 May 2025 03:21:46 GMT</pubDate>
     <author>伊藤健一</author>
     <category>アート</category>
-  </item>
-  <item>
-    <title>最新バーチャルリアリティ（VR）技術</title>
-    <link>https://example.com/article74</link>
-    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
-    <pubDate>Fri, 02 May 2025 02:33:14 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
