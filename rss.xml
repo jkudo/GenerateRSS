@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新サステナビリティプロジェクト</title>
+    <link>https://example.com/article90</link>
+    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
+    <pubDate>Fri, 02 May 2025 06:07:04 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>初心者向けプログラミング入門</title>
     <link>https://example.com/article24</link>
     <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 01 May 2025 21:04:44 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>持続可能な都市計画の事例</title>
-    <link>https://example.com/article64</link>
-    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
-    <pubDate>Thu, 01 May 2025 20:05:34 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
