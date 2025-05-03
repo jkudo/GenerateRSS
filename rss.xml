@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートシティの実現に向けて</title>
+    <link>https://example.com/article100</link>
+    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
+    <pubDate>Sat, 03 May 2025 17:04:14 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
     <link>https://example.com/article21</link>
     <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
@@ -76,14 +84,6 @@
     <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
     <pubDate>Sat, 03 May 2025 08:05:59 GMT</pubDate>
     <author>山田太郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>リモートワークの効率化ツール</title>
-    <link>https://example.com/article33</link>
-    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
-    <pubDate>Sat, 03 May 2025 07:04:40 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>テクノロジー</category>
   </item>
 </channel>
