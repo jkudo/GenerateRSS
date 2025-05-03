@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スマートフォンの比較レビュー</title>
+    <link>https://example.com/article8</link>
+    <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
+    <pubDate>Sat, 03 May 2025 01:32:29 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>環境保護の重要性と私たちの役割</title>
     <link>https://example.com/article6</link>
     <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 02 May 2025 16:05:45 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Fri, 02 May 2025 15:04:56 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
