@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な交通手段の未来</title>
+    <link>https://example.com/article77</link>
+    <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
+    <pubDate>Sat, 03 May 2025 09:04:52 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新テクノロジー2024: AIの進化</title>
     <link>https://example.com/article1</link>
     <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 03 May 2025 00:21:04 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>アートセラピーの効果と実践方法</title>
-    <link>https://example.com/article36</link>
-    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
-    <pubDate>Fri, 02 May 2025 23:04:59 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
