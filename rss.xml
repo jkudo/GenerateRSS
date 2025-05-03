@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートワークの効率化ツール</title>
+    <link>https://example.com/article33</link>
+    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
+    <pubDate>Sat, 03 May 2025 07:04:40 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ヨガで心と体をリフレッシュ</title>
     <link>https://example.com/article9</link>
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 02 May 2025 22:04:47 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>家庭菜園の始め方とコツ</title>
-    <link>https://example.com/article16</link>
-    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
-    <pubDate>Fri, 02 May 2025 21:04:42 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ガーデニング</category>
   </item>
 </channel>
 </rss>
