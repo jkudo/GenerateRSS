@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>環境保護の重要性と私たちの役割</title>
+    <link>https://example.com/article6</link>
+    <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
+    <pubDate>Sat, 03 May 2025 00:21:04 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>アートセラピーの効果と実践方法</title>
     <link>https://example.com/article36</link>
     <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 02 May 2025 15:04:56 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新フィットネスアプリの比較</title>
-    <link>https://example.com/article65</link>
-    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
-    <pubDate>Fri, 02 May 2025 14:04:59 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
