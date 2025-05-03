@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートワークの効率化ツール</title>
+    <link>https://example.com/article33</link>
+    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
+    <pubDate>Sat, 03 May 2025 12:07:22 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>旅行計画の立て方とおすすめ先</title>
     <link>https://example.com/article11</link>
     <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
@@ -76,14 +84,6 @@
     <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
     <pubDate>Sat, 03 May 2025 03:19:36 GMT</pubDate>
     <author>田中美咲</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新ビジネス書ベストセラー紹介</title>
-    <link>https://example.com/article32</link>
-    <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
-    <pubDate>Sat, 03 May 2025 02:31:58 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>ビジネス</category>
   </item>
 </channel>
