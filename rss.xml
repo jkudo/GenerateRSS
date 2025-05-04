@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けオンラインマーケティング</title>
+    <link>https://example.com/article73</link>
+    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
+    <pubDate>Sun, 04 May 2025 23:04:38 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
     <link>https://example.com/article21</link>
     <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 04 May 2025 14:04:28 GMT</pubDate>
     <author>伊藤健一</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>ストレス解消法の紹介</title>
-    <link>https://example.com/article18</link>
-    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
-    <pubDate>Sun, 04 May 2025 13:09:21 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
