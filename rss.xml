@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新カメラ機材レビュー</title>
+    <link>https://example.com/article63</link>
+    <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
+    <pubDate>Sun, 04 May 2025 10:04:45 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ホームオフィスの快適な作り方</title>
     <link>https://example.com/article20</link>
     <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 04 May 2025 01:33:11 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新フィンテック技術の応用</title>
-    <link>https://example.com/article92</link>
-    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
-    <pubDate>Sun, 04 May 2025 00:24:22 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
