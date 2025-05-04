@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新モバイルアプリの紹介</title>
+    <link>https://example.com/article96</link>
+    <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
+    <pubDate>Sun, 04 May 2025 21:04:37 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ホームオフィスの快適な作り方</title>
     <link>https://example.com/article20</link>
     <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 04 May 2025 12:07:30 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>効果的なオンライン広告の手法</title>
-    <link>https://example.com/article98</link>
-    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
-    <pubDate>Sun, 04 May 2025 11:04:26 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
