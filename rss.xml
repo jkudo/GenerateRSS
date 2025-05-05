@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効率的なチームコミュニケーション方法</title>
+    <link>https://example.com/article62</link>
+    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
+    <pubDate>Mon, 05 May 2025 00:23:18 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>初心者向けオンラインマーケティング</title>
     <link>https://example.com/article73</link>
     <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 04 May 2025 15:04:37 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>オンラインセキュリティの基本</title>
-    <link>https://example.com/article50</link>
-    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
-    <pubDate>Sun, 04 May 2025 14:04:28 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
