@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けデジタルマーケティング戦略</title>
+    <link>https://example.com/article82</link>
+    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
+    <pubDate>Mon, 05 May 2025 21:04:40 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新フィンテックサービスの紹介</title>
     <link>https://example.com/article76</link>
     <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 05 May 2025 12:08:20 GMT</pubDate>
     <author>佐藤花子</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>家庭菜園の始め方とコツ</title>
-    <link>https://example.com/article16</link>
-    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
-    <pubDate>Mon, 05 May 2025 11:04:34 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ガーデニング</category>
   </item>
 </channel>
 </rss>
