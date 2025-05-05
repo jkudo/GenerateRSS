@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ペットの健康管理ガイド</title>
+    <link>https://example.com/article19</link>
+    <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
+    <pubDate>Mon, 05 May 2025 01:33:25 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ペット</category>
+  </item>
+  <item>
     <title>効率的なチームコミュニケーション方法</title>
     <link>https://example.com/article62</link>
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 04 May 2025 16:05:14 GMT</pubDate>
     <author>田中美咲</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>持続可能な食生活の提案</title>
-    <link>https://example.com/article72</link>
-    <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
-    <pubDate>Sun, 04 May 2025 15:04:37 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
