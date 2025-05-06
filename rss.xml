@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けデジタルマーケティング戦略</title>
+    <link>https://example.com/article82</link>
+    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
+    <pubDate>Tue, 06 May 2025 05:05:22 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新電子商取引（EC）トレンド</title>
     <link>https://example.com/article88</link>
     <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 05 May 2025 20:05:34 GMT</pubDate>
     <author>山田太郎</author>
     <category>フィンテック</category>
-  </item>
-  <item>
-    <title>オンライン教育のメリットと課題</title>
-    <link>https://example.com/article28</link>
-    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
-    <pubDate>Mon, 05 May 2025 19:04:11 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
