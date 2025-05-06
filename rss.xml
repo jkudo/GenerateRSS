@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコフレンドリーな生活用品</title>
+    <link>https://example.com/article60</link>
+    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
+    <pubDate>Tue, 06 May 2025 13:13:48 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 06 May 2025 04:06:17 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Tue, 06 May 2025 03:21:08 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
