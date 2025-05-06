@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自宅でできるフィットネスプログラム</title>
+    <link>https://example.com/article44</link>
+    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
+    <pubDate>Tue, 06 May 2025 11:04:40 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>初心者向けブログの始め方</title>
     <link>https://example.com/article55</link>
     <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 06 May 2025 02:33:35 GMT</pubDate>
     <author>田中美咲</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>デジタルマーケティングの最新動向</title>
-    <link>https://example.com/article15</link>
-    <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
-    <pubDate>Tue, 06 May 2025 01:32:58 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
