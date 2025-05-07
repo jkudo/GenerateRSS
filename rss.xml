@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リーダーシップのスキル向上方法</title>
+    <link>https://example.com/article52</link>
+    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
+    <pubDate>Wed, 07 May 2025 14:05:23 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新スマートフォンの比較レビュー</title>
     <link>https://example.com/article8</link>
     <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
@@ -76,14 +84,6 @@
     <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
     <pubDate>Wed, 07 May 2025 05:05:31 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>マーケティング</category>
-  </item>
-  <item>
-    <title>初心者向けオンラインマーケティング</title>
-    <link>https://example.com/article73</link>
-    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
-    <pubDate>Wed, 07 May 2025 04:06:11 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>マーケティング</category>
   </item>
 </channel>
