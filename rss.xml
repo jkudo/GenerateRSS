@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>働き方改革とその影響</title>
+    <link>https://example.com/article27</link>
+    <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
+    <pubDate>Wed, 07 May 2025 17:04:49 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>クリエイティブなアイデア発想法</title>
     <link>https://example.com/article89</link>
     <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 07 May 2025 08:07:20 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>料理初心者向け簡単レシピ集</title>
-    <link>https://example.com/article7</link>
-    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
-    <pubDate>Wed, 07 May 2025 07:05:26 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>料理</category>
   </item>
 </channel>
 </rss>
