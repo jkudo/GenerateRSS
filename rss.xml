@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自転車メンテナンスの基本</title>
+    <link>https://example.com/article26</link>
+    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
+    <pubDate>Thu, 08 May 2025 19:04:14 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>家庭でできる簡単エクササイズ</title>
     <link>https://example.com/article68</link>
     <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 08 May 2025 10:05:53 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>持続可能な建築デザインのトレンド</title>
-    <link>https://example.com/article84</link>
-    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
-    <pubDate>Thu, 08 May 2025 09:05:39 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>建築</category>
   </item>
 </channel>
 </rss>
