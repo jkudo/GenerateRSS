@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的な時間管理術</title>
+    <link>https://example.com/article13</link>
+    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
+    <pubDate>Fri, 09 May 2025 09:05:32 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>最新ビジネスインテリジェンスツール</title>
     <link>https://example.com/article81</link>
     <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 09 May 2025 00:22:23 GMT</pubDate>
     <author>山田太郎</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>効果的なオンライン広告の手法</title>
-    <link>https://example.com/article98</link>
-    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
-    <pubDate>Thu, 08 May 2025 23:07:00 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
