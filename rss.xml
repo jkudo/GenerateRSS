@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスツールの紹介</title>
+    <link>https://example.com/article54</link>
+    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
+    <pubDate>Fri, 09 May 2025 12:08:24 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>持続可能なエネルギーの未来</title>
     <link>https://example.com/article41</link>
     <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 09 May 2025 03:22:09 GMT</pubDate>
     <author>伊藤健一</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>持続可能な建築デザインのトレンド</title>
-    <link>https://example.com/article84</link>
-    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
-    <pubDate>Fri, 09 May 2025 02:33:49 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>建築</category>
   </item>
 </channel>
 </rss>
