@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新デジタルマーケティングツール</title>
+    <link>https://example.com/article99</link>
+    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
+    <pubDate>Fri, 09 May 2025 19:04:25 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
     <link>https://example.com/article21</link>
     <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 09 May 2025 10:05:43 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>効果的な時間管理術</title>
-    <link>https://example.com/article13</link>
-    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
-    <pubDate>Fri, 09 May 2025 09:05:32 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
