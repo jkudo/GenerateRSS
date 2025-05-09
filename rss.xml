@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能なエネルギーの未来</title>
+    <link>https://example.com/article41</link>
+    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
+    <pubDate>Fri, 09 May 2025 11:04:36 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>家庭でできる簡単エクササイズ</title>
     <link>https://example.com/article68</link>
     <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 09 May 2025 02:33:49 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>自宅でできるフィットネスプログラム</title>
-    <link>https://example.com/article44</link>
-    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
-    <pubDate>Fri, 09 May 2025 01:32:58 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
