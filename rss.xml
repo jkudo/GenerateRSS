@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Sat, 10 May 2025 17:04:14 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新電子商取引（EC）トレンド</title>
     <link>https://example.com/article88</link>
     <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 10 May 2025 08:05:40 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>最新クラウドサービス比較</title>
-    <link>https://example.com/article58</link>
-    <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
-    <pubDate>Sat, 10 May 2025 07:04:35 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
