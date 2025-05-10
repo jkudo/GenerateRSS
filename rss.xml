@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なSEO対策の方法</title>
+    <link>https://example.com/article85</link>
+    <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
+    <pubDate>Sat, 10 May 2025 09:04:38 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 10 May 2025 00:20:52 GMT</pubDate>
     <author>田中美咲</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新ヘッドフォンレビュー</title>
-    <link>https://example.com/article56</link>
-    <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
-    <pubDate>Fri, 09 May 2025 23:04:43 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
