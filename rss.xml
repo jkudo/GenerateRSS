@@ -10,6 +10,14 @@
     <title>最新フィットネスアプリの比較</title>
     <link>https://example.com/article65</link>
     <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
+    <pubDate>Sun, 11 May 2025 17:04:27 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>健康</category>
+  </item>
+  <item>
+    <title>最新フィットネスアプリの比較</title>
+    <link>https://example.com/article65</link>
+    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
     <pubDate>Sun, 11 May 2025 16:05:08 GMT</pubDate>
     <author>伊藤健一</author>
     <category>健康</category>
@@ -76,14 +84,6 @@
     <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
     <pubDate>Sun, 11 May 2025 08:06:10 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新スマートフォンの比較レビュー</title>
-    <link>https://example.com/article8</link>
-    <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
-    <pubDate>Sun, 11 May 2025 07:04:38 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>テクノロジー</category>
   </item>
 </channel>
