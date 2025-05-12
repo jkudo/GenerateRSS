@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Mon, 12 May 2025 19:04:25 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>最新電子商取引（EC）トレンド</title>
     <link>https://example.com/article88</link>
     <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 12 May 2025 10:05:50 GMT</pubDate>
     <author>山田太郎</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>デジタルマーケティングの最新動向</title>
-    <link>https://example.com/article15</link>
-    <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
-    <pubDate>Mon, 12 May 2025 09:05:55 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
