@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向け写真撮影ガイド</title>
+    <link>https://example.com/article42</link>
+    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
+    <pubDate>Mon, 12 May 2025 05:05:45 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>趣味</category>
+  </item>
+  <item>
     <title>最新フィットネスアプリの比較</title>
     <link>https://example.com/article65</link>
     <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 11 May 2025 20:05:02 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>子育てと仕事の両立方法</title>
-    <link>https://example.com/article46</link>
-    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
-    <pubDate>Sun, 11 May 2025 19:04:05 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
