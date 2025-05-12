@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン学習の効果的な活用法</title>
+    <link>https://example.com/article78</link>
+    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
+    <pubDate>Mon, 12 May 2025 15:05:37 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>効果的なソーシャルメディア戦略</title>
     <link>https://example.com/article93</link>
     <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 12 May 2025 06:07:25 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Mon, 12 May 2025 05:05:45 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
