@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスインテリジェンスツール</title>
+    <link>https://example.com/article81</link>
+    <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
+    <pubDate>Mon, 12 May 2025 13:13:56 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>リモートチームのマネジメント術</title>
     <link>https://example.com/article87</link>
     <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 12 May 2025 04:07:57 GMT</pubDate>
     <author>伊藤健一</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Mon, 12 May 2025 03:24:04 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
