@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルマーケティングの最新動向</title>
+    <link>https://example.com/article15</link>
+    <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
+    <pubDate>Mon, 12 May 2025 09:05:55 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>子育てと仕事の両立方法</title>
     <link>https://example.com/article46</link>
     <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article45</link>
     <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
     <pubDate>Mon, 12 May 2025 00:23:27 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ビジネス成功のための戦略</title>
-    <link>https://example.com/article5</link>
-    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
-    <pubDate>Sun, 11 May 2025 23:04:35 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
   </item>
