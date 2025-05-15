@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスセミナー情報</title>
+    <link>https://example.com/article69</link>
+    <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
+    <pubDate>Thu, 15 May 2025 11:04:45 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>持ち運び便利なガジェット特集</title>
     <link>https://example.com/article35</link>
     <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 15 May 2025 02:33:50 GMT</pubDate>
     <author>佐藤花子</author>
     <category>フィンテック</category>
-  </item>
-  <item>
-    <title>エンタープライズソフトウェアの選び方</title>
-    <link>https://example.com/article95</link>
-    <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
-    <pubDate>Thu, 15 May 2025 01:33:00 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
