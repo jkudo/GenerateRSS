@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新エンターテインメントニュース</title>
+    <link>https://example.com/article47</link>
+    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
+    <pubDate>Fri, 16 May 2025 13:13:00 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>ペットの健康管理ガイド</title>
     <link>https://example.com/article19</link>
     <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 16 May 2025 04:07:30 GMT</pubDate>
     <author>佐藤花子</author>
     <category>料理</category>
-  </item>
-  <item>
-    <title>最新ヘッドフォンレビュー</title>
-    <link>https://example.com/article56</link>
-    <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
-    <pubDate>Fri, 16 May 2025 03:23:27 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
