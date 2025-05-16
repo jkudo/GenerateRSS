@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネス書ベストセラー紹介</title>
+    <link>https://example.com/article32</link>
+    <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
+    <pubDate>Fri, 16 May 2025 00:22:26 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>スマートウォッチの活用術</title>
     <link>https://example.com/article53</link>
     <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 15 May 2025 15:05:18 GMT</pubDate>
     <author>伊藤健一</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新電子商取引（EC）トレンド</title>
-    <link>https://example.com/article88</link>
-    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
-    <pubDate>Thu, 15 May 2025 14:05:12 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
