@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クラウドコンピューティングの基礎</title>
+    <link>https://example.com/article34</link>
+    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
+    <pubDate>Sat, 17 May 2025 22:04:26 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>自宅でできるフィットネスプログラム</title>
     <link>https://example.com/article44</link>
     <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 17 May 2025 13:09:29 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Sat, 17 May 2025 12:07:32 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
