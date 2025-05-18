@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けブログの始め方</title>
+    <link>https://example.com/article55</link>
+    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
+    <pubDate>Sun, 18 May 2025 06:06:28 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article44</link>
     <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
     <pubDate>Sat, 17 May 2025 21:04:20 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>健康維持に役立つサプリメント</title>
-    <link>https://example.com/article14</link>
-    <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
-    <pubDate>Sat, 17 May 2025 20:04:58 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
   </item>
