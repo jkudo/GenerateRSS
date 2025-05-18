@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>働き方改革とその影響</title>
+    <link>https://example.com/article27</link>
+    <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
+    <pubDate>Sun, 18 May 2025 14:04:26 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
     <link>https://example.com/article21</link>
     <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 18 May 2025 05:05:19 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>最新テクノロジー2024: AIの進化</title>
-    <link>https://example.com/article1</link>
-    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
-    <pubDate>Sun, 18 May 2025 04:09:13 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
