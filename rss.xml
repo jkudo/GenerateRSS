@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Sun, 18 May 2025 05:05:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>最新テクノロジー2024: AIの進化</title>
     <link>https://example.com/article1</link>
     <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article14</link>
     <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
     <pubDate>Sat, 17 May 2025 20:04:58 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>メンタルヘルスの重要性</title>
-    <link>https://example.com/article59</link>
-    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
-    <pubDate>Sat, 17 May 2025 19:04:20 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
   </item>
