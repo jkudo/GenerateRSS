@@ -10,6 +10,14 @@
     <title>最新サステナビリティプロジェクト</title>
     <link>https://example.com/article90</link>
     <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
+    <pubDate>Sun, 18 May 2025 23:04:36 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
+    <title>最新サステナビリティプロジェクト</title>
+    <link>https://example.com/article90</link>
+    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
     <pubDate>Sun, 18 May 2025 22:04:32 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 18 May 2025 14:04:26 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
-    <link>https://example.com/article21</link>
-    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
-    <pubDate>Sun, 18 May 2025 13:09:47 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
