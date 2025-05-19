@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ヘッドフォンレビュー</title>
+    <link>https://example.com/article56</link>
+    <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
+    <pubDate>Mon, 19 May 2025 07:05:47 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新テクノロジーによる教育改革</title>
     <link>https://example.com/article61</link>
     <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 18 May 2025 22:04:32 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新電子書籍リーダーの紹介</title>
-    <link>https://example.com/article67</link>
-    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
-    <pubDate>Sun, 18 May 2025 21:04:25 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
