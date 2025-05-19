@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な都市計画の事例</title>
+    <link>https://example.com/article64</link>
+    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
+    <pubDate>Mon, 19 May 2025 01:33:50 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>スマートウォッチの活用術</title>
     <link>https://example.com/article53</link>
     <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 18 May 2025 16:05:06 GMT</pubDate>
     <author>伊藤健一</author>
     <category>アート</category>
-  </item>
-  <item>
-    <title>クリエイティブなアイデア発想法</title>
-    <link>https://example.com/article89</link>
-    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
-    <pubDate>Sun, 18 May 2025 15:04:29 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
