@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネストレンド2024</title>
+    <link>https://example.com/article29</link>
+    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
+    <pubDate>Mon, 19 May 2025 10:06:00 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ビジネスインサイト: データ分析の重要性</title>
     <link>https://example.com/article45</link>
     <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 19 May 2025 01:33:50 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>スマートウォッチの活用術</title>
-    <link>https://example.com/article53</link>
-    <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
-    <pubDate>Mon, 19 May 2025 00:23:46 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
