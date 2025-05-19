@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効率的なチームコミュニケーション方法</title>
+    <link>https://example.com/article62</link>
+    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
+    <pubDate>Mon, 19 May 2025 03:26:46 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>家庭菜園の始め方とコツ</title>
     <link>https://example.com/article16</link>
     <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 18 May 2025 18:06:09 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>効果的なソーシャルメディア戦略</title>
-    <link>https://example.com/article93</link>
-    <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
-    <pubDate>Sun, 18 May 2025 17:04:12 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
