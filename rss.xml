@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けブログの始め方</title>
+    <link>https://example.com/article55</link>
+    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
+    <pubDate>Tue, 20 May 2025 21:04:47 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新スポーツニュースまとめ</title>
     <link>https://example.com/article40</link>
     <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
@@ -76,14 +84,6 @@
     <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
     <pubDate>Tue, 20 May 2025 12:08:45 GMT</pubDate>
     <author>山田太郎</author>
-    <category>スポーツ</category>
-  </item>
-  <item>
-    <title>最新スポーツニュースまとめ</title>
-    <link>https://example.com/article40</link>
-    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
-    <pubDate>Tue, 20 May 2025 11:04:41 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>スポーツ</category>
   </item>
 </channel>
