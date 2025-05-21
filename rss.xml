@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>アートセラピーの効果と実践方法</title>
+    <link>https://example.com/article36</link>
+    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
+    <pubDate>Wed, 21 May 2025 02:34:38 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>ヨガで心と体をリフレッシュ</title>
     <link>https://example.com/article9</link>
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 20 May 2025 17:04:56 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>リモートワークの効率化ツール</title>
-    <link>https://example.com/article33</link>
-    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
-    <pubDate>Tue, 20 May 2025 16:05:53 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
