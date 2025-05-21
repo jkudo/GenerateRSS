@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なSEO対策の方法</title>
+    <link>https://example.com/article85</link>
+    <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
+    <pubDate>Wed, 21 May 2025 13:13:36 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>自宅でできるフィットネスプログラム</title>
     <link>https://example.com/article44</link>
     <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 21 May 2025 04:06:58 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>旅行計画の立て方とおすすめ先</title>
-    <link>https://example.com/article11</link>
-    <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
-    <pubDate>Wed, 21 May 2025 03:22:54 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
