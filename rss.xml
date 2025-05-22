@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>東京で訪れるべき観光スポット10選</title>
+    <link>https://example.com/article3</link>
+    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
+    <pubDate>Thu, 22 May 2025 15:05:13 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>ペットの健康管理ガイド</title>
     <link>https://example.com/article19</link>
     <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 22 May 2025 06:07:30 GMT</pubDate>
     <author>佐藤花子</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>東京で訪れるべき観光スポット10選</title>
-    <link>https://example.com/article3</link>
-    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
-    <pubDate>Thu, 22 May 2025 05:05:29 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
