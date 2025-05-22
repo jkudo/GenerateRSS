@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>投資初心者のためのガイド</title>
+    <link>https://example.com/article10</link>
+    <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
+    <pubDate>Thu, 22 May 2025 13:13:49 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 22 May 2025 04:07:52 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>持続可能なエネルギーの未来</title>
-    <link>https://example.com/article41</link>
-    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
-    <pubDate>Thu, 22 May 2025 03:23:04 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
