@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新エンターテインメントニュース</title>
+    <link>https://example.com/article47</link>
+    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
+    <pubDate>Fri, 23 May 2025 13:12:39 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>持続可能な建築デザインのトレンド</title>
     <link>https://example.com/article84</link>
     <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
@@ -76,14 +84,6 @@
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
     <pubDate>Fri, 23 May 2025 04:06:29 GMT</pubDate>
     <author>田中美咲</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>最新フィットネスアプリの比較</title>
-    <link>https://example.com/article65</link>
-    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
-    <pubDate>Fri, 23 May 2025 03:22:49 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>健康</category>
   </item>
 </channel>
