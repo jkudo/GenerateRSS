@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ヘルスケアテクノロジー</title>
+    <link>https://example.com/article43</link>
+    <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
+    <pubDate>Sat, 24 May 2025 06:06:17 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ビジネス書ベストセラー紹介</title>
     <link>https://example.com/article32</link>
     <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 23 May 2025 21:04:47 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>ビデオ会議の効率的な活用方法</title>
-    <link>https://example.com/article23</link>
-    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
-    <pubDate>Fri, 23 May 2025 20:05:50 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
