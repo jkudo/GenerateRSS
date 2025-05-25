@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネスアプリの比較</title>
+    <link>https://example.com/article65</link>
+    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
+    <pubDate>Sun, 25 May 2025 01:33:10 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>プログラミング言語Pythonの基礎</title>
     <link>https://example.com/article48</link>
     <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 24 May 2025 16:05:07 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>オンラインセキュリティの基本</title>
-    <link>https://example.com/article50</link>
-    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
-    <pubDate>Sat, 24 May 2025 15:04:20 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
