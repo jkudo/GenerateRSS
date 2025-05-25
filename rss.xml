@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な都市計画の事例</title>
+    <link>https://example.com/article64</link>
+    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
+    <pubDate>Sun, 25 May 2025 05:05:04 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>スマートシティの実現に向けて</title>
     <link>https://example.com/article100</link>
     <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
@@ -76,14 +84,6 @@
     <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
     <pubDate>Sat, 24 May 2025 20:04:55 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新バイオテクノロジーの進展</title>
-    <link>https://example.com/article94</link>
-    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
-    <pubDate>Sat, 24 May 2025 19:04:15 GMT</pubDate>
-    <author>田中美咲</author>
     <category>テクノロジー</category>
   </item>
 </channel>
