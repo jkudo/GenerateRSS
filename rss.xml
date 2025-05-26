@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新映画レビュー: 『スターライト』</title>
+    <link>https://example.com/article4</link>
+    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
+    <pubDate>Mon, 26 May 2025 03:25:39 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>オンラインセキュリティの基本</title>
     <link>https://example.com/article50</link>
     <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 25 May 2025 18:06:01 GMT</pubDate>
     <author>山田太郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>エンタープライズソフトウェアの選び方</title>
-    <link>https://example.com/article95</link>
-    <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
-    <pubDate>Sun, 25 May 2025 17:04:22 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
