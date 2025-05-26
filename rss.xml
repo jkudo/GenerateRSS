@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>アートセラピーの効果と実践方法</title>
+    <link>https://example.com/article36</link>
+    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
+    <pubDate>Mon, 26 May 2025 04:09:16 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -76,14 +84,6 @@
     <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
     <pubDate>Sun, 25 May 2025 19:04:15 GMT</pubDate>
     <author>田中美咲</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>アートセラピーの効果と実践方法</title>
-    <link>https://example.com/article36</link>
-    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
-    <pubDate>Sun, 25 May 2025 18:06:01 GMT</pubDate>
-    <author>山田太郎</author>
     <category>健康</category>
   </item>
 </channel>
