@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Mon, 26 May 2025 16:05:40 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 26 May 2025 07:06:41 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>最新クラウドサービス比較</title>
-    <link>https://example.com/article58</link>
-    <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
-    <pubDate>Mon, 26 May 2025 06:07:27 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
