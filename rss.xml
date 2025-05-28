@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ブックレビュー: 『未来を拓く技術』</title>
+    <link>https://example.com/article51</link>
+    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
+    <pubDate>Wed, 28 May 2025 17:05:11 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>書評</category>
+  </item>
+  <item>
     <title>家庭でできる簡単エクササイズ</title>
     <link>https://example.com/article68</link>
     <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 28 May 2025 08:06:43 GMT</pubDate>
     <author>佐藤花子</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>ホームセキュリティの強化方法</title>
-    <link>https://example.com/article30</link>
-    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
-    <pubDate>Wed, 28 May 2025 07:05:40 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
