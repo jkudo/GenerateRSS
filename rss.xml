@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能なファッションの未来</title>
+    <link>https://example.com/article31</link>
+    <description>持続可能なファッション業界の現状と未来について考察します。</description>
+    <pubDate>Wed, 28 May 2025 13:14:04 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>持続可能な交通手段の未来</title>
     <link>https://example.com/article77</link>
     <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 28 May 2025 04:07:39 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>持続可能な都市計画の事例</title>
-    <link>https://example.com/article64</link>
-    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
-    <pubDate>Wed, 28 May 2025 03:23:56 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
