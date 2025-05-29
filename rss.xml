@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>プログラミング言語Pythonの基礎</title>
+    <link>https://example.com/article48</link>
+    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
+    <pubDate>Thu, 29 May 2025 06:07:09 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>リモートワークの効率化ツール</title>
     <link>https://example.com/article33</link>
     <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 28 May 2025 21:04:49 GMT</pubDate>
     <author>伊藤健一</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>クリエイティブなアイデア発想法</title>
-    <link>https://example.com/article89</link>
-    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
-    <pubDate>Wed, 28 May 2025 20:05:45 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
