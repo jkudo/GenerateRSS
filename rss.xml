@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ガジェットレビュー</title>
+    <link>https://example.com/article17</link>
+    <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
+    <pubDate>Thu, 29 May 2025 18:06:40 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 29 May 2025 09:05:34 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Thu, 29 May 2025 08:07:04 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
