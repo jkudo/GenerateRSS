@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテックサービスの紹介</title>
+    <link>https://example.com/article76</link>
+    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
+    <pubDate>Thu, 29 May 2025 00:22:28 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>効果的なSEO対策の方法</title>
     <link>https://example.com/article85</link>
     <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 28 May 2025 15:05:06 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>持続可能な都市計画の事例</title>
-    <link>https://example.com/article64</link>
-    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
-    <pubDate>Wed, 28 May 2025 14:05:53 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
