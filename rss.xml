@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Fri, 30 May 2025 06:07:07 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新フィットネストレンド2024</title>
     <link>https://example.com/article29</link>
     <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 29 May 2025 21:04:50 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>効果的なSEO対策の方法</title>
-    <link>https://example.com/article85</link>
-    <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
-    <pubDate>Thu, 29 May 2025 20:06:04 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
