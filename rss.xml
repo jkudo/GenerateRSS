@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なパーソナルブランディング</title>
+    <link>https://example.com/article75</link>
+    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
+    <pubDate>Fri, 30 May 2025 09:05:23 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>最新音楽アルバムレビュー</title>
     <link>https://example.com/article25</link>
     <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 30 May 2025 00:22:27 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>投資初心者のためのガイド</title>
-    <link>https://example.com/article10</link>
-    <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
-    <pubDate>Thu, 29 May 2025 23:04:27 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
