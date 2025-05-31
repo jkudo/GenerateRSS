@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスインサイト: データ分析の重要性</title>
+    <link>https://example.com/article45</link>
+    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
+    <pubDate>Sat, 31 May 2025 20:05:09 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新音楽アルバムレビュー</title>
     <link>https://example.com/article25</link>
     <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 31 May 2025 11:04:09 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新バーチャルリアリティ（VR）技術</title>
-    <link>https://example.com/article74</link>
-    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
-    <pubDate>Sat, 31 May 2025 10:04:52 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
