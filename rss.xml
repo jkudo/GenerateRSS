@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートシティの実現に向けて</title>
+    <link>https://example.com/article100</link>
+    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
+    <pubDate>Sat, 31 May 2025 06:06:22 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>オンラインセキュリティの基本</title>
     <link>https://example.com/article50</link>
     <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 30 May 2025 21:04:24 GMT</pubDate>
     <author>佐藤花子</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Fri, 30 May 2025 20:05:40 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
