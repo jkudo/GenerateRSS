@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームオフィスの快適な作り方</title>
+    <link>https://example.com/article20</link>
+    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
+    <pubDate>Sat, 31 May 2025 12:07:47 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ビジネスセミナー情報</title>
     <link>https://example.com/article69</link>
     <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 31 May 2025 03:22:23 GMT</pubDate>
     <author>山田太郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>エコライフのすすめ</title>
-    <link>https://example.com/article22</link>
-    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
-    <pubDate>Sat, 31 May 2025 02:33:32 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
