@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Sun, 01 Jun 2025 09:04:51 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>オンライン学習の効果的な活用法</title>
     <link>https://example.com/article78</link>
     <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 01 Jun 2025 00:28:13 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新フィットネストレンド2024</title>
-    <link>https://example.com/article29</link>
-    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
-    <pubDate>Sat, 31 May 2025 23:04:40 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
