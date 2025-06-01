@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Sun, 01 Jun 2025 03:34:11 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>持続可能なエネルギーの未来</title>
     <link>https://example.com/article41</link>
     <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 31 May 2025 18:06:05 GMT</pubDate>
     <author>伊藤健一</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>ホームセキュリティの強化方法</title>
-    <link>https://example.com/article30</link>
-    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
-    <pubDate>Sat, 31 May 2025 17:04:24 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
