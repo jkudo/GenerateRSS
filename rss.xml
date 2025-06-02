@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クリエイティブなアイデア発想法</title>
+    <link>https://example.com/article89</link>
+    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
+    <pubDate>Mon, 02 Jun 2025 13:13:55 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>オンラインショッピングの賢い利用法</title>
     <link>https://example.com/article39</link>
     <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 02 Jun 2025 04:12:16 GMT</pubDate>
     <author>田中美咲</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>最新電子書籍リーダーの紹介</title>
-    <link>https://example.com/article67</link>
-    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
-    <pubDate>Mon, 02 Jun 2025 03:29:41 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
