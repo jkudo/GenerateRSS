@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子書籍リーダーの紹介</title>
+    <link>https://example.com/article67</link>
+    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
+    <pubDate>Mon, 02 Jun 2025 03:29:41 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>リーダーシップのスキル向上方法</title>
     <link>https://example.com/article52</link>
     <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 01 Jun 2025 18:06:08 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>効率的なチームコミュニケーション方法</title>
-    <link>https://example.com/article62</link>
-    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
-    <pubDate>Sun, 01 Jun 2025 17:04:19 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
