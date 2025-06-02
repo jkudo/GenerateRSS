@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ストレス解消法の紹介</title>
+    <link>https://example.com/article18</link>
+    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
+    <pubDate>Mon, 02 Jun 2025 11:05:09 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>スマートシティの実現に向けて</title>
     <link>https://example.com/article100</link>
     <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 02 Jun 2025 02:37:39 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新バーチャルリアリティ（VR）技術</title>
-    <link>https://example.com/article74</link>
-    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
-    <pubDate>Mon, 02 Jun 2025 01:33:49 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
