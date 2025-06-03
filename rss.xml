@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自転車メンテナンスの基本</title>
+    <link>https://example.com/article26</link>
+    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
+    <pubDate>Tue, 03 Jun 2025 01:33:17 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>効果的な時間管理術</title>
     <link>https://example.com/article13</link>
     <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 02 Jun 2025 16:06:08 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>持続可能な建築デザインのトレンド</title>
-    <link>https://example.com/article84</link>
-    <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
-    <pubDate>Mon, 02 Jun 2025 15:05:39 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>建築</category>
   </item>
 </channel>
 </rss>
