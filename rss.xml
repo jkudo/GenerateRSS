@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康的なライフスタイルの秘訣</title>
+    <link>https://example.com/article2</link>
+    <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
+    <pubDate>Tue, 03 Jun 2025 13:14:39 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新クラウドサービス比較</title>
     <link>https://example.com/article58</link>
     <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 03 Jun 2025 04:09:54 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新カメラ機材レビュー</title>
-    <link>https://example.com/article63</link>
-    <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
-    <pubDate>Tue, 03 Jun 2025 03:25:33 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
