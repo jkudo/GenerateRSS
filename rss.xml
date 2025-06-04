@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な交通手段の未来</title>
+    <link>https://example.com/article77</link>
+    <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
+    <pubDate>Wed, 04 Jun 2025 20:04:42 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>初心者向けプログラミング入門</title>
     <link>https://example.com/article24</link>
     <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 04 Jun 2025 11:04:49 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>持続可能なエネルギーの未来</title>
-    <link>https://example.com/article41</link>
-    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
-    <pubDate>Wed, 04 Jun 2025 10:05:50 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
