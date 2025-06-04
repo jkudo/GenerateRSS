@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けプログラミング入門</title>
+    <link>https://example.com/article24</link>
+    <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
+    <pubDate>Wed, 04 Jun 2025 19:04:37 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 04 Jun 2025 10:05:50 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新テクノロジー2024: AIの進化</title>
-    <link>https://example.com/article1</link>
-    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
-    <pubDate>Wed, 04 Jun 2025 09:05:36 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
