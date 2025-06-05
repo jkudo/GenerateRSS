@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能なファッションの未来</title>
+    <link>https://example.com/article31</link>
+    <description>持続可能なファッション業界の現状と未来について考察します。</description>
+    <pubDate>Thu, 05 Jun 2025 09:05:37 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>最新ビジネスツールの紹介</title>
     <link>https://example.com/article54</link>
     <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 05 Jun 2025 00:22:31 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新映画レビュー: 『スターライト』</title>
-    <link>https://example.com/article4</link>
-    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
-    <pubDate>Wed, 04 Jun 2025 23:04:53 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
