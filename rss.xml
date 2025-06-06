@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な都市計画の事例</title>
+    <link>https://example.com/article64</link>
+    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
+    <pubDate>Fri, 06 Jun 2025 10:05:41 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>持続可能な交通手段の未来</title>
     <link>https://example.com/article77</link>
     <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
@@ -76,14 +84,6 @@
     <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
     <pubDate>Fri, 06 Jun 2025 01:33:10 GMT</pubDate>
     <author>山田太郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>スマートシティの実現に向けて</title>
-    <link>https://example.com/article100</link>
-    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
-    <pubDate>Fri, 06 Jun 2025 00:22:22 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>テクノロジー</category>
   </item>
 </channel>
