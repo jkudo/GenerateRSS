@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Fri, 06 Jun 2025 23:05:16 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>エンタープライズソフトウェアの選び方</title>
     <link>https://example.com/article95</link>
     <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 06 Jun 2025 14:05:09 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>デジタルノマドの生活と働き方</title>
-    <link>https://example.com/article91</link>
-    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
-    <pubDate>Fri, 06 Jun 2025 13:13:11 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
