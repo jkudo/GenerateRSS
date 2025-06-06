@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>旅行計画の立て方とおすすめ先</title>
+    <link>https://example.com/article11</link>
+    <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
+    <pubDate>Fri, 06 Jun 2025 12:08:38 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>都市生活と自然との調和</title>
     <link>https://example.com/article57</link>
     <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 06 Jun 2025 03:25:34 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>最新カメラ機材レビュー</title>
-    <link>https://example.com/article63</link>
-    <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
-    <pubDate>Fri, 06 Jun 2025 02:35:07 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
