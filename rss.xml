@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新カメラ機材レビュー</title>
+    <link>https://example.com/article63</link>
+    <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
+    <pubDate>Fri, 06 Jun 2025 02:35:07 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ビジネスインテリジェンスツール</title>
     <link>https://example.com/article81</link>
     <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 05 Jun 2025 16:06:06 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新スポーツニュースまとめ</title>
-    <link>https://example.com/article40</link>
-    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
-    <pubDate>Thu, 05 Jun 2025 15:05:28 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
