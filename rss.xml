@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルアートの作り方</title>
+    <link>https://example.com/article70</link>
+    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
+    <pubDate>Sat, 07 Jun 2025 23:04:50 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>アート</category>
+  </item>
+  <item>
     <title>最新バイオテクノロジーの進展</title>
     <link>https://example.com/article94</link>
     <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 07 Jun 2025 14:04:28 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新ビジネスセミナー情報</title>
-    <link>https://example.com/article69</link>
-    <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
-    <pubDate>Sat, 07 Jun 2025 13:10:17 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
