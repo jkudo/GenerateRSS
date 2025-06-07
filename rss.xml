@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネス書ベストセラー紹介</title>
+    <link>https://example.com/article32</link>
+    <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
+    <pubDate>Sat, 07 Jun 2025 10:04:43 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>リーダーシップのスキル向上方法</title>
     <link>https://example.com/article52</link>
     <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
@@ -76,14 +84,6 @@
     <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
     <pubDate>Sat, 07 Jun 2025 01:33:00 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>エシカル消費のすすめ</title>
-    <link>https://example.com/article80</link>
-    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
-    <pubDate>Sat, 07 Jun 2025 00:22:20 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>ライフスタイル</category>
   </item>
 </channel>
