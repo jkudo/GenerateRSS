@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ヘルスケアテクノロジー</title>
+    <link>https://example.com/article43</link>
+    <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
+    <pubDate>Sat, 07 Jun 2025 02:34:31 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>都市生活と自然との調和</title>
     <link>https://example.com/article57</link>
     <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article29</link>
     <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
     <pubDate>Fri, 06 Jun 2025 17:04:57 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>自宅でできるフィットネスプログラム</title>
-    <link>https://example.com/article44</link>
-    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
-    <pubDate>Fri, 06 Jun 2025 16:06:05 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
   </item>
