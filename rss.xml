@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルノマドの生活と働き方</title>
+    <link>https://example.com/article91</link>
+    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
+    <pubDate>Sun, 08 Jun 2025 00:25:14 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>デジタルアートの作り方</title>
     <link>https://example.com/article70</link>
     <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 07 Jun 2025 15:04:33 GMT</pubDate>
     <author>伊藤健一</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新ビジネスインテリジェンスツール</title>
-    <link>https://example.com/article81</link>
-    <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
-    <pubDate>Sat, 07 Jun 2025 14:04:28 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
