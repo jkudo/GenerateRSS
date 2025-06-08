@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネストレンド2024</title>
+    <link>https://example.com/article29</link>
+    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
+    <pubDate>Sun, 08 Jun 2025 18:05:56 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>スマートホーム技術の最新動向</title>
     <link>https://example.com/article37</link>
     <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 08 Jun 2025 09:04:35 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>持ち運び便利なガジェット特集</title>
-    <link>https://example.com/article35</link>
-    <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
-    <pubDate>Sun, 08 Jun 2025 08:06:06 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
