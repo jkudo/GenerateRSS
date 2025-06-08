@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスツールの紹介</title>
+    <link>https://example.com/article54</link>
+    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
+    <pubDate>Sun, 08 Jun 2025 15:04:37 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>初心者向けオンラインマーケティング</title>
     <link>https://example.com/article73</link>
     <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 08 Jun 2025 06:06:31 GMT</pubDate>
     <author>佐藤花子</author>
     <category>フィンテック</category>
-  </item>
-  <item>
-    <title>効果的な時間管理術</title>
-    <link>https://example.com/article13</link>
-    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
-    <pubDate>Sun, 08 Jun 2025 05:05:26 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
