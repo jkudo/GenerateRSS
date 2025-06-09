@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なオンライン広告の手法</title>
+    <link>https://example.com/article98</link>
+    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
+    <pubDate>Mon, 09 Jun 2025 22:05:05 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 09 Jun 2025 13:14:07 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>ペットと共に過ごす快適な生活</title>
-    <link>https://example.com/article38</link>
-    <description>ペットと共に快適に暮らすためのヒントとアイデアを提供します。</description>
-    <pubDate>Mon, 09 Jun 2025 12:08:35 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ペット</category>
   </item>
 </channel>
 </rss>
