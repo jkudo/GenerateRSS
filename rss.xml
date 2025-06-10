@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スポーツニュースまとめ</title>
+    <link>https://example.com/article40</link>
+    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
+    <pubDate>Tue, 10 Jun 2025 20:05:48 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>最新ガジェットレビュー</title>
     <link>https://example.com/article17</link>
     <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 10 Jun 2025 11:04:46 GMT</pubDate>
     <author>佐藤花子</author>
     <category>料理</category>
-  </item>
-  <item>
-    <title>効果的な時間管理術</title>
-    <link>https://example.com/article13</link>
-    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
-    <pubDate>Tue, 10 Jun 2025 10:05:31 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
