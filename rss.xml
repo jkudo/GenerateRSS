@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルアートの作り方</title>
+    <link>https://example.com/article70</link>
+    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
+    <pubDate>Tue, 10 Jun 2025 22:04:48 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>アート</category>
+  </item>
+  <item>
     <title>オンライン学習の効果的な活用法</title>
     <link>https://example.com/article78</link>
     <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 10 Jun 2025 13:14:54 GMT</pubDate>
     <author>田中美咲</author>
     <category>建築</category>
-  </item>
-  <item>
-    <title>グリーンテクノロジーの進展</title>
-    <link>https://example.com/article49</link>
-    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
-    <pubDate>Tue, 10 Jun 2025 12:09:18 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
