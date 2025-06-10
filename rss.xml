@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ヘルスケアテクノロジー</title>
+    <link>https://example.com/article43</link>
+    <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
+    <pubDate>Tue, 10 Jun 2025 14:05:15 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>持続可能な建築デザインのトレンド</title>
     <link>https://example.com/article84</link>
     <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 10 Jun 2025 05:05:45 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Tue, 10 Jun 2025 04:10:40 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
