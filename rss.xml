@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビデオ会議の効率的な活用方法</title>
+    <link>https://example.com/article23</link>
+    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
+    <pubDate>Wed, 11 Jun 2025 12:08:55 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>ストレス解消法の紹介</title>
     <link>https://example.com/article18</link>
     <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 11 Jun 2025 03:26:45 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>自転車メンテナンスの基本</title>
-    <link>https://example.com/article26</link>
-    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
-    <pubDate>Wed, 11 Jun 2025 02:35:26 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
