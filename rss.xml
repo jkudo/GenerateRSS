@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
+    <link>https://example.com/article21</link>
+    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
+    <pubDate>Thu, 12 Jun 2025 01:33:13 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>初心者向けブログの始め方</title>
     <link>https://example.com/article55</link>
     <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
@@ -76,14 +84,6 @@
     <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
     <pubDate>Wed, 11 Jun 2025 16:06:01 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>スマートホーム技術の最新動向</title>
-    <link>https://example.com/article37</link>
-    <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
-    <pubDate>Wed, 11 Jun 2025 15:05:24 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>テクノロジー</category>
   </item>
 </channel>
