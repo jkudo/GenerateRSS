@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自転車メンテナンスの基本</title>
+    <link>https://example.com/article26</link>
+    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
+    <pubDate>Fri, 13 Jun 2025 04:10:26 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>最新スポーツギアのレビュー</title>
     <link>https://example.com/article71</link>
     <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 12 Jun 2025 19:04:36 GMT</pubDate>
     <author>田中美咲</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>ヨガで心と体をリフレッシュ</title>
-    <link>https://example.com/article9</link>
-    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
-    <pubDate>Thu, 12 Jun 2025 18:07:10 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
