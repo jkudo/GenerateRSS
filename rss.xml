@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新映画レビュー: 『スターライト』</title>
+    <link>https://example.com/article4</link>
+    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
+    <pubDate>Fri, 13 Jun 2025 16:05:44 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新ヘルスケアテクノロジー</title>
     <link>https://example.com/article43</link>
     <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 13 Jun 2025 07:05:22 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新フィンテック技術の応用</title>
-    <link>https://example.com/article92</link>
-    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
-    <pubDate>Fri, 13 Jun 2025 06:07:21 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
