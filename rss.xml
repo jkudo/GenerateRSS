@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バーチャルリアリティ（VR）技術</title>
+    <link>https://example.com/article74</link>
+    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
+    <pubDate>Fri, 13 Jun 2025 12:08:28 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新スマートフォンの比較レビュー</title>
     <link>https://example.com/article8</link>
     <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 13 Jun 2025 03:26:42 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Fri, 13 Jun 2025 02:35:33 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
