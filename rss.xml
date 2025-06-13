@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スポーツギアのレビュー</title>
+    <link>https://example.com/article71</link>
+    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
+    <pubDate>Fri, 13 Jun 2025 03:26:42 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>初心者向け写真撮影ガイド</title>
     <link>https://example.com/article42</link>
     <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 12 Jun 2025 18:07:10 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>クラウドコンピューティングの基礎</title>
-    <link>https://example.com/article34</link>
-    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
-    <pubDate>Thu, 12 Jun 2025 17:05:04 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
