@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Sun, 15 Jun 2025 17:04:30 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>グリーンテクノロジーの進展</title>
     <link>https://example.com/article49</link>
     <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 15 Jun 2025 08:06:02 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>リーダーシップのスキル向上方法</title>
-    <link>https://example.com/article52</link>
-    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
-    <pubDate>Sun, 15 Jun 2025 07:04:52 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
