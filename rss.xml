@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ヘッドフォンレビュー</title>
+    <link>https://example.com/article56</link>
+    <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
+    <pubDate>Mon, 16 Jun 2025 22:05:05 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ホームオフィスの快適な作り方</title>
     <link>https://example.com/article20</link>
     <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
@@ -76,14 +84,6 @@
     <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
     <pubDate>Mon, 16 Jun 2025 13:14:53 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新電子商取引（EC）トレンド</title>
-    <link>https://example.com/article88</link>
-    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
-    <pubDate>Mon, 16 Jun 2025 12:08:43 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>ビジネス</category>
   </item>
 </channel>
