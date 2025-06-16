@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Mon, 16 Jun 2025 08:07:23 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>クリエイティブなアイデア発想法</title>
     <link>https://example.com/article89</link>
     <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 15 Jun 2025 23:04:39 GMT</pubDate>
     <author>田中美咲</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新ファッション2024: トレンド分析</title>
-    <link>https://example.com/article12</link>
-    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
-    <pubDate>Sun, 15 Jun 2025 22:04:38 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ファッション</category>
   </item>
 </channel>
 </rss>
