@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効率的なチームコミュニケーション方法</title>
+    <link>https://example.com/article62</link>
+    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
+    <pubDate>Tue, 17 Jun 2025 13:14:55 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>持ち運び便利なガジェット特集</title>
     <link>https://example.com/article35</link>
     <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 17 Jun 2025 04:10:44 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新電子商取引（EC）トレンド</title>
-    <link>https://example.com/article88</link>
-    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
-    <pubDate>Tue, 17 Jun 2025 03:26:48 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
