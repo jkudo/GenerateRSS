@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスインサイト: データ分析の重要性</title>
+    <link>https://example.com/article45</link>
+    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
+    <pubDate>Wed, 18 Jun 2025 23:05:06 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>クリエイティブなアイデア発想法</title>
     <link>https://example.com/article89</link>
     <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 18 Jun 2025 14:05:23 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>子育てと仕事の両立方法</title>
-    <link>https://example.com/article46</link>
-    <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
-    <pubDate>Wed, 18 Jun 2025 13:14:39 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
