@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>健康維持に役立つサプリメント</title>
+    <link>https://example.com/article14</link>
+    <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
+    <pubDate>Wed, 18 Jun 2025 17:06:22 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>デジタルマーケティングの最新動向</title>
     <link>https://example.com/article15</link>
     <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 18 Jun 2025 08:07:06 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>最新ビデオ編集ソフトの比較</title>
-    <link>https://example.com/article86</link>
-    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
-    <pubDate>Wed, 18 Jun 2025 07:05:43 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
