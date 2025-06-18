@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルマーケティングの最新動向</title>
+    <link>https://example.com/article15</link>
+    <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
+    <pubDate>Wed, 18 Jun 2025 14:05:23 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>子育てと仕事の両立方法</title>
     <link>https://example.com/article46</link>
     <description>子育てと仕事をバランスよく両立させるための具体的な方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 18 Jun 2025 05:05:54 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>クリエイティブなアイデア発想法</title>
-    <link>https://example.com/article89</link>
-    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
-    <pubDate>Wed, 18 Jun 2025 04:10:41 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
