@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Wed, 18 Jun 2025 09:05:59 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>エシカル消費のすすめ</title>
     <link>https://example.com/article80</link>
     <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 18 Jun 2025 00:22:48 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新電子書籍リーダーの紹介</title>
-    <link>https://example.com/article67</link>
-    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
-    <pubDate>Tue, 17 Jun 2025 23:05:13 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
