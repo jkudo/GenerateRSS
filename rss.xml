@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クリエイティブなアイデア発想法</title>
+    <link>https://example.com/article89</link>
+    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
+    <pubDate>Wed, 18 Jun 2025 04:10:41 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>都市生活と自然との調和</title>
     <link>https://example.com/article57</link>
     <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
@@ -76,14 +84,6 @@
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
     <pubDate>Tue, 17 Jun 2025 19:04:37 GMT</pubDate>
     <author>山田太郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新バーチャルリアリティ（VR）技術</title>
-    <link>https://example.com/article74</link>
-    <description>バーチャルリアリティの最新技術とその応用例を紹介します。</description>
-    <pubDate>Tue, 17 Jun 2025 18:06:44 GMT</pubDate>
-    <author>田中美咲</author>
     <category>テクノロジー</category>
   </item>
 </channel>
