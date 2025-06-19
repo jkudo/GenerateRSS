@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新テクノロジー2024: AIの進化</title>
+    <link>https://example.com/article1</link>
+    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
+    <pubDate>Thu, 19 Jun 2025 20:05:54 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新サステナビリティプロジェクト</title>
     <link>https://example.com/article90</link>
     <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
@@ -76,14 +84,6 @@
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
     <pubDate>Thu, 19 Jun 2025 11:04:49 GMT</pubDate>
     <author>山田太郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新バイオテクノロジーの進展</title>
-    <link>https://example.com/article94</link>
-    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
-    <pubDate>Thu, 19 Jun 2025 10:05:47 GMT</pubDate>
-    <author>田中美咲</author>
     <category>テクノロジー</category>
   </item>
 </channel>
