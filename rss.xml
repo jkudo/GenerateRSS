@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Thu, 19 Jun 2025 18:06:30 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>スマートウォッチの活用術</title>
     <link>https://example.com/article53</link>
     <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 19 Jun 2025 09:05:40 GMT</pubDate>
     <author>田中美咲</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>ホームセキュリティの強化方法</title>
-    <link>https://example.com/article30</link>
-    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
-    <pubDate>Thu, 19 Jun 2025 08:07:14 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
