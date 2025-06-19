@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ヨガで心と体をリフレッシュ</title>
+    <link>https://example.com/article9</link>
+    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
+    <pubDate>Thu, 19 Jun 2025 01:33:21 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>持ち運び便利なガジェット特集</title>
     <link>https://example.com/article35</link>
     <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 18 Jun 2025 16:06:13 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新スポーツニュースまとめ</title>
-    <link>https://example.com/article40</link>
-    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
-    <pubDate>Wed, 18 Jun 2025 15:05:40 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
