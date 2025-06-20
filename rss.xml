@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子書籍リーダーの紹介</title>
+    <link>https://example.com/article67</link>
+    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
+    <pubDate>Fri, 20 Jun 2025 15:05:09 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>オンラインショッピングの賢い利用法</title>
     <link>https://example.com/article39</link>
     <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 20 Jun 2025 06:07:15 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新フィットネストレンド2024</title>
-    <link>https://example.com/article29</link>
-    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
-    <pubDate>Fri, 20 Jun 2025 05:06:02 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
