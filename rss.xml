@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームオフィスの快適な作り方</title>
+    <link>https://example.com/article20</link>
+    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
+    <pubDate>Fri, 20 Jun 2025 10:05:36 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -76,14 +84,6 @@
     <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
     <pubDate>Fri, 20 Jun 2025 01:33:32 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ビデオ会議の効率的な活用方法</title>
-    <link>https://example.com/article23</link>
-    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
-    <pubDate>Fri, 20 Jun 2025 00:22:40 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>ビジネス</category>
   </item>
 </channel>
