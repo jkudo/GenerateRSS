@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>働き方改革とその影響</title>
+    <link>https://example.com/article27</link>
+    <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
+    <pubDate>Fri, 20 Jun 2025 04:09:55 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>プログラミング言語Pythonの基礎</title>
     <link>https://example.com/article48</link>
     <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 19 Jun 2025 19:04:13 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新音楽アルバムレビュー</title>
-    <link>https://example.com/article25</link>
-    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
-    <pubDate>Thu, 19 Jun 2025 18:06:30 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
