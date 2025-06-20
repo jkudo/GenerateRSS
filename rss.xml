@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新デジタルマーケティングツール</title>
+    <link>https://example.com/article99</link>
+    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
+    <pubDate>Fri, 20 Jun 2025 07:05:25 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>スマートホーム技術の最新動向</title>
     <link>https://example.com/article37</link>
     <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 19 Jun 2025 22:04:51 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>リモートワークの効率化ツール</title>
-    <link>https://example.com/article33</link>
-    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
-    <pubDate>Thu, 19 Jun 2025 21:04:41 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
