@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けブログの始め方</title>
+    <link>https://example.com/article55</link>
+    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
+    <pubDate>Fri, 20 Jun 2025 21:04:31 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>デジタルノマドの生活と働き方</title>
     <link>https://example.com/article91</link>
     <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 20 Jun 2025 12:08:34 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>初心者向けプログラミング入門</title>
-    <link>https://example.com/article24</link>
-    <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
-    <pubDate>Fri, 20 Jun 2025 11:04:37 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
