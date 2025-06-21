@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新クラウドサービス比較</title>
+    <link>https://example.com/article58</link>
+    <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
+    <pubDate>Sat, 21 Jun 2025 16:05:23 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>環境保護の重要性と私たちの役割</title>
     <link>https://example.com/article6</link>
     <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 21 Jun 2025 07:04:49 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新スポーツニュースまとめ</title>
-    <link>https://example.com/article40</link>
-    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
-    <pubDate>Sat, 21 Jun 2025 06:06:15 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
