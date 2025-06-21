@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ブックレビュー: 『未来を拓く技術』</title>
+    <link>https://example.com/article51</link>
+    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
+    <pubDate>Sat, 21 Jun 2025 02:34:32 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>書評</category>
+  </item>
+  <item>
     <title>最新カメラ機材レビュー</title>
     <link>https://example.com/article63</link>
     <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
@@ -76,14 +84,6 @@
     <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
     <pubDate>Fri, 20 Jun 2025 17:04:37 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>最新フィットネスアプリの比較</title>
-    <link>https://example.com/article65</link>
-    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
-    <pubDate>Fri, 20 Jun 2025 16:05:46 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>健康</category>
   </item>
 </channel>
