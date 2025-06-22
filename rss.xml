@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Sun, 22 Jun 2025 03:31:36 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>効率的なチームコミュニケーション方法</title>
     <link>https://example.com/article62</link>
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 21 Jun 2025 18:05:58 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>持ち運び便利なガジェット特集</title>
-    <link>https://example.com/article35</link>
-    <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
-    <pubDate>Sat, 21 Jun 2025 17:04:10 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
