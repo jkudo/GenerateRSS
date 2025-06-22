@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>プログラミング言語Pythonの基礎</title>
+    <link>https://example.com/article48</link>
+    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
+    <pubDate>Sun, 22 Jun 2025 14:04:22 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>環境保護の重要性と私たちの役割</title>
     <link>https://example.com/article6</link>
     <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 22 Jun 2025 05:05:47 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>ストレス解消法の紹介</title>
-    <link>https://example.com/article18</link>
-    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
-    <pubDate>Sun, 22 Jun 2025 04:12:44 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
