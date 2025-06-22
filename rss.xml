@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Sun, 22 Jun 2025 06:06:40 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>最新バイオテクノロジーの進展</title>
     <link>https://example.com/article94</link>
     <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
@@ -76,14 +84,6 @@
     <description>持続可能なファッション業界の現状と未来について考察します。</description>
     <pubDate>Sat, 21 Jun 2025 21:04:17 GMT</pubDate>
     <author>山田太郎</author>
-    <category>ファッション</category>
-  </item>
-  <item>
-    <title>最新ファッション2024: トレンド分析</title>
-    <link>https://example.com/article12</link>
-    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
-    <pubDate>Sat, 21 Jun 2025 20:05:13 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>ファッション</category>
   </item>
 </channel>
