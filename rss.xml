@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>アートセラピーの効果と実践方法</title>
+    <link>https://example.com/article36</link>
+    <description>アートセラピーの効果と、日常生活で取り入れる方法について解説します。</description>
+    <pubDate>Mon, 23 Jun 2025 07:06:32 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>最新ビデオ編集ソフトの比較</title>
     <link>https://example.com/article86</link>
     <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 22 Jun 2025 22:04:32 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新ビジネスインサイト: データ分析の重要性</title>
-    <link>https://example.com/article45</link>
-    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
-    <pubDate>Sun, 22 Jun 2025 21:04:30 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
