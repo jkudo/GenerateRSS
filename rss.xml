@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコフレンドリーな生活用品</title>
+    <link>https://example.com/article60</link>
+    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
+    <pubDate>Tue, 24 Jun 2025 16:06:01 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新テクノロジー2024: AIの進化</title>
     <link>https://example.com/article1</link>
     <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 24 Jun 2025 07:06:01 GMT</pubDate>
     <author>佐藤花子</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>初心者向けプログラミング入門</title>
-    <link>https://example.com/article24</link>
-    <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
-    <pubDate>Tue, 24 Jun 2025 06:07:29 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
