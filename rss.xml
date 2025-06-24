@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Tue, 24 Jun 2025 11:04:51 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>リモートチームのマネジメント術</title>
     <link>https://example.com/article87</link>
     <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
@@ -75,14 +83,6 @@
     <link>https://example.com/article22</link>
     <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
     <pubDate>Tue, 24 Jun 2025 02:36:44 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
-  </item>
-  <item>
-    <title>エコライフのすすめ</title>
-    <link>https://example.com/article22</link>
-    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
-    <pubDate>Tue, 24 Jun 2025 01:33:27 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
   </item>
