@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートチームのマネジメント術</title>
+    <link>https://example.com/article87</link>
+    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
+    <pubDate>Tue, 24 Jun 2025 10:05:50 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>持続可能な交通手段の未来</title>
     <link>https://example.com/article77</link>
     <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
@@ -76,14 +84,6 @@
     <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
     <pubDate>Tue, 24 Jun 2025 01:33:27 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>環境</category>
-  </item>
-  <item>
-    <title>エコフレンドリーな生活用品</title>
-    <link>https://example.com/article60</link>
-    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
-    <pubDate>Tue, 24 Jun 2025 00:23:02 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>環境</category>
   </item>
 </channel>
