@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な交通手段の未来</title>
+    <link>https://example.com/article77</link>
+    <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
+    <pubDate>Tue, 24 Jun 2025 09:06:24 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>クラウドコンピューティングの基礎</title>
     <link>https://example.com/article34</link>
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 24 Jun 2025 00:23:02 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>エシカル消費のすすめ</title>
-    <link>https://example.com/article80</link>
-    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
-    <pubDate>Mon, 23 Jun 2025 23:04:27 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
