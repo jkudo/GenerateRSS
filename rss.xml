@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けプログラミング入門</title>
+    <link>https://example.com/article24</link>
+    <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
+    <pubDate>Tue, 24 Jun 2025 13:14:54 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ペットの健康管理ガイド</title>
     <link>https://example.com/article19</link>
     <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 24 Jun 2025 04:11:35 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新スポーツギアのレビュー</title>
-    <link>https://example.com/article71</link>
-    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
-    <pubDate>Tue, 24 Jun 2025 03:27:33 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
