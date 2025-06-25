@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>投資初心者のためのガイド</title>
+    <link>https://example.com/article10</link>
+    <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
+    <pubDate>Wed, 25 Jun 2025 05:06:39 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新モバイルアプリの紹介</title>
     <link>https://example.com/article96</link>
     <description>市場に出ている最新のモバイルアプリを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 24 Jun 2025 20:05:29 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>リモートチームのマネジメント術</title>
-    <link>https://example.com/article87</link>
-    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
-    <pubDate>Tue, 24 Jun 2025 19:04:15 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
