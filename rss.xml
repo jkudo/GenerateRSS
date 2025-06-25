@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Wed, 25 Jun 2025 21:05:00 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>最新電子商取引（EC）トレンド</title>
     <link>https://example.com/article88</link>
     <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 25 Jun 2025 12:09:01 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新ブックレビュー: 『未来を拓く技術』</title>
-    <link>https://example.com/article51</link>
-    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
-    <pubDate>Wed, 25 Jun 2025 11:04:55 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>書評</category>
   </item>
 </channel>
 </rss>
