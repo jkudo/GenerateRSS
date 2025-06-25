@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Wed, 25 Jun 2025 16:06:04 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>効果的なオンライン広告の手法</title>
     <link>https://example.com/article98</link>
     <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 25 Jun 2025 07:06:08 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>スマートシティの実現に向けて</title>
-    <link>https://example.com/article100</link>
-    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
-    <pubDate>Wed, 25 Jun 2025 06:07:40 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
