@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Wed, 25 Jun 2025 20:05:37 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>デジタルマーケティングの最新動向</title>
     <link>https://example.com/article15</link>
     <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 25 Jun 2025 11:04:55 GMT</pubDate>
     <author>山田太郎</author>
     <category>書評</category>
-  </item>
-  <item>
-    <title>最新ビデオ編集ソフトの比較</title>
-    <link>https://example.com/article86</link>
-    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
-    <pubDate>Wed, 25 Jun 2025 10:05:32 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
