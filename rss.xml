@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Thu, 26 Jun 2025 15:05:22 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>ホームセキュリティの強化方法</title>
     <link>https://example.com/article30</link>
     <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 26 Jun 2025 06:07:18 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新ウェアラブルデバイスの紹介</title>
-    <link>https://example.com/article83</link>
-    <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
-    <pubDate>Thu, 26 Jun 2025 05:06:07 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
