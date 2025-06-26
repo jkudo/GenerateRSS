@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームセキュリティの強化方法</title>
+    <link>https://example.com/article30</link>
+    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
+    <pubDate>Thu, 26 Jun 2025 14:05:14 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>スマートシティの実現に向けて</title>
     <link>https://example.com/article100</link>
     <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 26 Jun 2025 05:06:07 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新フィンテックサービスの紹介</title>
-    <link>https://example.com/article76</link>
-    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
-    <pubDate>Thu, 26 Jun 2025 04:10:41 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
