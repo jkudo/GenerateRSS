@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>旅行計画の立て方とおすすめ先</title>
+    <link>https://example.com/article11</link>
+    <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
+    <pubDate>Thu, 26 Jun 2025 20:05:25 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>デジタルアートの作り方</title>
     <link>https://example.com/article70</link>
     <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 26 Jun 2025 11:04:53 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>クラウドコンピューティングの基礎</title>
-    <link>https://example.com/article34</link>
-    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
-    <pubDate>Thu, 26 Jun 2025 10:05:43 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
