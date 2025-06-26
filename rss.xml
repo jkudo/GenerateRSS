@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコフレンドリーな生活用品</title>
+    <link>https://example.com/article60</link>
+    <description>環境に優しい生活用品を選ぶポイントとおすすめアイテムを紹介します。</description>
+    <pubDate>Thu, 26 Jun 2025 21:04:52 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>旅行計画の立て方とおすすめ先</title>
     <link>https://example.com/article11</link>
     <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
@@ -76,14 +84,6 @@
     <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
     <pubDate>Thu, 26 Jun 2025 12:08:36 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>マーケティング</category>
-  </item>
-  <item>
-    <title>初心者向けオンラインマーケティング</title>
-    <link>https://example.com/article73</link>
-    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
-    <pubDate>Thu, 26 Jun 2025 11:04:53 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>マーケティング</category>
   </item>
 </channel>
