@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビジネス成功のための戦略</title>
+    <link>https://example.com/article5</link>
+    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
+    <pubDate>Sat, 28 Jun 2025 11:04:19 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンライン学習の効果的な活用法</title>
     <link>https://example.com/article78</link>
     <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 28 Jun 2025 02:34:34 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>オンラインプライバシーの保護方法</title>
-    <link>https://example.com/article66</link>
-    <description>インターネット上でのプライバシーを守るための具体的な方法を解説します。</description>
-    <pubDate>Sat, 28 Jun 2025 01:32:52 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
