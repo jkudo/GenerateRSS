@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Sat, 28 Jun 2025 17:04:34 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新ビジネスインテリジェンスツール</title>
     <link>https://example.com/article81</link>
     <description>ビジネスインテリジェンスを強化する最新ツールを紹介します。</description>
@@ -76,14 +84,6 @@
     <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
     <pubDate>Sat, 28 Jun 2025 08:06:06 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>リモートチームのマネジメント術</title>
-    <link>https://example.com/article87</link>
-    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
-    <pubDate>Sat, 28 Jun 2025 07:04:43 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>ビジネス</category>
   </item>
 </channel>
