@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>料理初心者向け簡単レシピ集</title>
+    <link>https://example.com/article7</link>
+    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
+    <pubDate>Sat, 28 Jun 2025 14:04:30 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>料理</category>
+  </item>
+  <item>
     <title>最新電子商取引（EC）トレンド</title>
     <link>https://example.com/article88</link>
     <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 28 Jun 2025 05:04:56 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新フィンテックサービスの紹介</title>
-    <link>https://example.com/article76</link>
-    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
-    <pubDate>Sat, 28 Jun 2025 04:07:30 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
