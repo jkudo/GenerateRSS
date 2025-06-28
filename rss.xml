@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クリエイティブなアイデア発想法</title>
+    <link>https://example.com/article89</link>
+    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
+    <pubDate>Sat, 28 Jun 2025 15:04:27 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>料理初心者向け簡単レシピ集</title>
     <link>https://example.com/article7</link>
     <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 28 Jun 2025 06:06:16 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>ヨガで心と体をリフレッシュ</title>
-    <link>https://example.com/article9</link>
-    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
-    <pubDate>Sat, 28 Jun 2025 05:04:56 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
