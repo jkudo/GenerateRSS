@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的な時間管理術</title>
+    <link>https://example.com/article13</link>
+    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
+    <pubDate>Sun, 29 Jun 2025 16:05:11 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>最新ビジネスツールの紹介</title>
     <link>https://example.com/article54</link>
     <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 29 Jun 2025 07:04:38 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>オンライン学習の効果的な活用法</title>
-    <link>https://example.com/article78</link>
-    <description>オンライン学習を最大限に活用するための方法とツールを紹介します。</description>
-    <pubDate>Sun, 29 Jun 2025 06:06:44 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
