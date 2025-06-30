@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クラウドコンピューティングの基礎</title>
+    <link>https://example.com/article34</link>
+    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
+    <pubDate>Mon, 30 Jun 2025 23:05:13 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>健康維持に役立つサプリメント</title>
     <link>https://example.com/article14</link>
     <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
@@ -76,14 +84,6 @@
     <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
     <pubDate>Mon, 30 Jun 2025 14:05:22 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新電子書籍リーダーの紹介</title>
-    <link>https://example.com/article67</link>
-    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
-    <pubDate>Mon, 30 Jun 2025 13:14:35 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>テクノロジー</category>
   </item>
 </channel>
