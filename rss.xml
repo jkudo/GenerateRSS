@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新映画レビュー: 『スターライト』</title>
+    <link>https://example.com/article4</link>
+    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
+    <pubDate>Mon, 30 Jun 2025 01:33:54 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新エンターテインメントニュース</title>
     <link>https://example.com/article47</link>
     <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 29 Jun 2025 16:05:11 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新ビジネスツールの紹介</title>
-    <link>https://example.com/article54</link>
-    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
-    <pubDate>Sun, 29 Jun 2025 15:04:36 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
