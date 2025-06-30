@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新エンターテインメントニュース</title>
+    <link>https://example.com/article47</link>
+    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
+    <pubDate>Mon, 30 Jun 2025 00:24:48 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>クラウドコンピューティングの基礎</title>
     <link>https://example.com/article34</link>
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 29 Jun 2025 15:04:36 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>クリエイティブなアイデア発想法</title>
-    <link>https://example.com/article89</link>
-    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
-    <pubDate>Sun, 29 Jun 2025 14:04:30 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
