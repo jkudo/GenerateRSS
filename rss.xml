@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新サステナビリティプロジェクト</title>
+    <link>https://example.com/article90</link>
+    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
+    <pubDate>Mon, 30 Jun 2025 07:06:38 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>効果的な時間管理術</title>
     <link>https://example.com/article13</link>
     <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 29 Jun 2025 22:04:37 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>持続可能な交通手段の未来</title>
-    <link>https://example.com/article77</link>
-    <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
-    <pubDate>Sun, 29 Jun 2025 21:04:31 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
