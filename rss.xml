@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>デジタルアートの作り方</title>
+    <link>https://example.com/article70</link>
+    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
+    <pubDate>Tue, 01 Jul 2025 05:08:05 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>アート</category>
+  </item>
+  <item>
     <title>スマートシティの実現に向けて</title>
     <link>https://example.com/article100</link>
     <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 30 Jun 2025 20:05:24 GMT</pubDate>
     <author>山田太郎</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>最新ビジネスツールの紹介</title>
-    <link>https://example.com/article54</link>
-    <description>ビジネス効率を高める最新ツールとその活用方法を紹介します。</description>
-    <pubDate>Mon, 30 Jun 2025 19:04:16 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
