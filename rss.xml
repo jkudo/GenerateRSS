@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスセミナー情報</title>
+    <link>https://example.com/article69</link>
+    <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
+    <pubDate>Tue, 01 Jul 2025 22:05:05 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>自転車メンテナンスの基本</title>
     <link>https://example.com/article26</link>
     <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 01 Jul 2025 13:14:40 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>健康的なライフスタイルの秘訣</title>
-    <link>https://example.com/article2</link>
-    <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
-    <pubDate>Tue, 01 Jul 2025 12:08:55 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
