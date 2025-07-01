@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビジネス成功のための戦略</title>
+    <link>https://example.com/article5</link>
+    <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
+    <pubDate>Tue, 01 Jul 2025 15:05:37 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>初心者向けプログラミング入門</title>
     <link>https://example.com/article24</link>
     <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 01 Jul 2025 06:07:46 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>デジタルアートの作り方</title>
-    <link>https://example.com/article70</link>
-    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
-    <pubDate>Tue, 01 Jul 2025 05:08:05 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>アート</category>
   </item>
 </channel>
 </rss>
