@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ブックレビュー: 『未来を拓く技術』</title>
+    <link>https://example.com/article51</link>
+    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
+    <pubDate>Wed, 02 Jul 2025 12:08:52 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>書評</category>
+  </item>
+  <item>
     <title>デジタルノマドの生活と働き方</title>
     <link>https://example.com/article91</link>
     <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 02 Jul 2025 03:28:27 GMT</pubDate>
     <author>伊藤健一</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>働き方改革とその影響</title>
-    <link>https://example.com/article27</link>
-    <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
-    <pubDate>Wed, 02 Jul 2025 02:36:34 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
