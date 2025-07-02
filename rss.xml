@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>旅行計画の立て方とおすすめ先</title>
+    <link>https://example.com/article11</link>
+    <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
+    <pubDate>Wed, 02 Jul 2025 19:04:17 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>オンラインショッピングの賢い利用法</title>
     <link>https://example.com/article39</link>
     <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 02 Jul 2025 10:05:41 GMT</pubDate>
     <author>田中美咲</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>リーダーシップのスキル向上方法</title>
-    <link>https://example.com/article52</link>
-    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
-    <pubDate>Wed, 02 Jul 2025 09:06:48 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
