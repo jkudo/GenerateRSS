@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クリエイティブなアイデア発想法</title>
+    <link>https://example.com/article89</link>
+    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
+    <pubDate>Thu, 03 Jul 2025 16:06:08 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>最新キッチンガジェットのレビュー</title>
     <link>https://example.com/article79</link>
     <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
@@ -76,14 +84,6 @@
     <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
     <pubDate>Thu, 03 Jul 2025 07:06:14 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>健康</category>
-  </item>
-  <item>
-    <title>メンタルヘルスの重要性</title>
-    <link>https://example.com/article59</link>
-    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
-    <pubDate>Thu, 03 Jul 2025 06:07:29 GMT</pubDate>
-    <author>田中美咲</author>
     <category>健康</category>
   </item>
 </channel>
