@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Thu, 03 Jul 2025 05:08:11 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>働き方改革とその影響</title>
     <link>https://example.com/article27</link>
     <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 02 Jul 2025 20:05:23 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>旅行計画の立て方とおすすめ先</title>
-    <link>https://example.com/article11</link>
-    <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
-    <pubDate>Wed, 02 Jul 2025 19:04:17 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
