@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテック技術の応用</title>
+    <link>https://example.com/article92</link>
+    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
+    <pubDate>Fri, 04 Jul 2025 07:06:06 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>最新ビジネスセミナー情報</title>
     <link>https://example.com/article69</link>
     <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 03 Jul 2025 22:04:44 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新ブックレビュー: 『未来を拓く技術』</title>
-    <link>https://example.com/article51</link>
-    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
-    <pubDate>Thu, 03 Jul 2025 21:04:38 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>書評</category>
   </item>
 </channel>
 </rss>
