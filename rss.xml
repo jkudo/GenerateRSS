@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ブックレビュー: 『未来を拓く技術』</title>
+    <link>https://example.com/article51</link>
+    <description>注目の書籍『未来を拓く技術』の内容とその魅力をレビューします。</description>
+    <pubDate>Sat, 05 Jul 2025 14:04:26 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>書評</category>
+  </item>
+  <item>
     <title>デジタルマーケティングの最新動向</title>
     <link>https://example.com/article15</link>
     <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
@@ -76,14 +84,6 @@
     <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
     <pubDate>Sat, 05 Jul 2025 05:05:07 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ホームオフィスの快適な作り方</title>
-    <link>https://example.com/article20</link>
-    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
-    <pubDate>Sat, 05 Jul 2025 04:08:24 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>ビジネス</category>
   </item>
 </channel>
