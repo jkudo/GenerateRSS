@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なソーシャルメディア戦略</title>
+    <link>https://example.com/article93</link>
+    <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
+    <pubDate>Sat, 05 Jul 2025 01:32:54 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>スマートホーム技術の最新動向</title>
     <link>https://example.com/article37</link>
     <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 04 Jul 2025 16:05:55 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ヨガで心と体をリフレッシュ</title>
-    <link>https://example.com/article9</link>
-    <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
-    <pubDate>Fri, 04 Jul 2025 15:05:16 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
