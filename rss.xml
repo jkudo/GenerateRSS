@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>東京で訪れるべき観光スポット10選</title>
+    <link>https://example.com/article3</link>
+    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
+    <pubDate>Sun, 06 Jul 2025 12:07:54 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>働き方改革とその影響</title>
     <link>https://example.com/article27</link>
     <description>働き方改革が企業や従業員に与える影響とそのメリット・デメリットを考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 06 Jul 2025 03:32:13 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新音楽アルバムレビュー</title>
-    <link>https://example.com/article25</link>
-    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
-    <pubDate>Sun, 06 Jul 2025 02:42:52 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
