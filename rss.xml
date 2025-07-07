@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームセキュリティの強化方法</title>
+    <link>https://example.com/article30</link>
+    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
+    <pubDate>Mon, 07 Jul 2025 20:06:00 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>効果的な時間管理術</title>
     <link>https://example.com/article13</link>
     <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
@@ -76,14 +84,6 @@
     <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
     <pubDate>Mon, 07 Jul 2025 11:05:11 GMT</pubDate>
     <author>田中美咲</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新ガジェットレビュー</title>
-    <link>https://example.com/article17</link>
-    <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
-    <pubDate>Mon, 07 Jul 2025 10:05:38 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>テクノロジー</category>
   </item>
 </channel>
