@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リーダーシップのスキル向上方法</title>
+    <link>https://example.com/article52</link>
+    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
+    <pubDate>Mon, 07 Jul 2025 15:04:50 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>旅行計画の立て方とおすすめ先</title>
     <link>https://example.com/article11</link>
     <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 07 Jul 2025 06:07:56 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新クラウドサービス比較</title>
-    <link>https://example.com/article58</link>
-    <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
-    <pubDate>Mon, 07 Jul 2025 05:07:20 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
