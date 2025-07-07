@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテック技術の応用</title>
+    <link>https://example.com/article92</link>
+    <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
+    <pubDate>Mon, 07 Jul 2025 04:14:47 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>最新バイオテクノロジーの進展</title>
     <link>https://example.com/article94</link>
     <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
@@ -76,14 +84,6 @@
     <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
     <pubDate>Sun, 06 Jul 2025 19:04:23 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>スマートシティの実現に向けて</title>
-    <link>https://example.com/article100</link>
-    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
-    <pubDate>Sun, 06 Jul 2025 18:06:05 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>テクノロジー</category>
   </item>
 </channel>
