@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ガジェットレビュー</title>
+    <link>https://example.com/article17</link>
+    <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
+    <pubDate>Mon, 07 Jul 2025 10:05:38 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>持続可能な交通手段の未来</title>
     <link>https://example.com/article77</link>
     <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 07 Jul 2025 01:33:54 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>家庭でできる簡単エクササイズ</title>
-    <link>https://example.com/article68</link>
-    <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
-    <pubDate>Mon, 07 Jul 2025 00:25:00 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
