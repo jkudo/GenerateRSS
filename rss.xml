@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な都市計画の事例</title>
+    <link>https://example.com/article64</link>
+    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
+    <pubDate>Mon, 07 Jul 2025 07:06:42 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>グリーンテクノロジーの進展</title>
     <link>https://example.com/article49</link>
     <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 06 Jul 2025 22:04:38 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>初心者向けブログの始め方</title>
-    <link>https://example.com/article55</link>
-    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
-    <pubDate>Sun, 06 Jul 2025 21:04:28 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
