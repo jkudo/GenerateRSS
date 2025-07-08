@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネスアプリの比較</title>
+    <link>https://example.com/article65</link>
+    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
+    <pubDate>Tue, 08 Jul 2025 08:07:27 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>ホームセキュリティの強化方法</title>
     <link>https://example.com/article30</link>
     <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 07 Jul 2025 23:05:01 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>家庭菜園の始め方とコツ</title>
-    <link>https://example.com/article16</link>
-    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
-    <pubDate>Mon, 07 Jul 2025 22:05:14 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ガーデニング</category>
   </item>
 </channel>
 </rss>
