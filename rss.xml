@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ガジェットレビュー</title>
+    <link>https://example.com/article17</link>
+    <description>最新のガジェットを実際に使用し、その機能と性能をレビューします。</description>
+    <pubDate>Tue, 08 Jul 2025 00:22:58 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ウェアラブルデバイスの紹介</title>
     <link>https://example.com/article83</link>
     <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 07 Jul 2025 15:04:50 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>旅行計画の立て方とおすすめ先</title>
-    <link>https://example.com/article11</link>
-    <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
-    <pubDate>Mon, 07 Jul 2025 14:05:49 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
