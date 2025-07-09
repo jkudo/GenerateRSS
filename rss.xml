@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネスアプリの比較</title>
+    <link>https://example.com/article65</link>
+    <description>人気のフィットネスアプリを機能や使いやすさで比較します。</description>
+    <pubDate>Wed, 09 Jul 2025 20:05:27 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>リーダーシップのスキル向上方法</title>
     <link>https://example.com/article52</link>
     <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 09 Jul 2025 11:04:58 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>効果的なパーソナルブランディング</title>
-    <link>https://example.com/article75</link>
-    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
-    <pubDate>Wed, 09 Jul 2025 10:05:37 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
