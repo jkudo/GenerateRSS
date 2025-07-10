@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エコライフのすすめ</title>
+    <link>https://example.com/article22</link>
+    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
+    <pubDate>Thu, 10 Jul 2025 19:04:25 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>持続可能なファッションの未来</title>
     <link>https://example.com/article31</link>
     <description>持続可能なファッション業界の現状と未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 10 Jul 2025 10:05:42 GMT</pubDate>
     <author>佐藤花子</author>
     <category>趣味</category>
-  </item>
-  <item>
-    <title>最新スポーツギアのレビュー</title>
-    <link>https://example.com/article71</link>
-    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
-    <pubDate>Thu, 10 Jul 2025 09:06:54 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
