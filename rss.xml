@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
+    <link>https://example.com/article21</link>
+    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
+    <pubDate>Fri, 11 Jul 2025 17:05:45 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 11 Jul 2025 08:07:14 GMT</pubDate>
     <author>山田太郎</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>オンラインセキュリティの基本</title>
-    <link>https://example.com/article50</link>
-    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
-    <pubDate>Fri, 11 Jul 2025 07:06:30 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
