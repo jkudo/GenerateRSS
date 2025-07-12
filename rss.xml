@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新映画レビュー: 『スターライト』</title>
+    <link>https://example.com/article4</link>
+    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
+    <pubDate>Sat, 12 Jul 2025 01:33:58 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>持続可能な食生活の提案</title>
     <link>https://example.com/article72</link>
     <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 11 Jul 2025 16:06:05 GMT</pubDate>
     <author>田中美咲</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>持ち運び便利なガジェット特集</title>
-    <link>https://example.com/article35</link>
-    <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
-    <pubDate>Fri, 11 Jul 2025 15:05:21 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
