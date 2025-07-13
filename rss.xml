@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンライン教育のメリットと課題</title>
+    <link>https://example.com/article28</link>
+    <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
+    <pubDate>Sun, 13 Jul 2025 18:06:12 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>効果的な時間管理術</title>
     <link>https://example.com/article13</link>
     <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 13 Jul 2025 09:05:19 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>プログラミング言語Pythonの基礎</title>
-    <link>https://example.com/article48</link>
-    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
-    <pubDate>Sun, 13 Jul 2025 08:06:10 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
