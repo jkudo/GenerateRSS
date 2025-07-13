@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Sun, 13 Jul 2025 19:04:15 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンライン教育のメリットと課題</title>
     <link>https://example.com/article28</link>
     <description>オンライン教育の利点と直面している課題について詳しく解説します。</description>
@@ -76,14 +84,6 @@
     <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
     <pubDate>Sun, 13 Jul 2025 10:05:12 GMT</pubDate>
     <author>山田太郎</author>
-    <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Sun, 13 Jul 2025 09:05:19 GMT</pubDate>
-    <author>佐藤花子</author>
     <category>ライフスタイル</category>
   </item>
 </channel>
