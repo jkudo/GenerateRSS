@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なパーソナルブランディング</title>
+    <link>https://example.com/article75</link>
+    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
+    <pubDate>Sun, 13 Jul 2025 12:08:13 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>持続可能な都市計画の事例</title>
     <link>https://example.com/article64</link>
     <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 13 Jul 2025 03:33:56 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>効率的なチームコミュニケーション方法</title>
-    <link>https://example.com/article62</link>
-    <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
-    <pubDate>Sun, 13 Jul 2025 02:46:32 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
