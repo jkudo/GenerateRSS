@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エンタープライズソフトウェアの選び方</title>
+    <link>https://example.com/article95</link>
+    <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
+    <pubDate>Mon, 14 Jul 2025 03:34:08 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>効果的なソーシャルメディア戦略</title>
     <link>https://example.com/article93</link>
     <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 13 Jul 2025 18:06:12 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>効果的な時間管理術</title>
-    <link>https://example.com/article13</link>
-    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
-    <pubDate>Sun, 13 Jul 2025 17:04:20 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
