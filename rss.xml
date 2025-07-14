@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なソーシャルメディア戦略</title>
+    <link>https://example.com/article93</link>
+    <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
+    <pubDate>Mon, 14 Jul 2025 02:44:34 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新キッチンガジェットのレビュー</title>
     <link>https://example.com/article79</link>
     <description>最新のキッチンガジェットを実際に試用し、その機能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 13 Jul 2025 17:04:20 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新ビデオ編集ソフトの比較</title>
-    <link>https://example.com/article86</link>
-    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
-    <pubDate>Sun, 13 Jul 2025 16:05:26 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
