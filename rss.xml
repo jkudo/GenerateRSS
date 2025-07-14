@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスインサイト: データ分析の重要性</title>
+    <link>https://example.com/article45</link>
+    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
+    <pubDate>Mon, 14 Jul 2025 15:05:55 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>オンラインセキュリティの基本</title>
     <link>https://example.com/article50</link>
     <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 14 Jul 2025 06:08:19 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新バイオテクノロジーの進展</title>
-    <link>https://example.com/article94</link>
-    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
-    <pubDate>Mon, 14 Jul 2025 05:09:26 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
