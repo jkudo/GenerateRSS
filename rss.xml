@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートウォッチの活用術</title>
+    <link>https://example.com/article53</link>
+    <description>スマートウォッチを日常生活で効果的に活用するためのヒントを提供します。</description>
+    <pubDate>Tue, 15 Jul 2025 09:10:08 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>持続可能なファッションの未来</title>
     <link>https://example.com/article31</link>
     <description>持続可能なファッション業界の現状と未来について考察します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 15 Jul 2025 00:24:21 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>初心者向けブログの始め方</title>
-    <link>https://example.com/article55</link>
-    <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
-    <pubDate>Mon, 14 Jul 2025 23:05:14 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
