@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネストレンド2024</title>
+    <link>https://example.com/article29</link>
+    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
+    <pubDate>Tue, 15 Jul 2025 00:24:21 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>初心者向けブログの始め方</title>
     <link>https://example.com/article55</link>
     <description>ブログを始めたい初心者向けに、基本的な設定方法と運営のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 14 Jul 2025 15:05:55 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>オンラインセキュリティの基本</title>
-    <link>https://example.com/article50</link>
-    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
-    <pubDate>Mon, 14 Jul 2025 14:06:01 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
