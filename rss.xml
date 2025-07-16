@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートワークの効率化ツール</title>
+    <link>https://example.com/article33</link>
+    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
+    <pubDate>Wed, 16 Jul 2025 03:32:55 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>効果的なパーソナルブランディング</title>
     <link>https://example.com/article75</link>
     <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 15 Jul 2025 18:07:28 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>初心者向け写真撮影ガイド</title>
-    <link>https://example.com/article42</link>
-    <description>写真撮影を始めたい人のための基本的なテクニックと機材選びを紹介します。</description>
-    <pubDate>Tue, 15 Jul 2025 17:04:59 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>趣味</category>
   </item>
 </channel>
 </rss>
