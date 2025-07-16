@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>料理初心者向け簡単レシピ集</title>
+    <link>https://example.com/article7</link>
+    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
+    <pubDate>Wed, 16 Jul 2025 10:06:07 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>料理</category>
+  </item>
+  <item>
     <title>自宅でできるフィットネスプログラム</title>
     <link>https://example.com/article44</link>
     <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 16 Jul 2025 01:33:52 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>初心者向けデジタルマーケティング戦略</title>
-    <link>https://example.com/article82</link>
-    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
-    <pubDate>Wed, 16 Jul 2025 00:23:57 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
