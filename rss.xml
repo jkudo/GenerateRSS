@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新テクノロジーによる教育改革</title>
+    <link>https://example.com/article61</link>
+    <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
+    <pubDate>Wed, 16 Jul 2025 13:16:35 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>教育</category>
+  </item>
+  <item>
     <title>最新ビジネスセミナー情報</title>
     <link>https://example.com/article69</link>
     <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 16 Jul 2025 04:17:26 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>リモートワークの効率化ツール</title>
-    <link>https://example.com/article33</link>
-    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
-    <pubDate>Wed, 16 Jul 2025 03:32:55 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
