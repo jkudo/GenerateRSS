@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Wed, 16 Jul 2025 07:06:57 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>最新ビデオ編集ソフトの比較</title>
     <link>https://example.com/article86</link>
     <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 15 Jul 2025 22:05:23 GMT</pubDate>
     <author>佐藤花子</author>
     <category>料理</category>
-  </item>
-  <item>
-    <title>旅行計画の立て方とおすすめ先</title>
-    <link>https://example.com/article11</link>
-    <description>理想的な旅行プランの作り方とおすすめの旅行先をご紹介します。</description>
-    <pubDate>Tue, 15 Jul 2025 21:04:12 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
