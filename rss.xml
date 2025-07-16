@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネスセミナー情報</title>
+    <link>https://example.com/article69</link>
+    <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
+    <pubDate>Wed, 16 Jul 2025 01:33:52 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>初心者向けデジタルマーケティング戦略</title>
     <link>https://example.com/article82</link>
     <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 15 Jul 2025 16:06:16 GMT</pubDate>
     <author>佐藤花子</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>リモートワークの効率化ツール</title>
-    <link>https://example.com/article33</link>
-    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
-    <pubDate>Tue, 15 Jul 2025 15:05:11 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
