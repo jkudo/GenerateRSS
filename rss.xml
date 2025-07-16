@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な都市計画の事例</title>
+    <link>https://example.com/article64</link>
+    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
+    <pubDate>Wed, 16 Jul 2025 04:17:26 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>リモートワークの効率化ツール</title>
     <link>https://example.com/article33</link>
     <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 15 Jul 2025 19:05:34 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>環境保護の重要性と私たちの役割</title>
-    <link>https://example.com/article6</link>
-    <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
-    <pubDate>Tue, 15 Jul 2025 18:07:28 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
