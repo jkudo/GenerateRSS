@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ホームセキュリティの強化方法</title>
+    <link>https://example.com/article30</link>
+    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
+    <pubDate>Thu, 17 Jul 2025 19:05:31 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新フィンテックサービスの紹介</title>
     <link>https://example.com/article76</link>
     <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 17 Jul 2025 10:05:47 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>デジタルアートの作り方</title>
-    <link>https://example.com/article70</link>
-    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
-    <pubDate>Thu, 17 Jul 2025 09:07:52 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>アート</category>
   </item>
 </channel>
 </rss>
