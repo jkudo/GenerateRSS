@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィンテックサービスの紹介</title>
+    <link>https://example.com/article76</link>
+    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
+    <pubDate>Thu, 17 Jul 2025 18:07:24 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>フィンテック</category>
+  </item>
+  <item>
     <title>自宅でできるフィットネスプログラム</title>
     <link>https://example.com/article44</link>
     <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 17 Jul 2025 09:07:52 GMT</pubDate>
     <author>伊藤健一</author>
     <category>アート</category>
-  </item>
-  <item>
-    <title>自宅でできるフィットネスプログラム</title>
-    <link>https://example.com/article44</link>
-    <description>自宅で簡単に取り組めるフィットネスプログラムを紹介します。</description>
-    <pubDate>Thu, 17 Jul 2025 08:07:23 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
