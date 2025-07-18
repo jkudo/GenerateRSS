@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビジネス書ベストセラー紹介</title>
+    <link>https://example.com/article32</link>
+    <description>今年のビジネス書ベストセラーをピックアップし、その内容を紹介します。</description>
+    <pubDate>Fri, 18 Jul 2025 02:43:00 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>効率的なチームコミュニケーション方法</title>
     <link>https://example.com/article62</link>
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 17 Jul 2025 17:05:54 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新スマートフォンの比較レビュー</title>
-    <link>https://example.com/article8</link>
-    <description>市場に出回っている最新スマートフォンを機能や性能で比較します。</description>
-    <pubDate>Thu, 17 Jul 2025 16:06:25 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
