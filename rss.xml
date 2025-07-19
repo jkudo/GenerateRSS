@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な食生活の提案</title>
+    <link>https://example.com/article72</link>
+    <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
+    <pubDate>Sat, 19 Jul 2025 16:05:24 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新ビジネスインサイト: データ分析の重要性</title>
     <link>https://example.com/article45</link>
     <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 19 Jul 2025 07:05:20 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>料理初心者向け簡単レシピ集</title>
-    <link>https://example.com/article7</link>
-    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
-    <pubDate>Sat, 19 Jul 2025 06:06:52 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>料理</category>
   </item>
 </channel>
 </rss>
