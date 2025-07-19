@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ファッション2024: トレンド分析</title>
+    <link>https://example.com/article12</link>
+    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
+    <pubDate>Sat, 19 Jul 2025 05:07:19 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>健康的なライフスタイルの秘訣</title>
     <link>https://example.com/article2</link>
     <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 18 Jul 2025 20:05:44 GMT</pubDate>
     <author>山田太郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>クリエイティブなアイデア発想法</title>
-    <link>https://example.com/article89</link>
-    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
-    <pubDate>Fri, 18 Jul 2025 19:05:02 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>自己啓発</category>
   </item>
 </channel>
 </rss>
