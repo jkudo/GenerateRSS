@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な都市計画の事例</title>
+    <link>https://example.com/article64</link>
+    <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
+    <pubDate>Sat, 19 Jul 2025 18:06:20 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>ペットの健康管理ガイド</title>
     <link>https://example.com/article19</link>
     <description>愛犬や愛猫の健康を維持するためのケア方法と注意点を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 19 Jul 2025 09:05:09 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>リモートワークの効率化ツール</title>
-    <link>https://example.com/article33</link>
-    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
-    <pubDate>Sat, 19 Jul 2025 08:06:16 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
