@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新フィットネストレンド2024</title>
+    <link>https://example.com/article29</link>
+    <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
+    <pubDate>Sun, 20 Jul 2025 10:04:58 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>健康維持に役立つサプリメント</title>
     <link>https://example.com/article14</link>
     <description>健康をサポートするためのおすすめサプリメントとその効果について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 20 Jul 2025 01:34:04 GMT</pubDate>
     <author>山田太郎</author>
     <category>ガーデニング</category>
-  </item>
-  <item>
-    <title>最新ヘルスケアテクノロジー</title>
-    <link>https://example.com/article43</link>
-    <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
-    <pubDate>Sun, 20 Jul 2025 00:26:54 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
