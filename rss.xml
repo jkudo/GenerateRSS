@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リーダーシップのスキル向上方法</title>
+    <link>https://example.com/article52</link>
+    <description>効果的なリーダーシップスキルを身につけるための方法を紹介します。</description>
+    <pubDate>Sun, 20 Jul 2025 11:04:15 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新フィットネストレンド2024</title>
     <link>https://example.com/article29</link>
     <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 20 Jul 2025 02:48:25 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>家庭菜園の始め方とコツ</title>
-    <link>https://example.com/article16</link>
-    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
-    <pubDate>Sun, 20 Jul 2025 01:34:04 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ガーデニング</category>
   </item>
 </channel>
 </rss>
