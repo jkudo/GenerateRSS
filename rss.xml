@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エンタープライズソフトウェアの選び方</title>
+    <link>https://example.com/article95</link>
+    <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
+    <pubDate>Mon, 21 Jul 2025 08:08:26 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>効果的なパーソナルブランディング</title>
     <link>https://example.com/article75</link>
     <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 20 Jul 2025 23:05:15 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>最新電子書籍リーダーの紹介</title>
-    <link>https://example.com/article67</link>
-    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
-    <pubDate>Sun, 20 Jul 2025 22:04:48 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
