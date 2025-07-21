@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子商取引（EC）トレンド</title>
+    <link>https://example.com/article88</link>
+    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
+    <pubDate>Mon, 21 Jul 2025 11:04:58 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ビジネスセミナー情報</title>
     <link>https://example.com/article69</link>
     <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 21 Jul 2025 02:47:43 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>持続可能なファッションの未来</title>
-    <link>https://example.com/article31</link>
-    <description>持続可能なファッション業界の現状と未来について考察します。</description>
-    <pubDate>Mon, 21 Jul 2025 01:34:36 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ファッション</category>
   </item>
 </channel>
 </rss>
