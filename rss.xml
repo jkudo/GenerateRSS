@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインセキュリティの基本</title>
+    <link>https://example.com/article50</link>
+    <description>インターネットを安全に利用するための基本的なセキュリティ対策を解説します。</description>
+    <pubDate>Tue, 22 Jul 2025 08:07:24 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ビジネス成功のための戦略</title>
     <link>https://example.com/article5</link>
     <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 21 Jul 2025 23:05:19 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>デジタルノマドの生活と働き方</title>
-    <link>https://example.com/article91</link>
-    <description>デジタルノマドとしての生活スタイルと効果的な働き方を解説します。</description>
-    <pubDate>Mon, 21 Jul 2025 22:05:24 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
