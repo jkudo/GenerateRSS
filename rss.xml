@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なソーシャルメディア戦略</title>
+    <link>https://example.com/article93</link>
+    <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
+    <pubDate>Wed, 23 Jul 2025 15:06:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>都市生活と自然との調和</title>
     <link>https://example.com/article57</link>
     <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Jul 2025 06:08:21 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新フィンテックサービスの紹介</title>
-    <link>https://example.com/article76</link>
-    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
-    <pubDate>Wed, 23 Jul 2025 05:10:49 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
