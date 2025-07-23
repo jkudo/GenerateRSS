@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビデオ会議の効率的な活用方法</title>
+    <link>https://example.com/article23</link>
+    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
+    <pubDate>Wed, 23 Jul 2025 23:05:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新デジタルマーケティングツール</title>
     <link>https://example.com/article99</link>
     <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Jul 2025 14:06:37 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>初心者向けオンラインマーケティング</title>
-    <link>https://example.com/article73</link>
-    <description>オンラインマーケティングの基本と、初心者が取り組むべき戦略を解説します。</description>
-    <pubDate>Wed, 23 Jul 2025 13:17:00 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
