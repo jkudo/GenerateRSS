@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新デジタルマーケティングツール</title>
+    <link>https://example.com/article99</link>
+    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
+    <pubDate>Wed, 23 Jul 2025 22:05:12 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>家庭菜園の始め方とコツ</title>
     <link>https://example.com/article16</link>
     <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Jul 2025 13:17:00 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新エンターテインメントニュース</title>
-    <link>https://example.com/article47</link>
-    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
-    <pubDate>Wed, 23 Jul 2025 12:09:10 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
