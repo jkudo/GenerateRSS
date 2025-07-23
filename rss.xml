@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なパーソナルブランディング</title>
+    <link>https://example.com/article75</link>
+    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
+    <pubDate>Wed, 23 Jul 2025 17:07:07 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>最新ファッション2024: トレンド分析</title>
     <link>https://example.com/article12</link>
     <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Jul 2025 08:07:23 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Wed, 23 Jul 2025 07:07:54 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
