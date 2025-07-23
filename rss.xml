@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持ち運び便利なガジェット特集</title>
+    <link>https://example.com/article35</link>
+    <description>旅行や外出時に便利な最新ガジェットを特集し、その機能を紹介します。</description>
+    <pubDate>Wed, 23 Jul 2025 10:05:53 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>クラウドコンピューティングの基礎</title>
     <link>https://example.com/article34</link>
     <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Jul 2025 01:34:05 GMT</pubDate>
     <author>伊藤健一</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新音楽アルバムレビュー</title>
-    <link>https://example.com/article25</link>
-    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
-    <pubDate>Wed, 23 Jul 2025 00:24:19 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
