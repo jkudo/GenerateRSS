@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートワークの効率化ツール</title>
+    <link>https://example.com/article33</link>
+    <description>リモートワークをより効率的にするための便利なツールとその使い方を解説します。</description>
+    <pubDate>Thu, 24 Jul 2025 19:05:37 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>持続可能な食生活の提案</title>
     <link>https://example.com/article72</link>
     <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 24 Jul 2025 10:06:15 GMT</pubDate>
     <author>田中美咲</author>
     <category>ペット</category>
-  </item>
-  <item>
-    <title>最新ヘルスケアテクノロジー</title>
-    <link>https://example.com/article43</link>
-    <description>ヘルスケア分野で注目されている最新テクノロジーとその応用例を解説します。</description>
-    <pubDate>Thu, 24 Jul 2025 09:07:58 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
