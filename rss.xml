@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な食生活の提案</title>
+    <link>https://example.com/article72</link>
+    <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
+    <pubDate>Thu, 24 Jul 2025 18:07:12 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>初心者向けプログラミング入門</title>
     <link>https://example.com/article24</link>
     <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 24 Jul 2025 09:07:58 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>家庭菜園の始め方とコツ</title>
-    <link>https://example.com/article16</link>
-    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
-    <pubDate>Thu, 24 Jul 2025 08:07:26 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ガーデニング</category>
   </item>
 </channel>
 </rss>
