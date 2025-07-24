@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>投資初心者のためのガイド</title>
+    <link>https://example.com/article10</link>
+    <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
+    <pubDate>Thu, 24 Jul 2025 05:09:18 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新ウェアラブルデバイスの紹介</title>
     <link>https://example.com/article83</link>
     <description>市場に出ている最新のウェアラブルデバイスを機能面から紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Jul 2025 20:05:42 GMT</pubDate>
     <author>田中美咲</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>自転車メンテナンスの基本</title>
-    <link>https://example.com/article26</link>
-    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
-    <pubDate>Wed, 23 Jul 2025 19:05:36 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
