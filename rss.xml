@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ヘッドフォンレビュー</title>
+    <link>https://example.com/article56</link>
+    <description>市場に出回っている最新ヘッドフォンの機能と音質をレビューします。</description>
+    <pubDate>Thu, 24 Jul 2025 02:42:45 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新フィンテック技術の応用</title>
     <link>https://example.com/article92</link>
     <description>フィンテック分野での最新技術とそのビジネスへの応用例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 23 Jul 2025 17:07:07 GMT</pubDate>
     <author>伊藤健一</author>
     <category>自己啓発</category>
-  </item>
-  <item>
-    <title>最新ファッション2024: トレンド分析</title>
-    <link>https://example.com/article12</link>
-    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
-    <pubDate>Wed, 23 Jul 2025 16:06:21 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ファッション</category>
   </item>
 </channel>
 </rss>
