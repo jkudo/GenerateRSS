@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ファッション2024: トレンド分析</title>
+    <link>https://example.com/article12</link>
+    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
+    <pubDate>Thu, 24 Jul 2025 21:05:18 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>持続可能な建築デザインのトレンド</title>
     <link>https://example.com/article84</link>
     <description>環境に配慮した最新の建築デザインとそのトレンドを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 24 Jul 2025 12:09:10 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>初心者向けプログラミング入門</title>
-    <link>https://example.com/article24</link>
-    <description>プログラミングを始めたい人のための基本的な知識と学習方法を紹介します。</description>
-    <pubDate>Thu, 24 Jul 2025 11:05:07 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
