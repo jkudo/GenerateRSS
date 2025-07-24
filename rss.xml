@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートチームのマネジメント術</title>
+    <link>https://example.com/article87</link>
+    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
+    <pubDate>Thu, 24 Jul 2025 16:06:23 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>ビデオ会議の効率的な活用方法</title>
     <link>https://example.com/article23</link>
     <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 24 Jul 2025 07:07:34 GMT</pubDate>
     <author>山田太郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>最新ファッション2024: トレンド分析</title>
-    <link>https://example.com/article12</link>
-    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
-    <pubDate>Thu, 24 Jul 2025 06:07:57 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ファッション</category>
   </item>
 </channel>
 </rss>
