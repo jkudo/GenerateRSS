@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新カメラ機材レビュー</title>
+    <link>https://example.com/article63</link>
+    <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
+    <pubDate>Fri, 25 Jul 2025 00:24:26 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>スマートホーム技術の最新動向</title>
     <link>https://example.com/article37</link>
     <description>スマートホーム技術の最新トレンドとその活用方法を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 24 Jul 2025 15:05:29 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新サステナビリティプロジェクト</title>
-    <link>https://example.com/article90</link>
-    <description>世界各地で実施されている最新のサステナビリティプロジェクトを紹介します。</description>
-    <pubDate>Thu, 24 Jul 2025 14:06:16 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
