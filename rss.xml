@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自転車メンテナンスの基本</title>
+    <link>https://example.com/article26</link>
+    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
+    <pubDate>Fri, 25 Jul 2025 23:05:28 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>ヨガで心と体をリフレッシュ</title>
     <link>https://example.com/article9</link>
     <description>ヨガの基本ポーズとその健康効果について詳しく解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 25 Jul 2025 14:05:53 GMT</pubDate>
     <author>山田太郎</author>
     <category>教育</category>
-  </item>
-  <item>
-    <title>最新フィンテックサービスの紹介</title>
-    <link>https://example.com/article76</link>
-    <description>注目のフィンテックサービスを紹介し、その特徴と利便性を解説します。</description>
-    <pubDate>Fri, 25 Jul 2025 13:15:59 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>フィンテック</category>
   </item>
 </channel>
 </rss>
