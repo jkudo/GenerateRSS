@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スポーツニュースまとめ</title>
+    <link>https://example.com/article40</link>
+    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
+    <pubDate>Sat, 26 Jul 2025 05:07:33 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>最新映画レビュー: 『スターライト』</title>
     <link>https://example.com/article4</link>
     <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 25 Jul 2025 20:05:30 GMT</pubDate>
     <author>田中美咲</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新電子商取引（EC）トレンド</title>
-    <link>https://example.com/article88</link>
-    <description>電子商取引の最新トレンドと今後の展望について解説します。</description>
-    <pubDate>Fri, 25 Jul 2025 19:05:22 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
