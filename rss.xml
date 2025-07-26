@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新映画レビュー: 『スターライト』</title>
+    <link>https://example.com/article4</link>
+    <description>話題の映画『スターライト』の魅力と見どころを詳しくレビューします。</description>
+    <pubDate>Sat, 26 Jul 2025 04:16:17 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>都市生活と自然との調和</title>
     <link>https://example.com/article57</link>
     <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 25 Jul 2025 19:05:22 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>初心者向けデジタルマーケティング戦略</title>
-    <link>https://example.com/article82</link>
-    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
-    <pubDate>Fri, 25 Jul 2025 18:07:05 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
