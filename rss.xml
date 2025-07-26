@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新カメラ機材レビュー</title>
+    <link>https://example.com/article63</link>
+    <description>最新のカメラ機材を実際に試用し、その性能をレビューします。</description>
+    <pubDate>Sat, 26 Jul 2025 13:13:10 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>健康的なライフスタイルの秘訣</title>
     <link>https://example.com/article2</link>
     <description>日常生活で取り入れたい健康習慣とその効果について紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 26 Jul 2025 04:16:17 GMT</pubDate>
     <author>田中美咲</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>都市生活と自然との調和</title>
-    <link>https://example.com/article57</link>
-    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
-    <pubDate>Sat, 26 Jul 2025 03:32:33 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>ライフスタイル</category>
   </item>
 </channel>
 </rss>
