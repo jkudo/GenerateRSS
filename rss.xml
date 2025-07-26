@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>メンタルヘルスの重要性</title>
+    <link>https://example.com/article59</link>
+    <description>メンタルヘルスを維持するための方法とその重要性について解説します。</description>
+    <pubDate>Sat, 26 Jul 2025 19:04:23 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>健康</category>
+  </item>
+  <item>
     <title>家庭でできる簡単エクササイズ</title>
     <link>https://example.com/article68</link>
     <description>自宅で手軽に行えるエクササイズをいくつか紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 26 Jul 2025 10:05:13 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新ビジネスインサイト: データ分析の重要性</title>
-    <link>https://example.com/article45</link>
-    <description>ビジネスにおけるデータ分析の重要性と効果的な活用方法を解説します。</description>
-    <pubDate>Sat, 26 Jul 2025 09:05:11 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
