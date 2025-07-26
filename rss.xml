@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的な時間管理術</title>
+    <link>https://example.com/article13</link>
+    <description>日常生活や仕事で活用できる時間管理のテクニックを紹介します。</description>
+    <pubDate>Sat, 26 Jul 2025 00:23:19 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>自転車メンテナンスの基本</title>
     <link>https://example.com/article26</link>
     <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 25 Jul 2025 15:05:30 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新テクノロジーによる教育改革</title>
-    <link>https://example.com/article61</link>
-    <description>テクノロジーが教育現場にもたらす変革とその効果を考察します。</description>
-    <pubDate>Fri, 25 Jul 2025 14:05:53 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>教育</category>
   </item>
 </channel>
 </rss>
