@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新エンターテインメントニュース</title>
+    <link>https://example.com/article47</link>
+    <description>エンターテインメント業界の最新ニュースと話題のトピックをお届けします。</description>
+    <pubDate>Sun, 27 Jul 2025 08:06:17 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>効果的なパーソナルブランディング</title>
     <link>https://example.com/article75</link>
     <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 26 Jul 2025 23:04:53 GMT</pubDate>
     <author>山田太郎</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>効果的なSEO対策の方法</title>
-    <link>https://example.com/article85</link>
-    <description>ウェブサイトの検索エンジン最適化（SEO）を効果的に行うための方法を解説します。</description>
-    <pubDate>Sat, 26 Jul 2025 22:04:49 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
