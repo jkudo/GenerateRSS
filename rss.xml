@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>ビデオ会議の効率的な活用方法</title>
+    <link>https://example.com/article23</link>
+    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
+    <pubDate>Sun, 27 Jul 2025 01:34:15 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>ホームオフィスの快適な作り方</title>
     <link>https://example.com/article20</link>
     <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 26 Jul 2025 16:05:23 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>デジタルアートの作り方</title>
-    <link>https://example.com/article70</link>
-    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
-    <pubDate>Sat, 26 Jul 2025 15:04:41 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>アート</category>
   </item>
 </channel>
 </rss>
