@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クラウドコンピューティングの基礎</title>
+    <link>https://example.com/article34</link>
+    <description>クラウドコンピューティングの基本概念とその利点について説明します。</description>
+    <pubDate>Sun, 27 Jul 2025 03:35:45 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>自転車メンテナンスの基本</title>
     <link>https://example.com/article26</link>
     <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 26 Jul 2025 18:06:22 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>エコライフのすすめ</title>
-    <link>https://example.com/article22</link>
-    <description>環境に優しい生活を送るための具体的な方法とそのメリットを紹介します。</description>
-    <pubDate>Sat, 26 Jul 2025 17:04:17 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
