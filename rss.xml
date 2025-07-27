@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>自転車メンテナンスの基本</title>
+    <link>https://example.com/article26</link>
+    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
+    <pubDate>Sun, 27 Jul 2025 02:49:07 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>ビデオ会議の効率的な活用方法</title>
     <link>https://example.com/article23</link>
     <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 26 Jul 2025 17:04:17 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>エンタープライズソフトウェアの選び方</title>
-    <link>https://example.com/article95</link>
-    <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
-    <pubDate>Sat, 26 Jul 2025 16:05:23 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
