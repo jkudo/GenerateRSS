@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なパーソナルブランディング</title>
+    <link>https://example.com/article75</link>
+    <description>自分自身を効果的にブランディングするための方法と戦略を解説します。</description>
+    <pubDate>Sun, 27 Jul 2025 07:05:41 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>料理初心者向け簡単レシピ集</title>
     <link>https://example.com/article7</link>
     <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 26 Jul 2025 22:04:49 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>東京で訪れるべき観光スポット10選</title>
-    <link>https://example.com/article3</link>
-    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
-    <pubDate>Sat, 26 Jul 2025 21:04:29 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
