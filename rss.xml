@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なソーシャルメディア戦略</title>
+    <link>https://example.com/article93</link>
+    <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
+    <pubDate>Mon, 28 Jul 2025 04:22:00 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新デジタルマーケティングツール</title>
     <link>https://example.com/article99</link>
     <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 27 Jul 2025 19:04:44 GMT</pubDate>
     <author>伊藤健一</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>持続可能なファッションの未来</title>
-    <link>https://example.com/article31</link>
-    <description>持続可能なファッション業界の現状と未来について考察します。</description>
-    <pubDate>Sun, 27 Jul 2025 18:06:24 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>ファッション</category>
   </item>
 </channel>
 </rss>
