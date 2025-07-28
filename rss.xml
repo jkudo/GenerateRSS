@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けデジタルマーケティング戦略</title>
+    <link>https://example.com/article82</link>
+    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
+    <pubDate>Mon, 28 Jul 2025 07:09:02 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>最新ビデオ編集ソフトの比較</title>
     <link>https://example.com/article86</link>
     <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 27 Jul 2025 22:05:12 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>自転車メンテナンスの基本</title>
-    <link>https://example.com/article26</link>
-    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
-    <pubDate>Sun, 27 Jul 2025 21:04:34 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
