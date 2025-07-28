@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>グリーンテクノロジーの進展</title>
+    <link>https://example.com/article49</link>
+    <description>環境に配慮したテクノロジーの最新進展とその影響について紹介します。</description>
+    <pubDate>Mon, 28 Jul 2025 20:05:46 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>持続可能な都市計画の事例</title>
     <link>https://example.com/article64</link>
     <description>世界各地で実践されている持続可能な都市計画の事例を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 28 Jul 2025 11:04:51 GMT</pubDate>
     <author>山田太郎</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新スポーツニュースまとめ</title>
-    <link>https://example.com/article40</link>
-    <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
-    <pubDate>Mon, 28 Jul 2025 10:06:11 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
