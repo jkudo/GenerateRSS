@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エシカル消費のすすめ</title>
+    <link>https://example.com/article80</link>
+    <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
+    <pubDate>Mon, 28 Jul 2025 16:06:24 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>ホームセキュリティの強化方法</title>
     <link>https://example.com/article30</link>
     <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 28 Jul 2025 07:09:02 GMT</pubDate>
     <author>佐藤花子</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>最新ビデオ編集ソフトの比較</title>
-    <link>https://example.com/article86</link>
-    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
-    <pubDate>Mon, 28 Jul 2025 06:09:12 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
