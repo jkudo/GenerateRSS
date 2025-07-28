@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビデオ編集ソフトの比較</title>
+    <link>https://example.com/article86</link>
+    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
+    <pubDate>Mon, 28 Jul 2025 06:09:12 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新スポーツニュースまとめ</title>
     <link>https://example.com/article40</link>
     <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sun, 27 Jul 2025 21:04:34 GMT</pubDate>
     <author>山田太郎</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>プログラミング言語Pythonの基礎</title>
-    <link>https://example.com/article48</link>
-    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
-    <pubDate>Sun, 27 Jul 2025 20:05:18 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
