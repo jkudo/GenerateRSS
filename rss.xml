@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>都市生活と自然との調和</title>
+    <link>https://example.com/article57</link>
+    <description>都市生活の中で自然と共生するためのアイデアと取り組みを紹介します。</description>
+    <pubDate>Mon, 28 Jul 2025 00:26:16 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ライフスタイル</category>
+  </item>
+  <item>
     <title>持続可能な食生活の提案</title>
     <link>https://example.com/article72</link>
     <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
@@ -76,14 +84,6 @@
     <description>チーム内でのコミュニケーションを円滑にするための効果的な方法を紹介します。</description>
     <pubDate>Sun, 27 Jul 2025 15:04:50 GMT</pubDate>
     <author>佐藤花子</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>最新ビジネスセミナー情報</title>
-    <link>https://example.com/article69</link>
-    <description>2025年に開催予定の注目ビジネスセミナーをピックアップして紹介します。</description>
-    <pubDate>Sun, 27 Jul 2025 14:04:32 GMT</pubDate>
-    <author>田中美咲</author>
     <category>ビジネス</category>
   </item>
 </channel>
