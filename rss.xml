@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能なエネルギーの未来</title>
+    <link>https://example.com/article41</link>
+    <description>再生可能エネルギーの現状と未来の展望について考察します。</description>
+    <pubDate>Mon, 28 Jul 2025 11:04:51 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新スポーツニュースまとめ</title>
     <link>https://example.com/article40</link>
     <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 28 Jul 2025 02:47:57 GMT</pubDate>
     <author>山田太郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>環境保護の重要性と私たちの役割</title>
-    <link>https://example.com/article6</link>
-    <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
-    <pubDate>Mon, 28 Jul 2025 01:34:28 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
