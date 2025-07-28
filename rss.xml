@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な交通手段の未来</title>
+    <link>https://example.com/article77</link>
+    <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
+    <pubDate>Mon, 28 Jul 2025 14:06:55 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新フィットネストレンド2024</title>
     <link>https://example.com/article29</link>
     <description>2024年のフィットネストレンドを紹介し、効果的なトレーニング方法を提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 28 Jul 2025 05:11:52 GMT</pubDate>
     <author>伊藤健一</author>
     <category>スポーツ</category>
-  </item>
-  <item>
-    <title>効果的なソーシャルメディア戦略</title>
-    <link>https://example.com/article93</link>
-    <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
-    <pubDate>Mon, 28 Jul 2025 04:22:00 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
