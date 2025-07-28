@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ファッション2024: トレンド分析</title>
+    <link>https://example.com/article12</link>
+    <description>2024年のファッショントレンドを分析し、注目すべきスタイルを提案します。</description>
+    <pubDate>Mon, 28 Jul 2025 17:07:24 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ファッション</category>
+  </item>
+  <item>
     <title>エシカル消費のすすめ</title>
     <link>https://example.com/article80</link>
     <description>倫理的な消費行動を促進するための方法とそのメリットを紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 28 Jul 2025 08:08:25 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>初心者向けデジタルマーケティング戦略</title>
-    <link>https://example.com/article82</link>
-    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
-    <pubDate>Mon, 28 Jul 2025 07:09:02 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
