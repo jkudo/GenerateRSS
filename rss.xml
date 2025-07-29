@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>エンタープライズソフトウェアの選び方</title>
+    <link>https://example.com/article95</link>
+    <description>企業向けソフトウェアを選ぶ際のポイントとおすすめ製品を解説します。</description>
+    <pubDate>Tue, 29 Jul 2025 01:35:12 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>家庭菜園の始め方とコツ</title>
     <link>https://example.com/article16</link>
     <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Mon, 28 Jul 2025 16:06:24 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ライフスタイル</category>
-  </item>
-  <item>
-    <title>ホームセキュリティの強化方法</title>
-    <link>https://example.com/article30</link>
-    <description>自宅の安全を守るためのセキュリティ対策と最新の技術を紹介します。</description>
-    <pubDate>Mon, 28 Jul 2025 15:06:07 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
