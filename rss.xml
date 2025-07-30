@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>効果的なオンライン広告の手法</title>
+    <link>https://example.com/article98</link>
+    <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
+    <pubDate>Wed, 30 Jul 2025 08:07:37 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>東京で訪れるべき観光スポット10選</title>
     <link>https://example.com/article3</link>
     <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 29 Jul 2025 23:05:18 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>持続可能な農業の未来</title>
-    <link>https://example.com/article97</link>
-    <description>持続可能な農業技術とその未来について考察します。</description>
-    <pubDate>Tue, 29 Jul 2025 22:05:20 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
