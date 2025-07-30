@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>クリエイティブなアイデア発想法</title>
+    <link>https://example.com/article89</link>
+    <description>クリエイティブなアイデアを生み出すための効果的な発想法を紹介します。</description>
+    <pubDate>Wed, 30 Jul 2025 04:20:58 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>自己啓発</category>
+  </item>
+  <item>
     <title>オンラインショッピングの賢い利用法</title>
     <link>https://example.com/article39</link>
     <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Tue, 29 Jul 2025 19:06:53 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>環境保護の重要性と私たちの役割</title>
-    <link>https://example.com/article6</link>
-    <description>地球環境を守るために私たちができる具体的なアクションについて考えます。</description>
-    <pubDate>Tue, 29 Jul 2025 18:07:40 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
