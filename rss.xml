@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>リモートチームのマネジメント術</title>
+    <link>https://example.com/article87</link>
+    <description>リモートチームを効果的にマネジメントするための方法とツールを紹介します。</description>
+    <pubDate>Wed, 30 Jul 2025 10:06:36 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新スポーツギアのレビュー</title>
     <link>https://example.com/article71</link>
     <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 30 Jul 2025 01:34:12 GMT</pubDate>
     <author>伊藤健一</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>初心者向けデジタルマーケティング戦略</title>
-    <link>https://example.com/article82</link>
-    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
-    <pubDate>Wed, 30 Jul 2025 00:24:44 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
