@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>家庭菜園の始め方とコツ</title>
+    <link>https://example.com/article16</link>
+    <description>初心者でも簡単に始められる家庭菜園の基本と成功のコツを解説します。</description>
+    <pubDate>Thu, 31 Jul 2025 08:07:57 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>ガーデニング</category>
+  </item>
+  <item>
     <title>初心者向けデジタルマーケティング戦略</title>
     <link>https://example.com/article82</link>
     <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Wed, 30 Jul 2025 23:05:29 GMT</pubDate>
     <author>佐藤花子</author>
     <category>ビジネス</category>
-  </item>
-  <item>
-    <title>持続可能な交通手段の未来</title>
-    <link>https://example.com/article77</link>
-    <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
-    <pubDate>Wed, 30 Jul 2025 22:05:09 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>環境</category>
   </item>
 </channel>
 </rss>
