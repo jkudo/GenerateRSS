@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新テクノロジー2024: AIの進化</title>
+    <link>https://example.com/article1</link>
+    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
+    <pubDate>Thu, 31 Jul 2025 23:05:33 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>東京で訪れるべき観光スポット10選</title>
     <link>https://example.com/article3</link>
     <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 31 Jul 2025 14:06:27 GMT</pubDate>
     <author>伊藤健一</author>
     <category>アート</category>
-  </item>
-  <item>
-    <title>最新テクノロジー2024: AIの進化</title>
-    <link>https://example.com/article1</link>
-    <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
-    <pubDate>Thu, 31 Jul 2025 13:16:54 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>テクノロジー</category>
   </item>
 </channel>
 </rss>
