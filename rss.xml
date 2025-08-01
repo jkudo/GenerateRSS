@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>東京で訪れるべき観光スポット10選</title>
+    <link>https://example.com/article3</link>
+    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
+    <pubDate>Fri, 01 Aug 2025 21:05:13 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>旅行</category>
+  </item>
+  <item>
     <title>料理初心者向け簡単レシピ集</title>
     <link>https://example.com/article7</link>
     <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 01 Aug 2025 12:09:18 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新音楽アルバムレビュー</title>
-    <link>https://example.com/article25</link>
-    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
-    <pubDate>Fri, 01 Aug 2025 11:05:17 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
