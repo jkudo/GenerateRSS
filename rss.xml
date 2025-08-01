@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新電子書籍リーダーの紹介</title>
+    <link>https://example.com/article67</link>
+    <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
+    <pubDate>Fri, 01 Aug 2025 18:07:17 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
     <link>https://example.com/article21</link>
     <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
@@ -76,14 +84,6 @@
     <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
     <pubDate>Fri, 01 Aug 2025 09:08:33 GMT</pubDate>
     <author>伊藤健一</author>
-    <category>ビジネス</category>
-  </item>
-  <item>
-    <title>ビデオ会議の効率的な活用方法</title>
-    <link>https://example.com/article23</link>
-    <description>リモートワークで欠かせないビデオ会議を効率的に活用するためのコツを解説します。</description>
-    <pubDate>Fri, 01 Aug 2025 08:07:27 GMT</pubDate>
-    <author>鈴木次郎</author>
     <category>ビジネス</category>
   </item>
 </channel>
