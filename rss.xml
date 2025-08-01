@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新ビデオ編集ソフトの比較</title>
+    <link>https://example.com/article86</link>
+    <description>人気のビデオ編集ソフトを機能や使いやすさで比較します。</description>
+    <pubDate>Fri, 01 Aug 2025 00:27:57 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新テクノロジー2024: AIの進化</title>
     <link>https://example.com/article1</link>
     <description>人工知能（AI）の最新動向と今後の展望について解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 31 Jul 2025 15:06:02 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>デジタルアートの作り方</title>
-    <link>https://example.com/article70</link>
-    <description>デジタルアートを始めるための基本的なツールと技法を解説します。</description>
-    <pubDate>Thu, 31 Jul 2025 14:06:27 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>アート</category>
   </item>
 </channel>
 </rss>
