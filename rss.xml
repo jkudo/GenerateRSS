@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新音楽アルバムレビュー</title>
+    <link>https://example.com/article25</link>
+    <description>最近リリースされた注目の音楽アルバムをレビューし、その魅力をお伝えします。</description>
+    <pubDate>Fri, 01 Aug 2025 11:05:17 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>エンターテインメント</category>
+  </item>
+  <item>
     <title>効果的なソーシャルメディア戦略</title>
     <link>https://example.com/article93</link>
     <description>ソーシャルメディアを活用した効果的なマーケティング戦略を解説します。</description>
@@ -76,14 +84,6 @@
     <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
     <pubDate>Fri, 01 Aug 2025 02:52:07 GMT</pubDate>
     <author>鈴木次郎</author>
-    <category>マーケティング</category>
-  </item>
-  <item>
-    <title>デジタルマーケティングの最新動向</title>
-    <link>https://example.com/article15</link>
-    <description>デジタルマーケティングの最新トレンドと効果的な活用方法を紹介します。</description>
-    <pubDate>Fri, 01 Aug 2025 01:35:01 GMT</pubDate>
-    <author>伊藤健一</author>
     <category>マーケティング</category>
   </item>
 </channel>
