@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な食生活の提案</title>
+    <link>https://example.com/article72</link>
+    <description>環境に配慮した持続可能な食生活を実現するためのアイデアを紹介します。</description>
+    <pubDate>Fri, 01 Aug 2025 03:40:53 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>効果的なオンライン広告の手法</title>
     <link>https://example.com/article98</link>
     <description>オンライン広告を効果的に行うための手法と戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Thu, 31 Jul 2025 18:07:18 GMT</pubDate>
     <author>佐藤花子</author>
     <category>環境</category>
-  </item>
-  <item>
-    <title>最新デジタルマーケティングツール</title>
-    <link>https://example.com/article99</link>
-    <description>デジタルマーケティングを支援する最新ツールを紹介します。</description>
-    <pubDate>Thu, 31 Jul 2025 17:07:13 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>マーケティング</category>
   </item>
 </channel>
 </rss>
