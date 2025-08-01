@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>持続可能な交通手段の未来</title>
+    <link>https://example.com/article77</link>
+    <description>環境に優しい交通手段の最新動向とその未来について考察します。</description>
+    <pubDate>Fri, 01 Aug 2025 19:06:02 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>環境</category>
+  </item>
+  <item>
     <title>最新電子書籍リーダーの紹介</title>
     <link>https://example.com/article67</link>
     <description>市場に出ている最新の電子書籍リーダーを機能面から比較します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 01 Aug 2025 10:05:50 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>ホームオフィスの快適な作り方</title>
-    <link>https://example.com/article20</link>
-    <description>自宅での仕事環境を快適に整えるためのアイデアとヒントを提供します。</description>
-    <pubDate>Fri, 01 Aug 2025 09:08:33 GMT</pubDate>
-    <author>伊藤健一</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
