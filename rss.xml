@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>プログラミング言語Pythonの基礎</title>
+    <link>https://example.com/article48</link>
+    <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
+    <pubDate>Sat, 02 Aug 2025 06:06:51 GMT</pubDate>
+    <author>鈴木次郎</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>ビジネス成功のための戦略</title>
     <link>https://example.com/article5</link>
     <description>企業が成功を収めるための効果的なビジネス戦略を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 01 Aug 2025 21:05:13 GMT</pubDate>
     <author>鈴木次郎</author>
     <category>旅行</category>
-  </item>
-  <item>
-    <title>料理初心者向け簡単レシピ集</title>
-    <link>https://example.com/article7</link>
-    <description>手軽に作れる美味しい料理レシピを多数紹介します。</description>
-    <pubDate>Fri, 01 Aug 2025 20:05:44 GMT</pubDate>
-    <author>佐藤花子</author>
-    <category>料理</category>
   </item>
 </channel>
 </rss>
