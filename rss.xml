@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>オンラインショッピングの賢い利用法</title>
+    <link>https://example.com/article39</link>
+    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
+    <pubDate>Sat, 02 Aug 2025 02:40:00 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>ビジネス</category>
+  </item>
+  <item>
     <title>最新スポーツニュースまとめ</title>
     <link>https://example.com/article40</link>
     <description>最近のスポーツイベントや試合結果をまとめてお伝えします。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 01 Aug 2025 17:07:03 GMT</pubDate>
     <author>山田太郎</author>
     <category>エンターテインメント</category>
-  </item>
-  <item>
-    <title>ストレス解消法の紹介</title>
-    <link>https://example.com/article18</link>
-    <description>日常生活で取り入れられる効果的なストレス解消法を紹介します。</description>
-    <pubDate>Fri, 01 Aug 2025 16:06:35 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>健康</category>
   </item>
 </channel>
 </rss>
