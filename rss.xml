@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新バイオテクノロジーの進展</title>
+    <link>https://example.com/article94</link>
+    <description>バイオテクノロジーの最新の研究成果とその応用例を紹介します。</description>
+    <pubDate>Sat, 02 Aug 2025 12:08:11 GMT</pubDate>
+    <author>田中美咲</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>投資初心者のためのガイド</title>
     <link>https://example.com/article10</link>
     <description>これから投資を始める人向けの基本知識とアドバイスを提供します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Sat, 02 Aug 2025 03:32:08 GMT</pubDate>
     <author>佐藤花子</author>
     <category>マーケティング</category>
-  </item>
-  <item>
-    <title>オンラインショッピングの賢い利用法</title>
-    <link>https://example.com/article39</link>
-    <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
-    <pubDate>Sat, 02 Aug 2025 02:40:00 GMT</pubDate>
-    <author>田中美咲</author>
-    <category>ビジネス</category>
   </item>
 </channel>
 </rss>
