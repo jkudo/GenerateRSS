@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>スマートシティの実現に向けて</title>
+    <link>https://example.com/article100</link>
+    <description>スマートシティの概念とその実現に向けた取り組みを紹介します。</description>
+    <pubDate>Sat, 02 Aug 2025 00:23:38 GMT</pubDate>
+    <author>伊藤健一</author>
+    <category>テクノロジー</category>
+  </item>
+  <item>
     <title>最新クラウドサービス比較</title>
     <link>https://example.com/article58</link>
     <description>主要なクラウドサービスを機能や価格で比較し、最適な選択肢を提案します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 01 Aug 2025 15:05:41 GMT</pubDate>
     <author>田中美咲</author>
     <category>健康</category>
-  </item>
-  <item>
-    <title>自転車メンテナンスの基本</title>
-    <link>https://example.com/article26</link>
-    <description>自転車を長持ちさせるための基本的なメンテナンス方法を解説します。</description>
-    <pubDate>Fri, 01 Aug 2025 14:06:34 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>スポーツ</category>
   </item>
 </channel>
 </rss>
