@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>最新スポーツギアのレビュー</title>
+    <link>https://example.com/article71</link>
+    <description>最新のスポーツギアを実際に使用し、その性能をレビューします。</description>
+    <pubDate>Sat, 02 Aug 2025 07:05:31 GMT</pubDate>
+    <author>山田太郎</author>
+    <category>スポーツ</category>
+  </item>
+  <item>
     <title>プログラミング言語Pythonの基礎</title>
     <link>https://example.com/article48</link>
     <description>プログラミング初心者向けにPythonの基本的な使い方を解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 01 Aug 2025 22:05:10 GMT</pubDate>
     <author>山田太郎</author>
     <category>ファッション</category>
-  </item>
-  <item>
-    <title>東京で訪れるべき観光スポット10選</title>
-    <link>https://example.com/article3</link>
-    <description>東京で人気の観光地や隠れた名所を厳選してご紹介します。</description>
-    <pubDate>Fri, 01 Aug 2025 21:05:13 GMT</pubDate>
-    <author>鈴木次郎</author>
-    <category>旅行</category>
   </item>
 </channel>
 </rss>
