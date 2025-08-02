@@ -7,6 +7,14 @@
   <language>ja</language>
 
   <item>
+    <title>初心者向けデジタルマーケティング戦略</title>
+    <link>https://example.com/article82</link>
+    <description>デジタルマーケティングを始めたい初心者向けに、基本的な戦略を解説します。</description>
+    <pubDate>Sat, 02 Aug 2025 03:32:08 GMT</pubDate>
+    <author>佐藤花子</author>
+    <category>マーケティング</category>
+  </item>
+  <item>
     <title>オンラインショッピングの賢い利用法</title>
     <link>https://example.com/article39</link>
     <description>オンラインショッピングを安全かつ賢く利用するためのコツを解説します。</description>
@@ -77,14 +85,6 @@
     <pubDate>Fri, 01 Aug 2025 18:07:17 GMT</pubDate>
     <author>佐藤花子</author>
     <category>テクノロジー</category>
-  </item>
-  <item>
-    <title>最新ゲームレビュー: 『ファンタジークエスト』</title>
-    <link>https://example.com/article21</link>
-    <description>人気ゲーム『ファンタジークエスト』の魅力とプレイ感を詳しくレビューします。</description>
-    <pubDate>Fri, 01 Aug 2025 17:07:03 GMT</pubDate>
-    <author>山田太郎</author>
-    <category>エンターテインメント</category>
   </item>
 </channel>
 </rss>
